@@ -4,11 +4,13 @@ import Link from 'next/link';
 import type { Skill } from '@/data/types';
 import { usePrefs } from '@/lib/prefs';
 import { VisualBox } from '@/components/games/parts';
+import { animationForSkill } from '@/data/animations';
 
 /** بطاقة مهارة كبيرة سهلة اللمس */
 export function SkillCard({ skill }: { skill: Skill }) {
   const { isFavorite, toggleFavorite } = usePrefs();
   const fav = isFavorite(skill.id);
+  const hasAnimation = animationForSkill(skill) !== null;
 
   return (
     <div className="relative flex flex-col rounded-xl2 border border-paper-line bg-paper-card p-4 shadow-soft transition hover:shadow-lift">
@@ -27,6 +29,11 @@ export function SkillCard({ skill }: { skill: Skill }) {
           <VisualBox visual={skill.icon} size="lg" />
         </span>
         <span className="text-child-base font-bold text-ink">{skill.childFriendlyTitle}</span>
+        {hasAnimation && (
+          <span className="inline-flex items-center gap-1 rounded-xl2 bg-grape-50 px-3 py-1 text-xs font-semibold text-grape-700">
+            <span aria-hidden>🎬</span> حركة توضيحية
+          </span>
+        )}
         <span className="text-sm text-ink-mute">{skill.childFriendlyInstruction}</span>
         <span className="mt-auto inline-flex min-h-touch items-center gap-2 rounded-xl2 bg-sky-100 px-5 text-child-sm font-bold text-sky-800">
           هيا نتعلم <span aria-hidden>←</span>

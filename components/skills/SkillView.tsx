@@ -7,6 +7,8 @@ import { GameEngine } from '@/components/games/GameEngine';
 import { VisualBox, AudioButton } from '@/components/games/parts';
 import { SupervisorPanel } from './SupervisorPanel';
 import { audioService } from '@/lib/audio/service';
+import { StepAnimator } from '@/components/animations/StepAnimator';
+import { animationForSkill } from '@/data/animations';
 import { usePrefs } from '@/lib/prefs';
 
 type StageId = 'watch' | 'listen' | 'learn' | 'play' | 'real';
@@ -29,6 +31,7 @@ export function SkillView({ skill }: { skill: Skill }) {
     markVisited(skill.id);
   }, [skill.id, markVisited]);
 
+  const animation = animationForSkill(skill);
   const games = skill.activities.filter((a) => a.type !== 'explore');
   const explore = skill.activities.find((a) => a.type === 'explore');
   const current = games[gameIndex];
@@ -43,6 +46,11 @@ export function SkillView({ skill }: { skill: Skill }) {
             <div>
               <h1 className="font-display text-child-xl font-bold text-ink">{skill.childFriendlyTitle}</h1>
               <p className="text-child-sm text-ink-soft">{skill.childFriendlyInstruction}</p>
+              {animation && (
+                <p className="mt-1 inline-flex items-center gap-1 rounded-xl2 bg-grape-50 px-3 py-1 text-sm font-semibold text-grape-700">
+                  <span aria-hidden>🎬</span> فيها حركة توضيحية
+                </p>
+              )}
             </div>
           </div>
           <div className="flex items-center gap-3">
@@ -89,6 +97,7 @@ export function SkillView({ skill }: { skill: Skill }) {
 
       {stage === 'watch' && (
         <section className="space-y-4 rounded-xl2 bg-paper-card p-6 text-center shadow-soft">
+          {animation && <StepAnimator animation={animation} />}
           <p className="text-child-base text-ink">
             <span aria-hidden>👀 </span>
             انظر إلى الصورة، واضغط عليها لتسمع الاسم:

@@ -110,3 +110,78 @@ h3,
     margin: 14mm;
   }
 }
+
+/* ————————————————————————————————————————————————
+   حركات المشاهد التوضيحية 🎬 (الوضع الهادئ و«تقليل الحركة» يوقفانها تلقائياً)
+   الحركة لطيفة وبطيئة: قطرات ماء، فقاعات، عجين، مسح، لمعان. لا وميض ولا سرعة.
+   ———————————————————————————————————————————————— */
+@keyframes kw-drop {
+  0% { transform: translateY(-8px); opacity: 0; }
+  25% { opacity: 0.9; }
+  100% { transform: translateY(26px); opacity: 0; }
+}
+@keyframes kw-bubble {
+  0% { transform: translateY(0) scale(0.7); opacity: 0; }
+  40% { opacity: 0.95; }
+  100% { transform: translateY(-26px) scale(1.05); opacity: 0; }
+}
+@keyframes kw-squash {
+  0%, 100% { transform: scaleY(1) scaleX(1); }
+  50% { transform: scaleY(0.88) scaleX(1.05); }
+}
+@keyframes kw-sway {
+  0%, 100% { transform: rotate(-5deg); }
+  50% { transform: rotate(5deg); }
+}
+@keyframes kw-slide {
+  0% { transform: translateX(0); }
+  55% { transform: translateX(-26px); }
+  100% { transform: translateX(0); }
+}
+@keyframes kw-wipe {
+  0% { transform: translateY(-14px); }
+  50% { transform: translateY(16px); }
+  100% { transform: translateY(-14px); }
+}
+@keyframes kw-sparkle {
+  0% { opacity: 0.15; transform: scale(0.85); }
+  50% { opacity: 1; transform: scale(1.1); }
+  100% { opacity: 0.15; transform: scale(0.85); }
+}
+@keyframes kw-frame-in {
+  0% { opacity: 0; transform: translateY(6px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+.kw-drop,
+.kw-bubble,
+.kw-squash,
+.kw-sway,
+.kw-slide,
+.kw-wipe,
+.kw-sparkle,
+.kw-frame {
+  transform-box: fill-box;
+  transform-origin: center;
+}
+.kw-drop { animation: kw-drop 1.6s ease-in infinite; }
+.kw-bubble { animation: kw-bubble 2.2s ease-out infinite; }
+.kw-squash { animation: kw-squash 1.9s ease-in-out infinite; }
+.kw-sway { animation: kw-sway 2.6s ease-in-out infinite; }
+.kw-slide { animation: kw-slide 2.4s ease-in-out infinite; }
+.kw-wipe { animation: kw-wipe 2.2s ease-in-out infinite; }
+.kw-sparkle { animation: kw-sparkle 2.4s ease-in-out infinite; }
+.kw-frame { animation: kw-frame-in 320ms ease-out both; }
+
+/* عند الطباعة: بلا حركة، والخطوة الحالية فقط هي المهمة */
+@media print {
+  .kw-drop,
+  .kw-bubble,
+  .kw-squash,
+  .kw-sway,
+  .kw-slide,
+  .kw-wipe,
+  .kw-sparkle {
+    animation: none !important;
+  }
+}

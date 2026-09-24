@@ -68,21 +68,11 @@ export function SearchResults() {
 
   return (
     <div className="space-y-8">
-      <header className="rounded-xl3 bg-paper-card p-6 shadow-soft md:p-8">
-        <h1 className="font-display text-3xl font-bold text-ink">
-          {q ? `نتائج البحث عن: «${q}»` : 'ابحث عن مهارة'}
-        </h1>
-        <p className="mt-2 text-child-base text-ink-soft">
-          {q
-            ? rows
-              ? `عدد النتائج: ${results.length}`
-              : '… جارٍ التحميل'
-            : 'اكتب كلمة في مربع البحث في الأعلى — مثال: «أسنان»، «ملعقة»، «أرقام».'}
+      {q && (
+        <p aria-live="polite" className="rounded-xl2 bg-mint-50 px-4 py-3 text-center text-child-base font-semibold text-mint-700">
+          {rows ? `نتائج البحث عن «${q}»: ${results.length}` : `… جارٍ البحث عن «${q}»`}
         </p>
-        <p className="mt-2 text-sm text-ink-mute">
-          يبحث الموقع في: النص الأصلي للاستمارة، عناوين المهارات المبسطة، والكلمات المفتاحية.
-        </p>
-      </header>
+      )}
 
       {failed && (
         <div className="rounded-xl2 bg-sun-50 p-6 text-child-base text-sun-700">

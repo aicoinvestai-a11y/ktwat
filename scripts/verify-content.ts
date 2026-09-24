@@ -20,6 +20,8 @@ import { allSourceItems, sourceById } from '../data/source/inventory';
 import { CATEGORIES, DOMAINS } from '../data/taxonomy';
 import { ENV_SOUNDS, QURAN_SURAHS, quranSrc } from '../lib/audio/library';
 import { BOARD_GROUPS } from '../data/board';
+import { ANIMATIONS, animatedSkills, animationByKey } from '../data/animations';
+import { SCENES } from '../components/animations/scenes';
 import { PICTOGRAMS } from '../components/illustrations/Pictograms';
 import imageLicenses from '../data/image-licenses.json';
 import { PHRASES } from '../lib/audio/phrases';
@@ -550,11 +552,46 @@ for (const c of CATEGORIES) {
   if (!allSkills.some((s) => s.category === c.id)) fail(`قسم بلا مهارات: ${c.id}`);
 }
 
+
+/* 8ط) الحركات التوضيحية 🎬: تعريفات سليمة، ومشاهد موجودة، ومهارات مربوطة فعلاً */
+{
+  const keys = ANIMATIONS.map((a) => a.key);
+  if (keys.length !== new Set(keys).size) fail('معرّفات حركات توضيحية مكرّرة');
+  const sceneKeys = new Set(Object.keys(SCENES));
+  for (const a of ANIMATIONS) {
+    if (a.steps.length < 3) fail(`حركة بأقل من ٣ خطوات: ${a.key} (${a.steps.length})`);
+    for (const st of a.steps) {
+      if (!st.caption?.trim()) fail(`خطوة بلا جملة في الحركة: ${a.key}`);
+      if (!/[\u0600-\u06FF]/.test(st.caption)) fail(`جملة خطوة بلا حروف عربية في الحركة: ${a.key}`);
+    }
+    if (!sceneKeys.has(a.key)) fail(`لا يوجد مشهد مرسوم للحركة: ${a.key} — أضفه في components/animations/scenes.tsx`);
+    for (const id of a.skillIds ?? []) {
+      if (!allSkills.some((s) => s.id === id)) fail(`حركة "${a.key}" تشير إلى مهارة غير موجودة: ${id}`);
+    }
+  }
+  const mapped = animatedSkills(allSkills);
+  if (mapped.length < ANIMATIONS.length) fail(`عدد المهارات المرتبطة بحركات (${mapped.length}) أقل من عدد الحركات (${ANIMATIONS.length})`);
+  const unused = ANIMATIONS.filter((a) => !mapped.some((m) => m.animation.key === a.key));
+  if (unused.length) fail(`حركات بلا أي مهارة مرتبطة: ${unused.map((a) => a.key).join('، ')}`);
+  const safetyMismatch = mapped.filter((m) => m.animation.safetySensitive && !m.skill.supervisorRequired && !m.animation.supervised);
+  if (safetyMismatch.length) note(`${safetyMismatch.length} مهارة حساسة للسلامة لها حركة بلا تنبيه إشراف`);
+  if (animationByKey['cross'] && !/محاكاة/.test(animationByKey['cross'].note ?? '')) {
+    fail('حركة عبور الشارع بلا تنبيه «محاكاة فقط» — شرط سلامة ملزم');
+  }
+}
+
 /* التقرير */
 console.log('\n=== فحص المحتوى ===');
 console.log(`بنود المصدر: ${allSourceItems.length} • المهارات: ${allSkills.length}`);
 console.log(`ملفات صوت البيئة: ${Object.keys(ENV_SOUNDS).length} • التلاوات: ${QURAN_SURAHS.length}`);
 console.log(`بطاقات لوحة التواصل: ${BOARD_GROUPS.reduce((n, g) => n + g.cards.length, 0)}`);
+
+const animatedReport = animatedSkills(allSkills);
+console.log(
+  `الحركات التوضيحية: ${ANIMATIONS.length} حركة بـ${ANIMATIONS.reduce((n, a) => n + a.steps.length, 0)} خطوة` +
+    ` • مهارات لها حركة: ${animatedReport.length}` +
+    ` • حركات حساسة للسلامة: ${ANIMATIONS.filter((a) => a.safetySensitive).length}`,
+);
 console.log(`رسوم أصلية: ${Object.keys(PICTOGRAMS).length} • صور حقيقية موثّقة: ${Object.keys(imageLicenses.items).length}`);
 console.log(
   `جمل صوتية في القائمة: ${voiceManifest.counts.total} • مسجّلة: ${voiceManifest.counts.recorded} (docs/voice-lines.md)` +
