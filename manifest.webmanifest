@@ -1,0 +1,21 @@
+{
+  "name": "خطوتي — عالم تعليمي تفاعلي",
+  "short_name": "خطوتي",
+  "description": "عالم تفاعلي لتنمية المهارات خطوة بخطوة — بدون تسجيل وبدون جمع بيانات.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/ktwat/",
+  "scope": "/ktwat/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fbfaf7",
+  "theme_color": "#fbfaf7",
+  "icons": [
+    {
+      "src": "/ktwat/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
