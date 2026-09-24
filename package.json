@@ -20,7 +20,10 @@
     "voice-restore": "tsx scripts/restore-voice.ts",
     "pack": "tsx scripts/pack.ts",
     "review-pages": "python3 scripts/render-source-pages.py",
-    "a11y": "python3 scripts/a11y-audit.py"
+    "a11y": "python3 scripts/a11y-audit.py",
+    "export:static": "tsx scripts/build-search-index.ts && STATIC_EXPORT=1 next build && node scripts/finish-export.mjs",
+    "search-index": "tsx scripts/build-search-index.ts",
+    "export:pages": "tsx scripts/build-search-index.ts && STATIC_EXPORT=1 NEXT_PUBLIC_BASE_PATH=/ktwat next build && NEXT_PUBLIC_BASE_PATH=/ktwat node scripts/finish-export.mjs"
   },
   "dependencies": {
     "next": "14.2.35",
