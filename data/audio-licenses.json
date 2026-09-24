@@ -1,0 +1,154 @@
+{
+  "note": "توثيق تراخيص كل ملف صوتي في الموقع. لا يُضاف أي صوت جديد قبل تسجيله هنا. التواريخ بصيغة YYYY-MM-DD.",
+  "documentedAt": "2026-09-23",
+  "environmentSounds": [
+    {
+      "key": "ambulance",
+      "localFile": "/audio/env/ambulance.wav",
+      "label": "سيارة إسعاف",
+      "originalTitle": "File:Ambulance Sounds2.wav",
+      "author": "Demircimehmed",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ambulance_Sounds2.wav",
+      "changes": "تحويل إلى WAV أحادي مبسّط لتقليل الحجم مع الحفاظ على الصوت • معايرة الجَهارة المسموعة إلى −18 LUFS بحدّ ذروة −2 dBTP (كسب وحدّ ذروة فقط، بلا ضغط وبلا تقليص صمت) — 2026-09-24"
+    },
+    {
+      "key": "car-horn",
+      "localFile": "/audio/env/car-horn.wav",
+      "label": "منبّه سيارة",
+      "originalTitle": "File:Car Horn.wav",
+      "author": "15HPanska_Ruttner_Jan (Freesound)",
+      "license": "CC0 1.0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Car_Horn.wav",
+      "changes": "تحويل إلى WAV أحادي مبسّط لتقليل الحجم • معايرة الجَهارة المسموعة إلى −18 LUFS بحدّ ذروة −2 dBTP (كسب وحدّ ذروة فقط، بلا ضغط وبلا تقليص صمت) — 2026-09-24"
+    },
+    {
+      "key": "plane",
+      "localFile": "/audio/env/plane.wav",
+      "label": "طائرة",
+      "originalTitle": "File:428086 inspectorj airplane-boeing-flyby-right-to-left-a.wav",
+      "author": "InspectorJ (Freesound)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:428086_inspectorj_airplane-boeing-flyby-right-to-left-a.wav",
+      "changes": "تحويل إلى WAV أحادي مبسّط لتقليل الحجم • معايرة الجَهارة المسموعة إلى −18 LUFS بحدّ ذروة −2 dBTP (كسب وحدّ ذروة فقط، بلا ضغط وبلا تقليص صمت) — 2026-09-24"
+    },
+    {
+      "key": "dog",
+      "localFile": "/audio/env/dog.ogg",
+      "label": "كلب",
+      "originalTitle": "File:Barking of a dog.ogg",
+      "author": "Amada44",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barking_of_a_dog.ogg",
+      "changes": "بدون تعديل • معايرة الجَهارة المسموعة إلى −18 LUFS بحدّ ذروة −2 dBTP (كسب وحدّ ذروة فقط، بلا ضغط وبلا تقليص صمت) — 2026-09-24"
+    },
+    {
+      "key": "cat",
+      "localFile": "/audio/env/cat.wav",
+      "label": "قطة",
+      "originalTitle": "File:Meow of a Siamese cat - freemaster2.wav",
+      "author": "freemaster2 (Freesound)",
+      "license": "CC0 1.0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meow_of_a_Siamese_cat_-_freemaster2.wav",
+      "changes": "استُبدل ملف سابق كان بترخيص GFDL بهذا الملف الأبسط ترخيصاً (CC0) • معايرة الجَهارة المسموعة إلى −18 LUFS بحدّ ذروة −2 dBTP (كسب وحدّ ذروة فقط، بلا ضغط وبلا تقليص صمت) — 2026-09-24"
+    },
+    {
+      "key": "cow",
+      "localFile": "/audio/env/cow.ogg",
+      "label": "بقرة",
+      "originalTitle": "File:Single Cow Moo.ogg",
+      "author": "MichaeltheFox8621",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Single_Cow_Moo.ogg",
+      "changes": "بدون تعديل • معايرة الجَهارة المسموعة إلى −18 LUFS بحدّ ذروة −2 dBTP (كسب وحدّ ذروة فقط، بلا ضغط وبلا تقليص صمت) — 2026-09-24"
+    },
+    {
+      "key": "horse",
+      "localFile": "/audio/env/horse.ogg",
+      "label": "حصان",
+      "originalTitle": "File:Wiehern.ogg",
+      "author": "Hü",
+      "license": "ملكية عامة (Public domain)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_rules",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wiehern.ogg",
+      "changes": "بدون تعديل • معايرة الجَهارة المسموعة إلى −18 LUFS بحدّ ذروة −2 dBTP (كسب وحدّ ذروة فقط، بلا ضغط وبلا تقليص صمت) — 2026-09-24"
+    },
+    {
+      "key": "sheep",
+      "localFile": "/audio/env/sheep.ogg",
+      "label": "خروف",
+      "originalTitle": "File:Mudchute sheep 1.ogg",
+      "author": "Secretlondon",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mudchute_sheep_1.ogg",
+      "changes": "بدون تعديل • معايرة الجَهارة المسموعة إلى −18 LUFS بحدّ ذروة −2 dBTP (كسب وحدّ ذروة فقط، بلا ضغط وبلا تقليص صمت) — 2026-09-24"
+    },
+    {
+      "key": "rooster",
+      "localFile": "/audio/env/rooster.ogg",
+      "label": "ديك",
+      "originalTitle": "File:Rooster crowing.ogg",
+      "author": "Filo gèn'",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rooster_crowing.ogg",
+      "changes": "بدون تعديل • معايرة الجَهارة المسموعة إلى −18 LUFS بحدّ ذروة −2 dBTP (كسب وحدّ ذروة فقط، بلا ضغط وبلا تقليص صمت) — 2026-09-24"
+    },
+    {
+      "key": "birds",
+      "localFile": "/audio/env/birds.ogg",
+      "label": "تغريد الطيور",
+      "originalTitle": "File:Birds singing in garden.ogg",
+      "author": "ezwa (PDSounds)",
+      "license": "ملكية عامة (Public domain)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Copyright_rules",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birds_singing_in_garden.ogg",
+      "changes": "بدون تعديل • معايرة الجَهارة المسموعة إلى −18 LUFS بحدّ ذروة −2 dBTP (كسب وحدّ ذروة فقط، بلا ضغط وبلا تقليص صمت) — 2026-09-24"
+    }
+  ],
+  "quranRecitations": {
+    "reciter": "الشيخ مشاري راشد العفاسي",
+    "source": "خدمة «القرآن كلاود» السحابية — رواية حفص عن عاصم",
+    "sourceUrl": "https://cdn.islamic.network/quran/audio-surah/128/ar.alafasy/",
+    "scriptSource": "خدمة «القرآن كلاود» — نص المصحف بالرسم العثماني",
+    "scriptSourceUrl": "https://api.alquran.cloud/v1/surah/",
+    "surahs": [
+      1,
+      103,
+      105,
+      106,
+      107,
+      108,
+      110,
+      112,
+      113,
+      114
+    ],
+    "reviewNote": "التلاوات والنصوص مأخوذة من مصدرين متخصصين. مطلوب مراجعة بشرية موثوقة للنص قبل الاستخدام التعليمي الموسّع، والتحقق من شروط الاستخدام قبل أي استخدام تجاري. لا يُستخدم أي نطق آلي  للقرآن.",
+    "reviewStatus": "needs-human-review",
+    "scriptSourceTechnical": "AlQuran Cloud API — quran-uthmani",
+    "changes": "معايرة الجَهارة المسموعة إلى −16 LUFS بحدّ ذروة −1.5 dBTP بكسب وحدّ ذروة فقط؛ بلا ضغط وبلا تقليص صمت وبلا أي تغيير في التلاوة نفسها — 2026-09-24"
+  },
+  "textToSpeech": {
+    "engine": "نطق آلي عربي (خدمة نطق عامة عبر نقطة TTS) لتوليد ملفات الجمل المسجّلة مسبقاً",
+    "usage": "النصوص التعليمية المبسطة فقط — ممنوع للقرآن أو النصوص الشرعية (تلاوات القرآن تسجيلات حقيقية)",
+    "replaceable": true,
+    "recordedSentences": {
+      "count": 808,
+      "folder": "/audio/voice/",
+      "generatedAt": "2026-09-24",
+      "calibration": "كل جملة معايَرة على −15 LUFS بحدّ ذروة −1.5 dBTP",
+      "spokenTextRules": "الأرقام تُنطق كلمات، والصلاة على النبي تُنطق كاملة، والرموز تُوصف وصفاً لفظياً",
+      "regenerate": "npm run voice-restore لإعادة التوليد بنفس النصوص، أو npm run voice-record -- --force بمزوّد خاص (ELEVENLABS_API_KEY / OPENAI_API_KEY / TTS_ENDPOINT) لتسجيلات بشرية",
+      "incident": "docs/voice-incident.md"
+    },
+    "browserFallback": "Web Speech API في متصفح المستخدم للجمل بلا تسجيل (لا يُرسل النص إلى أي سيرفر)، ولا يُنطق نص عربي بصوت أعجمي إطلاقاً"
+  }
+}

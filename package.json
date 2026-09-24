@@ -1,0 +1,42 @@
+{
+  "name": "khatwati",
+  "version": "1.0.0",
+  "private": true,
+  "description": "خطوتي — عالم تعليمي وتدريبي تفاعلي عربي (بدون تسجيل، بدون جمع بيانات)",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0 -p 3000",
+    "build": "next build",
+    "start": "next start -H 0.0.0.0 -p 3000",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "coverage": "tsx scripts/coverage.ts",
+    "verify": "tsx scripts/verify-content.ts",
+    "report": "tsx scripts/report.ts",
+    "review-sheet": "tsx scripts/review-sheet.ts",
+    "voice-manifest": "tsx scripts/voice-manifest.ts",
+    "voice-record": "tsx scripts/record-voice.ts",
+    "voice-normalize": "tsx scripts/normalize-voice.ts",
+    "voice-all": "npm run voice-record && npm run voice-normalize && npm run voice-manifest",
+    "voice-restore": "tsx scripts/restore-voice.ts",
+    "pack": "tsx scripts/pack.ts",
+    "review-pages": "python3 scripts/render-source-pages.py",
+    "a11y": "python3 scripts/a11y-audit.py"
+  },
+  "dependencies": {
+    "next": "14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.10",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "autoprefixer": "10.4.20",
+    "ffmpeg-static": "^5.3.0",
+    "postcss": "8.4.47",
+    "sharp": "^0.35.4",
+    "tailwindcss": "3.4.13",
+    "tsx": "4.19.1",
+    "typescript": "5.6.2"
+  }
+}

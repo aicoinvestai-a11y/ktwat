@@ -1,0 +1,18 @@
+# تبعيات وبناء Next.js
+/node_modules
+/.next
+/out
+/build
+/coverage
+*.tsbuildinfo
+next-env.d.ts
+
+# حزم النقل والملفات المؤقتة
+*.tar.gz
+*.zip
+.DS_Store
+*.log
+
+# بيئة التشغيل (لا أسرار في المشروع، لكن نمنع أي إضافة مستقبلية)
+.env
+.env.*

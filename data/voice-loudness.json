@@ -1,0 +1,8087 @@
+{
+  "note": "قياسات الجَهارة المسموعة بعد المعايرة — يُولَّد بـnpm run voice-normalize ويقرأه npm run verify.",
+  "level": -15,
+  "peakCeiling": -1.5,
+  "targets": {
+    "12331537": {
+      "before": -12.4,
+      "beforePeak": -5,
+      "after": -10.7,
+      "afterPeak": -3.5,
+      "gainDb": 1.9,
+      "seconds": 3.28,
+      "bytes": 53541,
+      "perceived": -15
+    },
+    "13865611": {
+      "before": -13.5,
+      "beforePeak": -6.3,
+      "after": -11.4,
+      "afterPeak": -4.3,
+      "gainDb": 2.5,
+      "seconds": 2.36,
+      "bytes": 38913,
+      "perceived": -15
+    },
+    "25550833": {
+      "before": -13.3,
+      "beforePeak": -5.9,
+      "after": -11,
+      "afterPeak": -3.5,
+      "gainDb": 2.9,
+      "seconds": 1.45,
+      "bytes": 24284,
+      "perceived": -15
+    },
+    "27756828": {
+      "before": -13,
+      "beforePeak": -1.6,
+      "after": -13.3,
+      "afterPeak": -2.1,
+      "gainDb": 0,
+      "seconds": 2.38,
+      "bytes": 39331,
+      "perceived": -15.1
+    },
+    "30514404": {
+      "before": -13.4,
+      "beforePeak": -5.7,
+      "after": -11,
+      "afterPeak": -3.3,
+      "gainDb": 2.8,
+      "seconds": 2.18,
+      "bytes": 35987,
+      "perceived": -15
+    },
+    "30992901": {
+      "before": -14.3,
+      "beforePeak": -6.2,
+      "after": -10.6,
+      "afterPeak": -2.4,
+      "gainDb": 4.2,
+      "seconds": 2.18,
+      "bytes": 35987,
+      "perceived": -15
+    },
+    "46988206": {
+      "before": -12.9,
+      "beforePeak": -0.8,
+      "after": -13.4,
+      "afterPeak": -1.9,
+      "gainDb": 0,
+      "seconds": 0.99,
+      "bytes": 16761,
+      "perceived": -15.4
+    },
+    "52492155": {
+      "before": -13.1,
+      "beforePeak": -6.3,
+      "after": -11,
+      "afterPeak": -4.1,
+      "gainDb": 2.6,
+      "seconds": 2.45,
+      "bytes": 40167,
+      "perceived": -15
+    },
+    "70582341": {
+      "before": -12,
+      "beforePeak": -4.8,
+      "after": -10.9,
+      "afterPeak": -3.4,
+      "gainDb": 1.9,
+      "seconds": 3.59,
+      "bytes": 58557,
+      "perceived": -15
+    },
+    "74391394": {
+      "before": -13.3,
+      "beforePeak": -5.8,
+      "after": -9.1,
+      "afterPeak": -1.9,
+      "gainDb": 4.7,
+      "seconds": 2.31,
+      "bytes": 38077,
+      "perceived": -15
+    },
+    "74707670": {
+      "before": -12.9,
+      "beforePeak": -5.4,
+      "after": -10.9,
+      "afterPeak": -3.5,
+      "gainDb": 2.4,
+      "seconds": 1.78,
+      "bytes": 29718,
+      "perceived": -15
+    },
+    "0102b3e7": {
+      "before": -13.7,
+      "beforePeak": -5.4,
+      "after": -11.1,
+      "afterPeak": -3,
+      "gainDb": 2.9,
+      "seconds": 2.87,
+      "bytes": 47272,
+      "perceived": -15
+    },
+    "01628708": {
+      "before": -13.3,
+      "beforePeak": -6.5,
+      "after": -11.2,
+      "afterPeak": -4.4,
+      "gainDb": 2.6,
+      "seconds": 2.64,
+      "bytes": 43510,
+      "perceived": -15
+    },
+    "0184d8af": {
+      "before": -12.1,
+      "beforePeak": -5.1,
+      "after": -10.6,
+      "afterPeak": -3.5,
+      "gainDb": 2.1,
+      "seconds": 3.94,
+      "bytes": 64408,
+      "perceived": -15
+    },
+    "02d87f4c": {
+      "before": -12.1,
+      "beforePeak": -6.1,
+      "after": -9.8,
+      "afterPeak": -3.8,
+      "gainDb": 2.8,
+      "seconds": 1.58,
+      "bytes": 26374,
+      "perceived": -15
+    },
+    "0324343b": {
+      "before": -14.3,
+      "beforePeak": -7,
+      "after": -10.3,
+      "afterPeak": -2.9,
+      "gainDb": 4.6,
+      "seconds": 2.08,
+      "bytes": 34315,
+      "perceived": -15
+    },
+    "0326affa": {
+      "before": -12.5,
+      "beforePeak": -6,
+      "after": -10.8,
+      "afterPeak": -4.3,
+      "gainDb": 2.2,
+      "seconds": 3.82,
+      "bytes": 62318,
+      "perceived": -15
+    },
+    "0359e775": {
+      "before": -14.4,
+      "beforePeak": -6.6,
+      "after": -10.6,
+      "afterPeak": -2.8,
+      "gainDb": 4.2,
+      "seconds": 2.21,
+      "bytes": 36405,
+      "perceived": -15
+    },
+    "03926d7f": {
+      "before": -12.3,
+      "beforePeak": -4.1,
+      "after": -11.1,
+      "afterPeak": -3.1,
+      "gainDb": 1.4,
+      "seconds": 1.89,
+      "bytes": 31390,
+      "perceived": -15
+    },
+    "0419bd1a": {
+      "before": -12.8,
+      "beforePeak": -4.7,
+      "after": -11.7,
+      "afterPeak": -3.5,
+      "gainDb": 1.6,
+      "seconds": 1.28,
+      "bytes": 21776,
+      "perceived": -15
+    },
+    "05a477f3": {
+      "before": -12.3,
+      "beforePeak": 0,
+      "after": -12.7,
+      "afterPeak": -1.9,
+      "gainDb": 0,
+      "seconds": 1.62,
+      "bytes": 26792,
+      "perceived": -14.7
+    },
+    "06103610": {
+      "before": -14.2,
+      "beforePeak": -6.5,
+      "after": -10.5,
+      "afterPeak": -2.9,
+      "gainDb": 4,
+      "seconds": 2.41,
+      "bytes": 39749,
+      "perceived": -15
+    },
+    "09d6691f": {
+      "before": -13.4,
+      "beforePeak": -6.1,
+      "after": -10.9,
+      "afterPeak": -3.4,
+      "gainDb": 3.1,
+      "seconds": 2.02,
+      "bytes": 33479,
+      "perceived": -15
+    },
+    "0a22cf3e": {
+      "before": -12.8,
+      "beforePeak": -1.4,
+      "after": -13.2,
+      "afterPeak": -2,
+      "gainDb": 0,
+      "seconds": 0.83,
+      "bytes": 14253,
+      "perceived": -15.3
+    },
+    "0b00713e": {
+      "before": -13.8,
+      "beforePeak": -6.6,
+      "after": -10.7,
+      "afterPeak": -3.6,
+      "gainDb": 3.5,
+      "seconds": 3.18,
+      "bytes": 51870,
+      "perceived": -15
+    },
+    "0bbdeeee": {
+      "before": -12.5,
+      "beforePeak": -6.3,
+      "after": -10.8,
+      "afterPeak": -4.4,
+      "gainDb": 2.3,
+      "seconds": 5.03,
+      "bytes": 81545,
+      "perceived": -15
+    },
+    "0d640ab6": {
+      "before": -12.5,
+      "beforePeak": -2.1,
+      "after": -13.1,
+      "afterPeak": -2.5,
+      "gainDb": 0,
+      "seconds": 1.72,
+      "bytes": 28464,
+      "perceived": -14.7
+    },
+    "0f5f4a75": {
+      "before": -13.6,
+      "beforePeak": -6.1,
+      "after": -11.1,
+      "afterPeak": -3.6,
+      "gainDb": 3,
+      "seconds": 0.85,
+      "bytes": 14671,
+      "perceived": -15
+    },
+    "0fe46b81": {
+      "before": -12.5,
+      "beforePeak": -6.2,
+      "after": -9.8,
+      "afterPeak": -3.5,
+      "gainDb": 3.2,
+      "seconds": 2.81,
+      "bytes": 46018,
+      "perceived": -15
+    },
+    "0ffb14ef": {
+      "before": -13,
+      "beforePeak": -6.4,
+      "after": -11.7,
+      "afterPeak": -5.1,
+      "gainDb": 1.7,
+      "seconds": 2.55,
+      "bytes": 41838,
+      "perceived": -15
+    },
+    "10f35bea": {
+      "before": -12.1,
+      "beforePeak": -6.7,
+      "after": -12.5,
+      "afterPeak": -7.1,
+      "gainDb": 0,
+      "seconds": 1.92,
+      "bytes": 31807,
+      "perceived": -15.6
+    },
+    "10f8344a": {
+      "before": -12.4,
+      "beforePeak": -3.7,
+      "after": -11.9,
+      "afterPeak": -3.2,
+      "gainDb": 1,
+      "seconds": 2.39,
+      "bytes": 39331,
+      "perceived": -15
+    },
+    "11ce2907": {
+      "before": -13.6,
+      "beforePeak": -6.3,
+      "after": -11,
+      "afterPeak": -3.7,
+      "gainDb": 3,
+      "seconds": 3.04,
+      "bytes": 49780,
+      "perceived": -15
+    },
+    "11d06839": {
+      "before": -12.1,
+      "beforePeak": -0.4,
+      "after": -12.5,
+      "afterPeak": -2,
+      "gainDb": 0,
+      "seconds": 1.33,
+      "bytes": 22194,
+      "perceived": -14.4
+    },
+    "12b6ab1d": {
+      "before": -13.5,
+      "beforePeak": -5.1,
+      "after": -11.6,
+      "afterPeak": -3.2,
+      "gainDb": 2.3,
+      "seconds": 0.74,
+      "bytes": 12999,
+      "perceived": -15.1
+    },
+    "1541aae6": {
+      "before": -12.8,
+      "beforePeak": -6,
+      "after": -10.6,
+      "afterPeak": -3.8,
+      "gainDb": 2.6,
+      "seconds": 3.05,
+      "bytes": 49780,
+      "perceived": -15
+    },
+    "15ce2289": {
+      "before": -13.5,
+      "beforePeak": -6.5,
+      "after": -11.2,
+      "afterPeak": -4.2,
+      "gainDb": 2.8,
+      "seconds": 3.13,
+      "bytes": 51452,
+      "perceived": -15
+    },
+    "17ef5d47": {
+      "before": -12.7,
+      "beforePeak": -6.9,
+      "after": -11.1,
+      "afterPeak": -5.4,
+      "gainDb": 2,
+      "seconds": 1.66,
+      "bytes": 27628,
+      "perceived": -15
+    },
+    "194f81ea": {
+      "before": -13.6,
+      "beforePeak": -6.6,
+      "after": -11.1,
+      "afterPeak": -4,
+      "gainDb": 3,
+      "seconds": 1.96,
+      "bytes": 32643,
+      "perceived": -15
+    },
+    "1acdecde": {
+      "before": -12,
+      "beforePeak": -6.6,
+      "after": -10.1,
+      "afterPeak": -4.2,
+      "gainDb": 2.8,
+      "seconds": 1.12,
+      "bytes": 19269,
+      "perceived": -15
+    },
+    "1aefcb34": {
+      "before": -12.9,
+      "beforePeak": -3.2,
+      "after": -13.3,
+      "afterPeak": -3.6,
+      "gainDb": 0,
+      "seconds": 0.7,
+      "bytes": 12163,
+      "perceived": -15.6
+    },
+    "1b197fdc": {
+      "before": -13.5,
+      "beforePeak": -5.4,
+      "after": -10.3,
+      "afterPeak": -2.1,
+      "gainDb": 3.7,
+      "seconds": 5.04,
+      "bytes": 81545,
+      "perceived": -15
+    },
+    "1b39bef0": {
+      "before": -13.2,
+      "beforePeak": -7.2,
+      "after": -12.1,
+      "afterPeak": -6.1,
+      "gainDb": 1.5,
+      "seconds": 1.98,
+      "bytes": 33061,
+      "perceived": -15
+    },
+    "1bee8b1b": {
+      "before": -13.2,
+      "beforePeak": 0,
+      "after": -13.5,
+      "afterPeak": -2,
+      "gainDb": 0,
+      "seconds": 0.96,
+      "bytes": 16343,
+      "perceived": -15.2
+    },
+    "1c61f358": {
+      "before": -12.5,
+      "beforePeak": -6.1,
+      "after": -10.6,
+      "afterPeak": -4.3,
+      "gainDb": 2.2,
+      "seconds": 4.11,
+      "bytes": 66916,
+      "perceived": -15
+    },
+    "1cd56502": {
+      "before": -13.5,
+      "beforePeak": -5.4,
+      "after": -10.2,
+      "afterPeak": -1.9,
+      "gainDb": 4.1,
+      "seconds": 1.84,
+      "bytes": 30554,
+      "perceived": -15
+    },
+    "1d2c9575": {
+      "before": -12.3,
+      "beforePeak": -6.6,
+      "after": -10.6,
+      "afterPeak": -4.9,
+      "gainDb": 2.1,
+      "seconds": 3.9,
+      "bytes": 63572,
+      "perceived": -15
+    },
+    "1df6cbac": {
+      "before": -12.8,
+      "beforePeak": 0,
+      "after": -13.2,
+      "afterPeak": -1.8,
+      "gainDb": 0,
+      "seconds": 1.56,
+      "bytes": 25956,
+      "perceived": -15.1
+    },
+    "1e1003fd": {
+      "before": -13,
+      "beforePeak": 0,
+      "after": -13.6,
+      "afterPeak": -1.8,
+      "gainDb": 0,
+      "seconds": 1.25,
+      "bytes": 20941,
+      "perceived": -15.1
+    },
+    "215043c6": {
+      "before": -12.9,
+      "beforePeak": -7,
+      "after": -11.5,
+      "afterPeak": -5.5,
+      "gainDb": 2,
+      "seconds": 2.3,
+      "bytes": 38077,
+      "perceived": -15
+    },
+    "22df4262": {
+      "before": -11.7,
+      "beforePeak": -4,
+      "after": -12,
+      "afterPeak": -4.4,
+      "gainDb": 0,
+      "seconds": 1.98,
+      "bytes": 32643,
+      "perceived": -15.5
+    },
+    "238e4c79": {
+      "before": -12.7,
+      "beforePeak": -6.4,
+      "after": -10.6,
+      "afterPeak": -4.5,
+      "gainDb": 2.4,
+      "seconds": 3.68,
+      "bytes": 59811,
+      "perceived": -15
+    },
+    "26281b5e": {
+      "before": -12.9,
+      "beforePeak": -5.6,
+      "after": -10.1,
+      "afterPeak": -2.9,
+      "gainDb": 3.2,
+      "seconds": 3.27,
+      "bytes": 53541,
+      "perceived": -15
+    },
+    "28ccca8f": {
+      "before": -14.1,
+      "beforePeak": -6.9,
+      "after": -10.4,
+      "afterPeak": -3.2,
+      "gainDb": 4.1,
+      "seconds": 2.62,
+      "bytes": 43092,
+      "perceived": -15
+    },
+    "28d43b3a": {
+      "before": -13.6,
+      "beforePeak": 0,
+      "after": -14.2,
+      "afterPeak": -1.8,
+      "gainDb": 0,
+      "seconds": 0.74,
+      "bytes": 12999,
+      "perceived": -14.4
+    },
+    "2adfe4b2": {
+      "before": -12.1,
+      "beforePeak": -4.8,
+      "after": -10.6,
+      "afterPeak": -3.3,
+      "gainDb": 1.9,
+      "seconds": 5.99,
+      "bytes": 97009,
+      "perceived": -15
+    },
+    "2cf876f9": {
+      "before": -13.6,
+      "beforePeak": -6.7,
+      "after": -11,
+      "afterPeak": -4.2,
+      "gainDb": 2.9,
+      "seconds": 2.05,
+      "bytes": 33897,
+      "perceived": -15
+    },
+    "2e328788": {
+      "before": -12.8,
+      "beforePeak": -6.5,
+      "after": -11.6,
+      "afterPeak": -5.2,
+      "gainDb": 1.7,
+      "seconds": 1.42,
+      "bytes": 23866,
+      "perceived": -15
+    },
+    "32679ff3": {
+      "before": -12.6,
+      "beforePeak": -5.8,
+      "after": -10.8,
+      "afterPeak": -4,
+      "gainDb": 2.3,
+      "seconds": 3.18,
+      "bytes": 51870,
+      "perceived": -15
+    },
+    "33613dc4": {
+      "before": -12.8,
+      "beforePeak": -5.7,
+      "after": -10.6,
+      "afterPeak": -3.6,
+      "gainDb": 2.6,
+      "seconds": 3.21,
+      "bytes": 52287,
+      "perceived": -15
+    },
+    "35177d31": {
+      "before": -13.1,
+      "beforePeak": -4.5,
+      "after": -11,
+      "afterPeak": -2.3,
+      "gainDb": 2.5,
+      "seconds": 1.39,
+      "bytes": 23448,
+      "perceived": -15
+    },
+    "36cc4607": {
+      "before": -12.5,
+      "beforePeak": -0.8,
+      "after": -13.1,
+      "afterPeak": -1.9,
+      "gainDb": 0,
+      "seconds": 1.96,
+      "bytes": 32643,
+      "perceived": -14.7
+    },
+    "3814cc97": {
+      "before": -14.6,
+      "beforePeak": -6.9,
+      "after": -10.2,
+      "afterPeak": -2.4,
+      "gainDb": 4.9,
+      "seconds": 2.27,
+      "bytes": 37241,
+      "perceived": -15
+    },
+    "3840dafd": {
+      "before": -13.5,
+      "beforePeak": -6.1,
+      "after": -10.5,
+      "afterPeak": -3.4,
+      "gainDb": 3.2,
+      "seconds": 0.99,
+      "bytes": 16761,
+      "perceived": -15
+    },
+    "39ef1e02": {
+      "before": -11.9,
+      "beforePeak": -5.7,
+      "after": -9.8,
+      "afterPeak": -3.6,
+      "gainDb": 2.5,
+      "seconds": 3.39,
+      "bytes": 55213,
+      "perceived": -15
+    },
+    "3a46e684": {
+      "before": -11.8,
+      "beforePeak": -6.3,
+      "after": -10.7,
+      "afterPeak": -5.3,
+      "gainDb": 1.5,
+      "seconds": 2.33,
+      "bytes": 38495,
+      "perceived": -15
+    },
+    "3bba6580": {
+      "before": -13,
+      "beforePeak": -6.1,
+      "after": -11.3,
+      "afterPeak": -4.2,
+      "gainDb": 2.4,
+      "seconds": 1.92,
+      "bytes": 31807,
+      "perceived": -15
+    },
+    "3db2032f": {
+      "before": -12.7,
+      "beforePeak": -4.3,
+      "after": -12.7,
+      "afterPeak": -4.7,
+      "gainDb": 0,
+      "seconds": 0.77,
+      "bytes": 13417,
+      "perceived": -15.5
+    },
+    "3e214b61": {
+      "before": -12.9,
+      "beforePeak": -6.3,
+      "after": -11.1,
+      "afterPeak": -4.5,
+      "gainDb": 2.3,
+      "seconds": 2.67,
+      "bytes": 43928,
+      "perceived": -15
+    },
+    "3e3bc42c": {
+      "before": -13.5,
+      "beforePeak": -6.2,
+      "after": -10.8,
+      "afterPeak": -3.6,
+      "gainDb": 3,
+      "seconds": 4.85,
+      "bytes": 78619,
+      "perceived": -15
+    },
+    "3e5649cb": {
+      "before": -13,
+      "beforePeak": -6.5,
+      "after": -10.9,
+      "afterPeak": -4.4,
+      "gainDb": 2.5,
+      "seconds": 2.88,
+      "bytes": 47272,
+      "perceived": -15
+    },
+    "3fe1b66e": {
+      "before": -12.7,
+      "beforePeak": -3.3,
+      "after": -11.3,
+      "afterPeak": -1.9,
+      "gainDb": 1.9,
+      "seconds": 2.49,
+      "bytes": 41003,
+      "perceived": -15
+    },
+    "422f200c": {
+      "before": -12.6,
+      "beforePeak": -6.2,
+      "after": -10.5,
+      "afterPeak": -4,
+      "gainDb": 2.6,
+      "seconds": 2.62,
+      "bytes": 43092,
+      "perceived": -15
+    },
+    "425ea01d": {
+      "before": -14.6,
+      "beforePeak": -7.2,
+      "after": -10.5,
+      "afterPeak": -2.9,
+      "gainDb": 4.7,
+      "seconds": 2.28,
+      "bytes": 37659,
+      "perceived": -15
+    },
+    "42e3eacc": {
+      "before": -12.5,
+      "beforePeak": -6.8,
+      "after": -9.8,
+      "afterPeak": -4.4,
+      "gainDb": 2.8,
+      "seconds": 1.16,
+      "bytes": 19687,
+      "perceived": -15
+    },
+    "4328dc9f": {
+      "before": -12.3,
+      "beforePeak": -4.5,
+      "after": -11.3,
+      "afterPeak": -3.4,
+      "gainDb": 1.5,
+      "seconds": 2.91,
+      "bytes": 47690,
+      "perceived": -15
+    },
+    "439169a3": {
+      "before": -12.7,
+      "beforePeak": -4.7,
+      "after": -10.7,
+      "afterPeak": -2.8,
+      "gainDb": 2.4,
+      "seconds": 1.96,
+      "bytes": 32225,
+      "perceived": -15
+    },
+    "45957be4": {
+      "before": -13.8,
+      "beforePeak": -4.9,
+      "after": -10.7,
+      "afterPeak": -1.9,
+      "gainDb": 3.5,
+      "seconds": 2.66,
+      "bytes": 43510,
+      "perceived": -15
+    },
+    "46ef3972": {
+      "before": -12.9,
+      "beforePeak": -5.4,
+      "after": -10.8,
+      "afterPeak": -3.4,
+      "gainDb": 2.4,
+      "seconds": 2.25,
+      "bytes": 37241,
+      "perceived": -15
+    },
+    "47df84af": {
+      "before": -12.2,
+      "beforePeak": -5.1,
+      "after": -11,
+      "afterPeak": -4,
+      "gainDb": 1.6,
+      "seconds": 1.68,
+      "bytes": 28046,
+      "perceived": -15
+    },
+    "4be2da7c": {
+      "before": -12.5,
+      "beforePeak": -3.3,
+      "after": -12.8,
+      "afterPeak": -3.7,
+      "gainDb": 0,
+      "seconds": 1.5,
+      "bytes": 25120,
+      "perceived": -14.7
+    },
+    "4c4392e5": {
+      "before": -13.1,
+      "beforePeak": 0,
+      "after": -13.3,
+      "afterPeak": -1.8,
+      "gainDb": 0,
+      "seconds": 1.71,
+      "bytes": 28464,
+      "perceived": -15.6
+    },
+    "4c468458": {
+      "before": -13.2,
+      "beforePeak": -2.1,
+      "after": -13.4,
+      "afterPeak": -2.3,
+      "gainDb": 0,
+      "seconds": 0.84,
+      "bytes": 14253,
+      "perceived": -15.3
+    },
+    "4cfe01fe": {
+      "before": -12.3,
+      "beforePeak": -5.8,
+      "after": -10.9,
+      "afterPeak": -4.4,
+      "gainDb": 1.9,
+      "seconds": 2.64,
+      "bytes": 43510,
+      "perceived": -15
+    },
+    "4d684d70": {
+      "before": -13.4,
+      "beforePeak": -3.7,
+      "after": -13.5,
+      "afterPeak": -4.2,
+      "gainDb": 0,
+      "seconds": 0.88,
+      "bytes": 15089,
+      "perceived": -14.7
+    },
+    "4e15107f": {
+      "before": -12.7,
+      "beforePeak": -5.1,
+      "after": -10.4,
+      "afterPeak": -2.8,
+      "gainDb": 2.8,
+      "seconds": 3.97,
+      "bytes": 64408,
+      "perceived": -15
+    },
+    "5009f66b": {
+      "before": -12.9,
+      "beforePeak": 0,
+      "after": -13.3,
+      "afterPeak": -2,
+      "gainDb": 0,
+      "seconds": 0.81,
+      "bytes": 13835,
+      "perceived": -15.6
+    },
+    "50a0f5cb": {
+      "before": -13,
+      "beforePeak": 0,
+      "after": -13.4,
+      "afterPeak": -1.9,
+      "gainDb": 0,
+      "seconds": 1.04,
+      "bytes": 17597,
+      "perceived": -15.7
+    },
+    "50ca84c4": {
+      "before": -12.1,
+      "beforePeak": -6.2,
+      "after": -10.9,
+      "afterPeak": -4.9,
+      "gainDb": 1.6,
+      "seconds": 2.15,
+      "bytes": 35569,
+      "perceived": -15
+    },
+    "512b2129": {
+      "before": -12.8,
+      "beforePeak": -6.4,
+      "after": -10.1,
+      "afterPeak": -3.5,
+      "gainDb": 3.4,
+      "seconds": 1.58,
+      "bytes": 26374,
+      "perceived": -15
+    },
+    "52f3fb5e": {
+      "before": -14.5,
+      "beforePeak": -6,
+      "after": -9.4,
+      "afterPeak": -1.9,
+      "gainDb": 5.4,
+      "seconds": 1.5,
+      "bytes": 25120,
+      "perceived": -15
+    },
+    "543f3500": {
+      "before": -12.3,
+      "beforePeak": -6.3,
+      "after": -10.7,
+      "afterPeak": -4.7,
+      "gainDb": 2,
+      "seconds": 3.73,
+      "bytes": 60647,
+      "perceived": -15
+    },
+    "56256f72": {
+      "before": -12.5,
+      "beforePeak": -7,
+      "after": -10.6,
+      "afterPeak": -5,
+      "gainDb": 2.4,
+      "seconds": 3.91,
+      "bytes": 63572,
+      "perceived": -15
+    },
+    "5697a795": {
+      "before": -13.2,
+      "beforePeak": -2.6,
+      "after": -13.7,
+      "afterPeak": -3.1,
+      "gainDb": 0,
+      "seconds": 1.05,
+      "bytes": 18015,
+      "perceived": -15.3
+    },
+    "582288e7": {
+      "before": -12.2,
+      "beforePeak": -6.2,
+      "after": -10.1,
+      "afterPeak": -4.1,
+      "gainDb": 2.5,
+      "seconds": 3.45,
+      "bytes": 56467,
+      "perceived": -15
+    },
+    "58f40383": {
+      "before": -13.5,
+      "beforePeak": 0,
+      "after": -14,
+      "afterPeak": -1.6,
+      "gainDb": 0,
+      "seconds": 0.88,
+      "bytes": 15089,
+      "perceived": -15.3
+    },
+    "5a799f80": {
+      "before": -14.6,
+      "beforePeak": -5.8,
+      "after": -10.5,
+      "afterPeak": -1.9,
+      "gainDb": 4.4,
+      "seconds": 1.29,
+      "bytes": 21776,
+      "perceived": -15
+    },
+    "5d3979c9": {
+      "before": -14.3,
+      "beforePeak": -5.7,
+      "after": -10.8,
+      "afterPeak": -2.2,
+      "gainDb": 4,
+      "seconds": 3.58,
+      "bytes": 58557,
+      "perceived": -15
+    },
+    "5e83b8eb": {
+      "before": -13.8,
+      "beforePeak": -6.3,
+      "after": -11.4,
+      "afterPeak": -3.8,
+      "gainDb": 2.9,
+      "seconds": 2.49,
+      "bytes": 41003,
+      "perceived": -15
+    },
+    "5ed5b2f5": {
+      "before": -13,
+      "beforePeak": -6.7,
+      "after": -10.7,
+      "afterPeak": -4.5,
+      "gainDb": 2.6,
+      "seconds": 3.15,
+      "bytes": 51452,
+      "perceived": -15
+    },
+    "6126eca2": {
+      "before": -13.7,
+      "beforePeak": -7.1,
+      "after": -11.2,
+      "afterPeak": -4.5,
+      "gainDb": 3.1,
+      "seconds": 1.98,
+      "bytes": 32643,
+      "perceived": -15
+    },
+    "627adbc5": {
+      "before": -14.4,
+      "beforePeak": -6,
+      "after": -10.7,
+      "afterPeak": -2.3,
+      "gainDb": 4.1,
+      "seconds": 2.35,
+      "bytes": 38913,
+      "perceived": -15
+    },
+    "63effa49": {
+      "before": -12.1,
+      "beforePeak": -4,
+      "after": -11.4,
+      "afterPeak": -3.1,
+      "gainDb": 1.3,
+      "seconds": 1.96,
+      "bytes": 32225,
+      "perceived": -15
+    },
+    "6417fd97": {
+      "before": -11.8,
+      "beforePeak": -4.7,
+      "after": -9.9,
+      "afterPeak": -2.8,
+      "gainDb": 2.3,
+      "seconds": 2.22,
+      "bytes": 36823,
+      "perceived": -15
+    },
+    "647f4de6": {
+      "before": -14,
+      "beforePeak": -6.8,
+      "after": -10.9,
+      "afterPeak": -3.6,
+      "gainDb": 3.6,
+      "seconds": 3.17,
+      "bytes": 51870,
+      "perceived": -15
+    },
+    "66e47a89": {
+      "before": -14.8,
+      "beforePeak": -6.8,
+      "after": -10.6,
+      "afterPeak": -2.6,
+      "gainDb": 4.7,
+      "seconds": 2.13,
+      "bytes": 35151,
+      "perceived": -15
+    },
+    "66f6f445": {
+      "before": -10.6,
+      "beforePeak": -6.6,
+      "after": -10.9,
+      "afterPeak": -7.1,
+      "gainDb": 0,
+      "seconds": 0.78,
+      "bytes": 13417,
+      "perceived": -15.2
+    },
+    "674ddb69": {
+      "before": -13.5,
+      "beforePeak": -6.4,
+      "after": -11.7,
+      "afterPeak": -4.5,
+      "gainDb": 2.4,
+      "seconds": 2.35,
+      "bytes": 38495,
+      "perceived": -15
+    },
+    "676e5b95": {
+      "before": -12.2,
+      "beforePeak": -6.3,
+      "after": -11.7,
+      "afterPeak": -5.8,
+      "gainDb": 0.9,
+      "seconds": 2.65,
+      "bytes": 43510,
+      "perceived": -15
+    },
+    "69a23007": {
+      "before": -13.5,
+      "beforePeak": -6.9,
+      "after": -11.5,
+      "afterPeak": -4.8,
+      "gainDb": 2.5,
+      "seconds": 1.96,
+      "bytes": 32643,
+      "perceived": -15
+    },
+    "69de39e9": {
+      "before": -12.1,
+      "beforePeak": -6.2,
+      "after": -10.5,
+      "afterPeak": -4.6,
+      "gainDb": 2.1,
+      "seconds": 3.76,
+      "bytes": 61065,
+      "perceived": -15
+    },
+    "69f89599": {
+      "before": -12.6,
+      "beforePeak": -2.2,
+      "after": -13,
+      "afterPeak": -2.7,
+      "gainDb": 0,
+      "seconds": 1.03,
+      "bytes": 17597,
+      "perceived": -14.7
+    },
+    "6b805fd4": {
+      "before": -12.7,
+      "beforePeak": -6.9,
+      "after": -11.3,
+      "afterPeak": -5.6,
+      "gainDb": 1.7,
+      "seconds": 2,
+      "bytes": 33061,
+      "perceived": -15
+    },
+    "6b99b6fc": {
+      "before": -12.3,
+      "beforePeak": -6.6,
+      "after": -10.5,
+      "afterPeak": -4.7,
+      "gainDb": 2.4,
+      "seconds": 1.63,
+      "bytes": 27210,
+      "perceived": -15
+    },
+    "6bff804d": {
+      "before": -11.9,
+      "beforePeak": -5.2,
+      "after": -11,
+      "afterPeak": -4.2,
+      "gainDb": 1.5,
+      "seconds": 2.84,
+      "bytes": 46436,
+      "perceived": -15
+    },
+    "6d5d9a21": {
+      "before": -12.6,
+      "beforePeak": -6.9,
+      "after": -10.8,
+      "afterPeak": -5,
+      "gainDb": 2.3,
+      "seconds": 4.08,
+      "bytes": 66498,
+      "perceived": -15
+    },
+    "70a57a15": {
+      "before": -12.4,
+      "beforePeak": -5.8,
+      "after": -10.7,
+      "afterPeak": -4.1,
+      "gainDb": 2.1,
+      "seconds": 4.17,
+      "bytes": 67752,
+      "perceived": -15
+    },
+    "70c11fc7": {
+      "before": -12,
+      "beforePeak": -5.1,
+      "after": -11.3,
+      "afterPeak": -4.6,
+      "gainDb": 1,
+      "seconds": 2.54,
+      "bytes": 41838,
+      "perceived": -15
+    },
+    "71b27783": {
+      "before": -12.8,
+      "beforePeak": -5.5,
+      "after": -11.1,
+      "afterPeak": -3.8,
+      "gainDb": 2.2,
+      "seconds": 2.46,
+      "bytes": 40585,
+      "perceived": -15
+    },
+    "71f45d4b": {
+      "before": -13.1,
+      "beforePeak": -5.7,
+      "after": -10.7,
+      "afterPeak": -3.2,
+      "gainDb": 3,
+      "seconds": 3.01,
+      "bytes": 49362,
+      "perceived": -15
+    },
+    "74a523c9": {
+      "before": -12.6,
+      "beforePeak": -6.1,
+      "after": -11.1,
+      "afterPeak": -4.6,
+      "gainDb": 1.9,
+      "seconds": 2.13,
+      "bytes": 35151,
+      "perceived": -15
+    },
+    "761aa076": {
+      "before": -13.4,
+      "beforePeak": -6.7,
+      "after": -11.1,
+      "afterPeak": -4.5,
+      "gainDb": 2.7,
+      "seconds": 3.63,
+      "bytes": 59393,
+      "perceived": -15
+    },
+    "77507d90": {
+      "before": -13.3,
+      "beforePeak": -6.5,
+      "after": -11.4,
+      "afterPeak": -4.3,
+      "gainDb": 2.6,
+      "seconds": 2.49,
+      "bytes": 41003,
+      "perceived": -15
+    },
+    "7b408deb": {
+      "before": -11.8,
+      "beforePeak": -4.5,
+      "after": -11.5,
+      "afterPeak": -4.1,
+      "gainDb": 0.8,
+      "seconds": 2.45,
+      "bytes": 40167,
+      "perceived": -15
+    },
+    "7eebd527": {
+      "before": -14,
+      "beforePeak": -7.1,
+      "after": -11.2,
+      "afterPeak": -4.3,
+      "gainDb": 3.2,
+      "seconds": 2.61,
+      "bytes": 43092,
+      "perceived": -15
+    },
+    "7f49d070": {
+      "before": -12.5,
+      "beforePeak": 0,
+      "after": -13.1,
+      "afterPeak": -1.7,
+      "gainDb": 0,
+      "seconds": 1.63,
+      "bytes": 27210,
+      "perceived": -14.7
+    },
+    "824105f4": {
+      "before": -13.2,
+      "beforePeak": -6.4,
+      "after": -10.1,
+      "afterPeak": -3.3,
+      "gainDb": 3.6,
+      "seconds": 1.73,
+      "bytes": 28882,
+      "perceived": -15
+    },
+    "826a2958": {
+      "before": -14.4,
+      "beforePeak": -4,
+      "after": -11.6,
+      "afterPeak": -1.9,
+      "gainDb": 3.2,
+      "seconds": 1.46,
+      "bytes": 24284,
+      "perceived": -15
+    },
+    "82dc8474": {
+      "before": -11.4,
+      "beforePeak": -6.1,
+      "after": -10.5,
+      "afterPeak": -4.9,
+      "gainDb": 1.6,
+      "seconds": 3.32,
+      "bytes": 53959,
+      "perceived": -15
+    },
+    "84ac6f96": {
+      "before": -13.6,
+      "beforePeak": -6.3,
+      "after": -10,
+      "afterPeak": -2.7,
+      "gainDb": 4,
+      "seconds": 9,
+      "bytes": 145074,
+      "perceived": -15
+    },
+    "85b8060f": {
+      "before": -12.6,
+      "beforePeak": -6.9,
+      "after": -11.2,
+      "afterPeak": -5.5,
+      "gainDb": 1.9,
+      "seconds": 1.64,
+      "bytes": 27210,
+      "perceived": -15
+    },
+    "8731c372": {
+      "before": -13.2,
+      "beforePeak": -6,
+      "after": -10.5,
+      "afterPeak": -3.1,
+      "gainDb": 3.4,
+      "seconds": 1.6,
+      "bytes": 26792,
+      "perceived": -15
+    },
+    "8744b1f8": {
+      "before": -13.1,
+      "beforePeak": -7.1,
+      "after": -10.9,
+      "afterPeak": -4.8,
+      "gainDb": 2.7,
+      "seconds": 3.49,
+      "bytes": 56885,
+      "perceived": -15
+    },
+    "8802cab0": {
+      "before": -12.5,
+      "beforePeak": 0,
+      "after": -12.9,
+      "afterPeak": -1.8,
+      "gainDb": 0,
+      "seconds": 0.91,
+      "bytes": 15507,
+      "perceived": -15.3
+    },
+    "8948ceff": {
+      "before": -11.6,
+      "beforePeak": -6.9,
+      "after": -11.2,
+      "afterPeak": -6.4,
+      "gainDb": 1,
+      "seconds": 2,
+      "bytes": 33061,
+      "perceived": -15
+    },
+    "8956cd9a": {
+      "before": -13.5,
+      "beforePeak": -6.3,
+      "after": -10.6,
+      "afterPeak": -3.4,
+      "gainDb": 3.3,
+      "seconds": 2.64,
+      "bytes": 43510,
+      "perceived": -15
+    },
+    "897db4ad": {
+      "before": -13.4,
+      "beforePeak": -6.1,
+      "after": -11.6,
+      "afterPeak": -4.3,
+      "gainDb": 2.2,
+      "seconds": 1.57,
+      "bytes": 26374,
+      "perceived": -15
+    },
+    "89b6c0f4": {
+      "before": -12.2,
+      "beforePeak": -6.2,
+      "after": -11.4,
+      "afterPeak": -5.3,
+      "gainDb": 1.3,
+      "seconds": 1.8,
+      "bytes": 29718,
+      "perceived": -15
+    },
+    "89cf3017": {
+      "before": -14.6,
+      "beforePeak": -7.8,
+      "after": -10.6,
+      "afterPeak": -4.2,
+      "gainDb": 4.1,
+      "seconds": 0.84,
+      "bytes": 14671,
+      "perceived": -15
+    },
+    "8a73c1a0": {
+      "before": -12,
+      "beforePeak": -6.7,
+      "after": -10.4,
+      "afterPeak": -5.2,
+      "gainDb": 2,
+      "seconds": 1.39,
+      "bytes": 23448,
+      "perceived": -15
+    },
+    "8b03d8da": {
+      "before": -13.6,
+      "beforePeak": -4.9,
+      "after": -11,
+      "afterPeak": -2.4,
+      "gainDb": 2.9,
+      "seconds": 2.98,
+      "bytes": 48944,
+      "perceived": -15
+    },
+    "8b08e4f5": {
+      "before": -13.2,
+      "beforePeak": -6.7,
+      "after": -10.3,
+      "afterPeak": -3.8,
+      "gainDb": 3.3,
+      "seconds": 3.05,
+      "bytes": 49780,
+      "perceived": -15
+    },
+    "8b2f638a": {
+      "before": -13,
+      "beforePeak": -6.3,
+      "after": -11.2,
+      "afterPeak": -4.5,
+      "gainDb": 2.2,
+      "seconds": 1.68,
+      "bytes": 28046,
+      "perceived": -15
+    },
+    "8bbc7324": {
+      "before": -14,
+      "beforePeak": -4.8,
+      "after": -10.8,
+      "afterPeak": -2,
+      "gainDb": 3.7,
+      "seconds": 1.72,
+      "bytes": 28464,
+      "perceived": -15
+    },
+    "8bcef116": {
+      "before": -13.1,
+      "beforePeak": -6.6,
+      "after": -11.2,
+      "afterPeak": -4.6,
+      "gainDb": 2.4,
+      "seconds": 1.84,
+      "bytes": 30554,
+      "perceived": -15
+    },
+    "8c77c964": {
+      "before": -13.3,
+      "beforePeak": -0.1,
+      "after": -13.7,
+      "afterPeak": -1.9,
+      "gainDb": 0,
+      "seconds": 0.9,
+      "bytes": 15507,
+      "perceived": -14.9
+    },
+    "8cd822b4": {
+      "before": -12.8,
+      "beforePeak": -1.7,
+      "after": -13.2,
+      "afterPeak": -2.2,
+      "gainDb": 0,
+      "seconds": 1.2,
+      "bytes": 20105,
+      "perceived": -14.7
+    },
+    "8d6fa1b5": {
+      "before": -13.2,
+      "beforePeak": -0.6,
+      "after": -13.6,
+      "afterPeak": -1.8,
+      "gainDb": 0,
+      "seconds": 1.1,
+      "bytes": 18851,
+      "perceived": -14.5
+    },
+    "8f3b6da2": {
+      "before": -13.6,
+      "beforePeak": -6.2,
+      "after": -11.6,
+      "afterPeak": -4.1,
+      "gainDb": 2.5,
+      "seconds": 2.49,
+      "bytes": 41003,
+      "perceived": -15
+    },
+    "8f67d27c": {
+      "before": -13.4,
+      "beforePeak": -6,
+      "after": -10.8,
+      "afterPeak": -3.4,
+      "gainDb": 3,
+      "seconds": 2.58,
+      "bytes": 42256,
+      "perceived": -15
+    },
+    "8f9391cc": {
+      "before": -13.6,
+      "beforePeak": -6.5,
+      "after": -12,
+      "afterPeak": -4.6,
+      "gainDb": 2.3,
+      "seconds": 1.76,
+      "bytes": 29300,
+      "perceived": -15
+    },
+    "90a5eb4d": {
+      "before": -13.3,
+      "beforePeak": -5.9,
+      "after": -11.2,
+      "afterPeak": -3.8,
+      "gainDb": 2.6,
+      "seconds": 4.75,
+      "bytes": 77365,
+      "perceived": -15
+    },
+    "9133c0a3": {
+      "before": -13,
+      "beforePeak": -4.9,
+      "after": -11.4,
+      "afterPeak": -3.2,
+      "gainDb": 2.1,
+      "seconds": 1.63,
+      "bytes": 27210,
+      "perceived": -15
+    },
+    "93abbfad": {
+      "before": -12,
+      "beforePeak": -4.3,
+      "after": -10.3,
+      "afterPeak": -2.7,
+      "gainDb": 2.1,
+      "seconds": 2.4,
+      "bytes": 39331,
+      "perceived": -15
+    },
+    "93ce6774": {
+      "before": -12.9,
+      "beforePeak": 0,
+      "after": -13.4,
+      "afterPeak": -1.9,
+      "gainDb": 0,
+      "seconds": 0.94,
+      "bytes": 15925,
+      "perceived": -14.8
+    },
+    "94f426bb": {
+      "before": -12,
+      "beforePeak": -7.2,
+      "after": -9.9,
+      "afterPeak": -4.8,
+      "gainDb": 2.9,
+      "seconds": 3.42,
+      "bytes": 56049,
+      "perceived": -15
+    },
+    "97c55548": {
+      "before": -12.6,
+      "beforePeak": -6.5,
+      "after": -11,
+      "afterPeak": -4.9,
+      "gainDb": 2.1,
+      "seconds": 2.82,
+      "bytes": 46436,
+      "perceived": -15
+    },
+    "98fdad78": {
+      "before": -13.6,
+      "beforePeak": -6.2,
+      "after": -11,
+      "afterPeak": -3.6,
+      "gainDb": 3,
+      "seconds": 2.8,
+      "bytes": 46018,
+      "perceived": -15
+    },
+    "9b6cdc6a": {
+      "before": -11.4,
+      "beforePeak": -6.7,
+      "after": -11.8,
+      "afterPeak": -7.1,
+      "gainDb": 0,
+      "seconds": 1.64,
+      "bytes": 27210,
+      "perceived": -15.3
+    },
+    "9d09033f": {
+      "before": -13.4,
+      "beforePeak": -7.1,
+      "after": -12.1,
+      "afterPeak": -5.7,
+      "gainDb": 1.9,
+      "seconds": 1.92,
+      "bytes": 31807,
+      "perceived": -15
+    },
+    "9d58a877": {
+      "before": -12.7,
+      "beforePeak": -6.4,
+      "after": -11.1,
+      "afterPeak": -4.5,
+      "gainDb": 2.4,
+      "seconds": 3.64,
+      "bytes": 59393,
+      "perceived": -15
+    },
+    "9fa0b1ec": {
+      "before": -13.2,
+      "beforePeak": -2.4,
+      "after": -13.6,
+      "afterPeak": -2.6,
+      "gainDb": 0,
+      "seconds": 1.36,
+      "bytes": 22612,
+      "perceived": -15.1
+    },
+    "a2660603": {
+      "before": -12,
+      "beforePeak": -7,
+      "after": -11.1,
+      "afterPeak": -6.2,
+      "gainDb": 1.3,
+      "seconds": 2.34,
+      "bytes": 38495,
+      "perceived": -15
+    },
+    "a2a02613": {
+      "before": -13.3,
+      "beforePeak": -5.3,
+      "after": -10.6,
+      "afterPeak": -2.6,
+      "gainDb": 3.2,
+      "seconds": 1.68,
+      "bytes": 28046,
+      "perceived": -15
+    },
+    "a460ea9a": {
+      "before": -15.2,
+      "beforePeak": -7.5,
+      "after": -9.3,
+      "afterPeak": -2,
+      "gainDb": 6.8,
+      "seconds": 0.69,
+      "bytes": 12163,
+      "perceived": -15.1
+    },
+    "a4c28b54": {
+      "before": -13.2,
+      "beforePeak": -6.1,
+      "after": -11,
+      "afterPeak": -4,
+      "gainDb": 2.5,
+      "seconds": 3.88,
+      "bytes": 63154,
+      "perceived": -15
+    },
+    "a5e9ba9e": {
+      "before": -13.4,
+      "beforePeak": -5.4,
+      "after": -10.9,
+      "afterPeak": -2.7,
+      "gainDb": 3.1,
+      "seconds": 4.8,
+      "bytes": 77783,
+      "perceived": -15
+    },
+    "a65f0416": {
+      "before": -13.8,
+      "beforePeak": -5.7,
+      "after": -11.2,
+      "afterPeak": -3.2,
+      "gainDb": 2.9,
+      "seconds": 3.81,
+      "bytes": 61901,
+      "perceived": -15
+    },
+    "a765635f": {
+      "before": -12.9,
+      "beforePeak": -6.2,
+      "after": -10.8,
+      "afterPeak": -4.4,
+      "gainDb": 2.3,
+      "seconds": 1.85,
+      "bytes": 30554,
+      "perceived": -15
+    },
+    "a80a7ca7": {
+      "before": -14.7,
+      "beforePeak": -6.9,
+      "after": -10.6,
+      "afterPeak": -2.9,
+      "gainDb": 4.5,
+      "seconds": 2.1,
+      "bytes": 34733,
+      "perceived": -15
+    },
+    "a8a7b334": {
+      "before": -12.7,
+      "beforePeak": -6.6,
+      "after": -11.2,
+      "afterPeak": -5.1,
+      "gainDb": 1.9,
+      "seconds": 2.57,
+      "bytes": 42256,
+      "perceived": -15
+    },
+    "aa1c9fd8": {
+      "before": -12.2,
+      "beforePeak": -4,
+      "after": -10.8,
+      "afterPeak": -2.5,
+      "gainDb": 1.9,
+      "seconds": 2.29,
+      "bytes": 37659,
+      "perceived": -15
+    },
+    "aa2cabd7": {
+      "before": -12.7,
+      "beforePeak": -4.8,
+      "after": -11,
+      "afterPeak": -3.1,
+      "gainDb": 2.1,
+      "seconds": 3.99,
+      "bytes": 64826,
+      "perceived": -15
+    },
+    "aa3b2105": {
+      "before": -12.4,
+      "beforePeak": -0.1,
+      "after": -13,
+      "afterPeak": -1.8,
+      "gainDb": 0,
+      "seconds": 0.98,
+      "bytes": 16761,
+      "perceived": -15.1
+    },
+    "aaae392e": {
+      "before": -13.3,
+      "beforePeak": -6.9,
+      "after": -10.7,
+      "afterPeak": -4.2,
+      "gainDb": 3.1,
+      "seconds": 4.39,
+      "bytes": 71096,
+      "perceived": -15
+    },
+    "ab8ab052": {
+      "before": -11.7,
+      "beforePeak": -5.9,
+      "after": -11.2,
+      "afterPeak": -5.3,
+      "gainDb": 1,
+      "seconds": 2.01,
+      "bytes": 33061,
+      "perceived": -15
+    },
+    "ac2c0bdf": {
+      "before": -13.3,
+      "beforePeak": -6.4,
+      "after": -11,
+      "afterPeak": -4.2,
+      "gainDb": 2.6,
+      "seconds": 4.45,
+      "bytes": 72350,
+      "perceived": -15
+    },
+    "acea7d97": {
+      "before": -13.2,
+      "beforePeak": -6.1,
+      "after": -10.1,
+      "afterPeak": -3.1,
+      "gainDb": 3.4,
+      "seconds": 1.19,
+      "bytes": 20105,
+      "perceived": -15
+    },
+    "ad80fb79": {
+      "before": -13.6,
+      "beforePeak": -6.9,
+      "after": -10.4,
+      "afterPeak": -3.8,
+      "gainDb": 3.6,
+      "seconds": 2.13,
+      "bytes": 35151,
+      "perceived": -15
+    },
+    "add62841": {
+      "before": -13.6,
+      "beforePeak": -4.5,
+      "after": -11.3,
+      "afterPeak": -2.3,
+      "gainDb": 2.7,
+      "seconds": 2.1,
+      "bytes": 34733,
+      "perceived": -15
+    },
+    "ae8d4abf": {
+      "before": -11.7,
+      "beforePeak": -4.9,
+      "after": -10.3,
+      "afterPeak": -3.4,
+      "gainDb": 1.9,
+      "seconds": 4.1,
+      "bytes": 66498,
+      "perceived": -15
+    },
+    "af3167fc": {
+      "before": -12.8,
+      "beforePeak": -7,
+      "after": -10.3,
+      "afterPeak": -4.7,
+      "gainDb": 2.8,
+      "seconds": 1.99,
+      "bytes": 33061,
+      "perceived": -15
+    },
+    "af8d7617": {
+      "before": -12.9,
+      "beforePeak": -3.9,
+      "after": -10.9,
+      "afterPeak": -2,
+      "gainDb": 2.4,
+      "seconds": 3.36,
+      "bytes": 54795,
+      "perceived": -15
+    },
+    "b1ada4b5": {
+      "before": -12.5,
+      "beforePeak": -6.7,
+      "after": -11.2,
+      "afterPeak": -4.8,
+      "gainDb": 2.3,
+      "seconds": 2.24,
+      "bytes": 36823,
+      "perceived": -15
+    },
+    "b27a2597": {
+      "before": -12,
+      "beforePeak": -6.3,
+      "after": -11.2,
+      "afterPeak": -5.6,
+      "gainDb": 1.2,
+      "seconds": 2.48,
+      "bytes": 40585,
+      "perceived": -15
+    },
+    "b2f92489": {
+      "before": -13,
+      "beforePeak": -5.5,
+      "after": -10.8,
+      "afterPeak": -3.4,
+      "gainDb": 2.5,
+      "seconds": 3.46,
+      "bytes": 56467,
+      "perceived": -15
+    },
+    "b5d995ff": {
+      "before": -13.7,
+      "beforePeak": -6.8,
+      "after": -11,
+      "afterPeak": -4.2,
+      "gainDb": 3,
+      "seconds": 1.91,
+      "bytes": 31807,
+      "perceived": -15
+    },
+    "b68bf4a9": {
+      "before": -12.4,
+      "beforePeak": -6,
+      "after": -11.2,
+      "afterPeak": -4.9,
+      "gainDb": 1.6,
+      "seconds": 1.6,
+      "bytes": 26792,
+      "perceived": -15
+    },
+    "b7df490e": {
+      "before": -12.5,
+      "beforePeak": -5.5,
+      "after": -10.4,
+      "afterPeak": -3.5,
+      "gainDb": 2.5,
+      "seconds": 3.08,
+      "bytes": 50198,
+      "perceived": -15
+    },
+    "ba430e8a": {
+      "before": -13.8,
+      "beforePeak": -6.6,
+      "after": -11.4,
+      "afterPeak": -4.2,
+      "gainDb": 2.9,
+      "seconds": 3.46,
+      "bytes": 56467,
+      "perceived": -15
+    },
+    "ba7a9770": {
+      "before": -14.2,
+      "beforePeak": -6.3,
+      "after": -10.1,
+      "afterPeak": -2.1,
+      "gainDb": 4.6,
+      "seconds": 3.44,
+      "bytes": 56049,
+      "perceived": -15
+    },
+    "bad7bba8": {
+      "before": -12.1,
+      "beforePeak": -6.4,
+      "after": -10.4,
+      "afterPeak": -4.7,
+      "gainDb": 2.1,
+      "seconds": 2.52,
+      "bytes": 41421,
+      "perceived": -15
+    },
+    "bb56db7b": {
+      "before": -12.9,
+      "beforePeak": 0,
+      "after": -13.2,
+      "afterPeak": -1.9,
+      "gainDb": 0,
+      "seconds": 1.05,
+      "bytes": 18015,
+      "perceived": -14.7
+    },
+    "bb7b3631": {
+      "before": -13.9,
+      "beforePeak": -5.9,
+      "after": -11,
+      "afterPeak": -3,
+      "gainDb": 3.3,
+      "seconds": 3.63,
+      "bytes": 59393,
+      "perceived": -15
+    },
+    "bdeb4201": {
+      "before": -13.5,
+      "beforePeak": 0,
+      "after": -14,
+      "afterPeak": -1.7,
+      "gainDb": 0,
+      "seconds": 1.51,
+      "bytes": 25120,
+      "perceived": -15.1
+    },
+    "bed7b8b0": {
+      "before": -11.9,
+      "beforePeak": -4.3,
+      "after": -10.7,
+      "afterPeak": -3.2,
+      "gainDb": 1.6,
+      "seconds": 1.4,
+      "bytes": 23448,
+      "perceived": -15
+    },
+    "bf6ade99": {
+      "before": -13.9,
+      "beforePeak": -6.1,
+      "after": -11.5,
+      "afterPeak": -3.7,
+      "gainDb": 2.9,
+      "seconds": 3.06,
+      "bytes": 50198,
+      "perceived": -15
+    },
+    "bf805089": {
+      "before": -13.2,
+      "beforePeak": -6.5,
+      "after": -11.4,
+      "afterPeak": -4.7,
+      "gainDb": 2.3,
+      "seconds": 2.19,
+      "bytes": 36405,
+      "perceived": -15
+    },
+    "c01aa02e": {
+      "before": -14.4,
+      "beforePeak": -5.7,
+      "after": -9.9,
+      "afterPeak": -1.9,
+      "gainDb": 5.1,
+      "seconds": 1.48,
+      "bytes": 24702,
+      "perceived": -15.1
+    },
+    "c0c29868": {
+      "before": -12.9,
+      "beforePeak": -5.2,
+      "after": -10.8,
+      "afterPeak": -2.9,
+      "gainDb": 2.6,
+      "seconds": 2.89,
+      "bytes": 47272,
+      "perceived": -15
+    },
+    "c1c0aeb3": {
+      "before": -13,
+      "beforePeak": -6.5,
+      "after": -11.4,
+      "afterPeak": -4.7,
+      "gainDb": 2.2,
+      "seconds": 2.13,
+      "bytes": 35151,
+      "perceived": -15
+    },
+    "c3467fcc": {
+      "before": -14.1,
+      "beforePeak": -6.9,
+      "after": -10.7,
+      "afterPeak": -3.5,
+      "gainDb": 3.9,
+      "seconds": 2.81,
+      "bytes": 46018,
+      "perceived": -15
+    },
+    "c363c9f3": {
+      "before": -13.1,
+      "beforePeak": 0,
+      "after": -12.9,
+      "afterPeak": -1.8,
+      "gainDb": 0.7,
+      "seconds": 0.78,
+      "bytes": 13417,
+      "perceived": -15
+    },
+    "c3bdb9a1": {
+      "before": -12.6,
+      "beforePeak": -6.6,
+      "after": -11.3,
+      "afterPeak": -5.3,
+      "gainDb": 1.8,
+      "seconds": 2.39,
+      "bytes": 39331,
+      "perceived": -15
+    },
+    "c4343a23": {
+      "before": -11.6,
+      "beforePeak": -6.5,
+      "after": -10.6,
+      "afterPeak": -5.6,
+      "gainDb": 1.3,
+      "seconds": 1.82,
+      "bytes": 30136,
+      "perceived": -15
+    },
+    "c469ba78": {
+      "before": -14.5,
+      "beforePeak": -7.1,
+      "after": -11.1,
+      "afterPeak": -3.7,
+      "gainDb": 3.8,
+      "seconds": 2.12,
+      "bytes": 35151,
+      "perceived": -15
+    },
+    "c7e72fe6": {
+      "before": -12.8,
+      "beforePeak": -6.1,
+      "after": -11,
+      "afterPeak": -4.2,
+      "gainDb": 2.4,
+      "seconds": 1.14,
+      "bytes": 19269,
+      "perceived": -15
+    },
+    "c8aaf59d": {
+      "before": -12.7,
+      "beforePeak": -5.2,
+      "after": -9.9,
+      "afterPeak": -2.2,
+      "gainDb": 3.5,
+      "seconds": 4.79,
+      "bytes": 77783,
+      "perceived": -15
+    },
+    "c8f18091": {
+      "before": -12.9,
+      "beforePeak": -0.7,
+      "after": -13.2,
+      "afterPeak": -1.9,
+      "gainDb": 0,
+      "seconds": 1.19,
+      "bytes": 20105,
+      "perceived": -15
+    },
+    "c9cf9c9b": {
+      "before": -13,
+      "beforePeak": -6.2,
+      "after": -11.2,
+      "afterPeak": -4.3,
+      "gainDb": 2.4,
+      "seconds": 2.42,
+      "bytes": 39749,
+      "perceived": -15
+    },
+    "cb71adf6": {
+      "before": -12.3,
+      "beforePeak": -5.7,
+      "after": -10.7,
+      "afterPeak": -3.7,
+      "gainDb": 2.4,
+      "seconds": 1.87,
+      "bytes": 30972,
+      "perceived": -15
+    },
+    "cedc880a": {
+      "before": -12.5,
+      "beforePeak": -3.9,
+      "after": -10.9,
+      "afterPeak": -2.5,
+      "gainDb": 1.9,
+      "seconds": 2.36,
+      "bytes": 38913,
+      "perceived": -15
+    },
+    "cfe20d29": {
+      "before": -12.7,
+      "beforePeak": -7.1,
+      "after": -11.4,
+      "afterPeak": -5.3,
+      "gainDb": 2.3,
+      "seconds": 1.7,
+      "bytes": 28464,
+      "perceived": -15
+    },
+    "d00a7fc2": {
+      "before": -12.6,
+      "beforePeak": -4.8,
+      "after": -10.7,
+      "afterPeak": -3.1,
+      "gainDb": 2.2,
+      "seconds": 1.8,
+      "bytes": 29718,
+      "perceived": -15
+    },
+    "d28d7918": {
+      "before": -13.4,
+      "beforePeak": -6.7,
+      "after": -10.6,
+      "afterPeak": -3.9,
+      "gainDb": 3.3,
+      "seconds": 2.63,
+      "bytes": 43092,
+      "perceived": -15
+    },
+    "d39544a8": {
+      "before": -12.6,
+      "beforePeak": -6.4,
+      "after": -10.4,
+      "afterPeak": -4.2,
+      "gainDb": 2.6,
+      "seconds": 4.09,
+      "bytes": 66498,
+      "perceived": -15
+    },
+    "d4154988": {
+      "before": -12.6,
+      "beforePeak": -7,
+      "after": -11.1,
+      "afterPeak": -5.8,
+      "gainDb": 1.6,
+      "seconds": 1.79,
+      "bytes": 29718,
+      "perceived": -15
+    },
+    "d4dd0310": {
+      "before": -15.1,
+      "beforePeak": -7.8,
+      "after": -9.4,
+      "afterPeak": -1.9,
+      "gainDb": 10.4,
+      "seconds": 0.76,
+      "bytes": 13417,
+      "perceived": -15.3
+    },
+    "d526ebbf": {
+      "before": -12.5,
+      "beforePeak": 0,
+      "after": -12.9,
+      "afterPeak": -2,
+      "gainDb": 0,
+      "seconds": 2.17,
+      "bytes": 35987,
+      "perceived": -14.7
+    },
+    "d5ed5273": {
+      "before": -12.7,
+      "beforePeak": -5.1,
+      "after": -10.8,
+      "afterPeak": -3.2,
+      "gainDb": 2.4,
+      "seconds": 3.21,
+      "bytes": 52287,
+      "perceived": -15
+    },
+    "d6a746f5": {
+      "before": -11.6,
+      "beforePeak": -6.2,
+      "after": -10.8,
+      "afterPeak": -5.4,
+      "gainDb": 1.3,
+      "seconds": 2.54,
+      "bytes": 41838,
+      "perceived": -15
+    },
+    "d9dd491f": {
+      "before": -13,
+      "beforePeak": -5.4,
+      "after": -10.4,
+      "afterPeak": -2.7,
+      "gainDb": 3.1,
+      "seconds": 4.72,
+      "bytes": 76529,
+      "perceived": -15
+    },
+    "da49554a": {
+      "before": -13.4,
+      "beforePeak": -6.9,
+      "after": -10.5,
+      "afterPeak": -3.9,
+      "gainDb": 3.4,
+      "seconds": 2.15,
+      "bytes": 35569,
+      "perceived": -15
+    },
+    "dae36df4": {
+      "before": -13.2,
+      "beforePeak": -6.9,
+      "after": -11,
+      "afterPeak": -4.9,
+      "gainDb": 2.5,
+      "seconds": 2.08,
+      "bytes": 34315,
+      "perceived": -15
+    },
+    "db2c30e4": {
+      "before": -13.3,
+      "beforePeak": -6.6,
+      "after": -10.9,
+      "afterPeak": -4,
+      "gainDb": 3,
+      "seconds": 2.66,
+      "bytes": 43510,
+      "perceived": -15
+    },
+    "dd2b0762": {
+      "before": -12.7,
+      "beforePeak": -2.6,
+      "after": -13,
+      "afterPeak": -3,
+      "gainDb": 0,
+      "seconds": 1.07,
+      "bytes": 18015,
+      "perceived": -14.6
+    },
+    "dd746e11": {
+      "before": -13.5,
+      "beforePeak": -6.3,
+      "after": -10,
+      "afterPeak": -2.8,
+      "gainDb": 4,
+      "seconds": 2.34,
+      "bytes": 38495,
+      "perceived": -15
+    },
+    "dd9126cc": {
+      "before": -12.5,
+      "beforePeak": -4.9,
+      "after": -11.8,
+      "afterPeak": -4.2,
+      "gainDb": 1.1,
+      "seconds": 1.81,
+      "bytes": 30136,
+      "perceived": -15
+    },
+    "de1fc547": {
+      "before": -12.6,
+      "beforePeak": -4.6,
+      "after": -11.1,
+      "afterPeak": -3.1,
+      "gainDb": 1.9,
+      "seconds": 2.28,
+      "bytes": 37659,
+      "perceived": -15
+    },
+    "df583869": {
+      "before": -11.3,
+      "beforePeak": -5.3,
+      "after": -10.4,
+      "afterPeak": -4.4,
+      "gainDb": 1.3,
+      "seconds": 2.12,
+      "bytes": 35151,
+      "perceived": -15
+    },
+    "dfe10705": {
+      "before": -12.9,
+      "beforePeak": -6.5,
+      "after": -10.7,
+      "afterPeak": -4.3,
+      "gainDb": 2.7,
+      "seconds": 3.25,
+      "bytes": 53123,
+      "perceived": -15
+    },
+    "e03a6e70": {
+      "before": -13.6,
+      "beforePeak": -6.3,
+      "after": -11,
+      "afterPeak": -3.8,
+      "gainDb": 2.9,
+      "seconds": 5.13,
+      "bytes": 83216,
+      "perceived": -15
+    },
+    "e16dfd41": {
+      "before": -12.6,
+      "beforePeak": -6.4,
+      "after": -10.7,
+      "afterPeak": -4.4,
+      "gainDb": 2.4,
+      "seconds": 3.64,
+      "bytes": 59393,
+      "perceived": -15
+    },
+    "e1dbdbae": {
+      "before": -12.4,
+      "beforePeak": -6.8,
+      "after": -10.6,
+      "afterPeak": -5.1,
+      "gainDb": 2.2,
+      "seconds": 1.65,
+      "bytes": 27628,
+      "perceived": -15
+    },
+    "e256b364": {
+      "before": -12.6,
+      "beforePeak": -4.9,
+      "after": -11.3,
+      "afterPeak": -3.5,
+      "gainDb": 1.8,
+      "seconds": 2.34,
+      "bytes": 38495,
+      "perceived": -15
+    },
+    "e41f022a": {
+      "before": -13.3,
+      "beforePeak": -6.6,
+      "after": -10.2,
+      "afterPeak": -3.7,
+      "gainDb": 3.4,
+      "seconds": 3.3,
+      "bytes": 53959,
+      "perceived": -15
+    },
+    "e45fdf51": {
+      "before": -13.4,
+      "beforePeak": -6.6,
+      "after": -11.3,
+      "afterPeak": -4.5,
+      "gainDb": 2.6,
+      "seconds": 3.94,
+      "bytes": 63990,
+      "perceived": -15
+    },
+    "e45fe8e0": {
+      "before": -11.8,
+      "beforePeak": -6.1,
+      "after": -10.1,
+      "afterPeak": -4.7,
+      "gainDb": 2,
+      "seconds": 2.31,
+      "bytes": 38077,
+      "perceived": -15
+    },
+    "e57b4246": {
+      "before": -11.9,
+      "beforePeak": -4.6,
+      "after": -9.4,
+      "afterPeak": -2.1,
+      "gainDb": 2.9,
+      "seconds": 2.62,
+      "bytes": 43092,
+      "perceived": -15
+    },
+    "e64b777f": {
+      "before": -13.8,
+      "beforePeak": -5.6,
+      "after": -11.5,
+      "afterPeak": -3.4,
+      "gainDb": 2.7,
+      "seconds": 3.35,
+      "bytes": 54795,
+      "perceived": -15
+    },
+    "e727a015": {
+      "before": -13.5,
+      "beforePeak": -5.6,
+      "after": -11,
+      "afterPeak": -3.3,
+      "gainDb": 2.8,
+      "seconds": 2.71,
+      "bytes": 44346,
+      "perceived": -15
+    },
+    "e84facd4": {
+      "before": -14,
+      "beforePeak": -3.2,
+      "after": -11.1,
+      "afterPeak": -2,
+      "gainDb": 3.2,
+      "seconds": 1.33,
+      "bytes": 22194,
+      "perceived": -15
+    },
+    "e9b3e52f": {
+      "before": -12.4,
+      "beforePeak": -6.5,
+      "after": -11.7,
+      "afterPeak": -5.2,
+      "gainDb": 1.8,
+      "seconds": 1.1,
+      "bytes": 18851,
+      "perceived": -15
+    },
+    "ea382d19": {
+      "before": -12.8,
+      "beforePeak": -5.7,
+      "after": -9.7,
+      "afterPeak": -2.6,
+      "gainDb": 3.6,
+      "seconds": 3.24,
+      "bytes": 53123,
+      "perceived": -15
+    },
+    "ea3afd6c": {
+      "before": -11.6,
+      "beforePeak": -5.9,
+      "after": -12.2,
+      "afterPeak": -6.3,
+      "gainDb": 0,
+      "seconds": 1.9,
+      "bytes": 31390,
+      "perceived": -15.4
+    },
+    "eba54e56": {
+      "before": -14.9,
+      "beforePeak": -6.9,
+      "after": -10.9,
+      "afterPeak": -3.1,
+      "gainDb": 4.2,
+      "seconds": 2.08,
+      "bytes": 34315,
+      "perceived": -15
+    },
+    "edea5e27": {
+      "before": -13.8,
+      "beforePeak": -6.6,
+      "after": -11.4,
+      "afterPeak": -4.1,
+      "gainDb": 2.9,
+      "seconds": 4.06,
+      "bytes": 66080,
+      "perceived": -15
+    },
+    "ee7dd121": {
+      "before": -12.3,
+      "beforePeak": -4.5,
+      "after": -10.9,
+      "afterPeak": -3.2,
+      "gainDb": 1.8,
+      "seconds": 1.43,
+      "bytes": 23866,
+      "perceived": -15
+    },
+    "eea20c28": {
+      "before": -12.4,
+      "beforePeak": -3.7,
+      "after": -11.2,
+      "afterPeak": -2.5,
+      "gainDb": 1.6,
+      "seconds": 2.48,
+      "bytes": 41003,
+      "perceived": -15
+    },
+    "eed27125": {
+      "before": -12.8,
+      "beforePeak": -0.7,
+      "after": -13.5,
+      "afterPeak": -1.9,
+      "gainDb": 0,
+      "seconds": 1.22,
+      "bytes": 20523,
+      "perceived": -14.9
+    },
+    "ef562a12": {
+      "before": -12.5,
+      "beforePeak": 0,
+      "after": -12.9,
+      "afterPeak": -1.8,
+      "gainDb": 0,
+      "seconds": 1.45,
+      "bytes": 24284,
+      "perceived": -15.1
+    },
+    "efaf8b23": {
+      "before": -11.8,
+      "beforePeak": -7.1,
+      "after": -11.2,
+      "afterPeak": -6.5,
+      "gainDb": 1,
+      "seconds": 2.02,
+      "bytes": 33479,
+      "perceived": -15
+    },
+    "f2c2fa7c": {
+      "before": -13.5,
+      "beforePeak": -6.4,
+      "after": -11.5,
+      "afterPeak": -4.7,
+      "gainDb": 2.2,
+      "seconds": 2.39,
+      "bytes": 39331,
+      "perceived": -15
+    },
+    "f33ee4d1": {
+      "before": -13.7,
+      "beforePeak": -5.2,
+      "after": -10.8,
+      "afterPeak": -2.3,
+      "gainDb": 3.3,
+      "seconds": 3.46,
+      "bytes": 56467,
+      "perceived": -15
+    },
+    "f34bb3b7": {
+      "before": -13.2,
+      "beforePeak": -1.4,
+      "after": -13.7,
+      "afterPeak": -1.9,
+      "gainDb": 0,
+      "seconds": 1.61,
+      "bytes": 26792,
+      "perceived": -15.7
+    },
+    "f370a076": {
+      "before": -14.4,
+      "beforePeak": -6.8,
+      "after": -10.5,
+      "afterPeak": -2.9,
+      "gainDb": 4.4,
+      "seconds": 2.29,
+      "bytes": 37659,
+      "perceived": -15
+    },
+    "f3bf9b71": {
+      "before": -12.2,
+      "beforePeak": -4.3,
+      "after": -10.6,
+      "afterPeak": -2.8,
+      "gainDb": 2,
+      "seconds": 4.08,
+      "bytes": 66498,
+      "perceived": -15
+    },
+    "f5376191": {
+      "before": -12.4,
+      "beforePeak": -6.4,
+      "after": -10.3,
+      "afterPeak": -4.1,
+      "gainDb": 2.8,
+      "seconds": 2.85,
+      "bytes": 46854,
+      "perceived": -15
+    },
+    "f5eeed9b": {
+      "before": -13.1,
+      "beforePeak": -4.9,
+      "after": -11.2,
+      "afterPeak": -3,
+      "gainDb": 2.3,
+      "seconds": 2.91,
+      "bytes": 47690,
+      "perceived": -15
+    },
+    "f61734ee": {
+      "before": -13.4,
+      "beforePeak": -4.9,
+      "after": -10.9,
+      "afterPeak": -2.4,
+      "gainDb": 2.9,
+      "seconds": 3.26,
+      "bytes": 53123,
+      "perceived": -15
+    },
+    "f640a064": {
+      "before": -12.9,
+      "beforePeak": -5.8,
+      "after": -10.8,
+      "afterPeak": -3.7,
+      "gainDb": 2.6,
+      "seconds": 5.76,
+      "bytes": 93247,
+      "perceived": -15
+    },
+    "f6dd88cb": {
+      "before": -12.5,
+      "beforePeak": -7,
+      "after": -11.2,
+      "afterPeak": -5.7,
+      "gainDb": 1.8,
+      "seconds": 1.69,
+      "bytes": 28046,
+      "perceived": -15
+    },
+    "f6f9ec68": {
+      "before": -14.1,
+      "beforePeak": -5.2,
+      "after": -12.1,
+      "afterPeak": -3.3,
+      "gainDb": 2.3,
+      "seconds": 1.2,
+      "bytes": 20105,
+      "perceived": -15
+    },
+    "f7984917": {
+      "before": -14.2,
+      "beforePeak": -4,
+      "after": -11.5,
+      "afterPeak": -2,
+      "gainDb": 3.4,
+      "seconds": 1.27,
+      "bytes": 21358,
+      "perceived": -15
+    },
+    "f86765ae": {
+      "before": -12.1,
+      "beforePeak": -5.3,
+      "after": -11,
+      "afterPeak": -4.1,
+      "gainDb": 1.6,
+      "seconds": 4.27,
+      "bytes": 69424,
+      "perceived": -15
+    },
+    "f88857c9": {
+      "before": -13.8,
+      "beforePeak": -4.9,
+      "after": -12.3,
+      "afterPeak": -3.1,
+      "gainDb": 2.2,
+      "seconds": 1.43,
+      "bytes": 23866,
+      "perceived": -15
+    },
+    "faba89ae": {
+      "before": -13.3,
+      "beforePeak": -5.6,
+      "after": -10.9,
+      "afterPeak": -3.2,
+      "gainDb": 2.8,
+      "seconds": 1.7,
+      "bytes": 28464,
+      "perceived": -15
+    },
+    "fbe38d7d": {
+      "before": -13.1,
+      "beforePeak": 0,
+      "after": -13.6,
+      "afterPeak": -1.7,
+      "gainDb": 0,
+      "seconds": 1.1,
+      "bytes": 18851,
+      "perceived": -15.5
+    },
+    "fcd9300e": {
+      "before": -13.5,
+      "beforePeak": -6.4,
+      "after": -10.5,
+      "afterPeak": -3.4,
+      "gainDb": 3.5,
+      "seconds": 5.74,
+      "bytes": 92830,
+      "perceived": -15
+    },
+    "fd40f8b1": {
+      "before": -11.8,
+      "beforePeak": -4.2,
+      "after": -10.7,
+      "afterPeak": -3,
+      "gainDb": 1.6,
+      "seconds": 1.46,
+      "bytes": 24284,
+      "perceived": -15
+    },
+    "fe14344f": {
+      "before": -12.1,
+      "beforePeak": -6.8,
+      "after": -10.2,
+      "afterPeak": -4.6,
+      "gainDb": 2.6,
+      "seconds": 1.13,
+      "bytes": 19269,
+      "perceived": -15
+    },
+    "fea750b2": {
+      "before": -13.7,
+      "beforePeak": -6.4,
+      "after": -10.8,
+      "afterPeak": -3.5,
+      "gainDb": 3.3,
+      "seconds": 4.47,
+      "bytes": 72767,
+      "perceived": -15
+    },
+    "ff64a773": {
+      "before": -13.1,
+      "beforePeak": -5.9,
+      "after": -10.5,
+      "afterPeak": -2.9,
+      "gainDb": 3.4,
+      "seconds": 2.36,
+      "bytes": 38913,
+      "perceived": -15
+    },
+    "2bc7c3aa": {
+      "before": -13.8,
+      "beforePeak": -4.4,
+      "after": -10.7,
+      "afterPeak": -1.9,
+      "gainDb": 3.4,
+      "seconds": 2.13,
+      "bytes": 35151,
+      "perceived": -15
+    },
+    "2be92c94": {
+      "before": -14,
+      "beforePeak": -7.1,
+      "after": -11.3,
+      "afterPeak": -4.9,
+      "gainDb": 2.7,
+      "seconds": 2.19,
+      "bytes": 36405,
+      "perceived": -15
+    },
+    "3a5ac36b": {
+      "before": -11,
+      "beforePeak": -5.1,
+      "after": -11.9,
+      "afterPeak": -5.6,
+      "gainDb": 0,
+      "seconds": 1.36,
+      "bytes": 22612,
+      "perceived": -15
+    },
+    "4c164422": {
+      "before": -12.9,
+      "beforePeak": -6.7,
+      "after": -10.2,
+      "afterPeak": -3.9,
+      "gainDb": 3.3,
+      "seconds": 3.1,
+      "bytes": 50616,
+      "perceived": -15
+    },
+    "4f066cc7": {
+      "before": -13.3,
+      "beforePeak": -4.4,
+      "after": -11.7,
+      "afterPeak": -2.9,
+      "gainDb": 1.9,
+      "seconds": 1.92,
+      "bytes": 31807,
+      "perceived": -15
+    },
+    "950f4f69": {
+      "before": -13.9,
+      "beforePeak": -6.5,
+      "after": -10.1,
+      "afterPeak": -2.8,
+      "gainDb": 4.2,
+      "seconds": 2.38,
+      "bytes": 39331,
+      "perceived": -15
+    },
+    "be9b813b": {
+      "before": -11.3,
+      "beforePeak": -6.6,
+      "after": -9.7,
+      "afterPeak": -5,
+      "gainDb": 2.1,
+      "seconds": 2.94,
+      "bytes": 48108,
+      "perceived": -15
+    },
+    "c61595e8": {
+      "before": -11.7,
+      "beforePeak": -5.1,
+      "after": -12.3,
+      "afterPeak": -5.6,
+      "gainDb": 0,
+      "seconds": 1.74,
+      "bytes": 28882,
+      "perceived": -14.9
+    },
+    "d02e133e": {
+      "before": -12.8,
+      "beforePeak": -1.3,
+      "after": -13.4,
+      "afterPeak": -1.7,
+      "gainDb": 0,
+      "seconds": 1.12,
+      "bytes": 18851,
+      "perceived": -15.6
+    },
+    "f2150479": {
+      "before": -11.8,
+      "beforePeak": -6.2,
+      "after": -10.3,
+      "afterPeak": -4.7,
+      "gainDb": 1.9,
+      "seconds": 2.61,
+      "bytes": 42674,
+      "perceived": -15
+    },
+    "001f4132": {
+      "before": -12.6,
+      "beforePeak": -6.3,
+      "after": -9.4,
+      "afterPeak": -3.1,
+      "gainDb": 3.7,
+      "seconds": 3.3,
+      "bytes": 53959,
+      "perceived": -15
+    },
+    "003ff726": {
+      "before": -12.8,
+      "beforePeak": -5.8,
+      "after": -11.1,
+      "afterPeak": -4.4,
+      "gainDb": 1.8,
+      "seconds": 1.83,
+      "bytes": 30136,
+      "perceived": -15
+    },
+    "01567215": {
+      "before": -14.7,
+      "beforePeak": -7,
+      "after": -9.7,
+      "afterPeak": -2,
+      "gainDb": 5.4,
+      "seconds": 2.13,
+      "bytes": 35151,
+      "perceived": -15
+    },
+    "0187e43b": {
+      "before": -12.8,
+      "beforePeak": -6.3,
+      "after": -11.2,
+      "afterPeak": -4.6,
+      "gainDb": 2.2,
+      "seconds": 3.54,
+      "bytes": 57721,
+      "perceived": -15
+    },
+    "018db1f9": {
+      "before": -13.4,
+      "beforePeak": -3.7,
+      "after": -11.2,
+      "afterPeak": -1.9,
+      "gainDb": 2.5,
+      "seconds": 1.97,
+      "bytes": 32643,
+      "perceived": -15
+    },
+    "029573a3": {
+      "before": -13.6,
+      "beforePeak": -6.9,
+      "after": -10.9,
+      "afterPeak": -4.2,
+      "gainDb": 3.1,
+      "seconds": 3.66,
+      "bytes": 59393,
+      "perceived": -15
+    },
+    "03006086": {
+      "before": -12.3,
+      "beforePeak": -6.8,
+      "after": -10.7,
+      "afterPeak": -5.2,
+      "gainDb": 2,
+      "seconds": 3.45,
+      "bytes": 56467,
+      "perceived": -15
+    },
+    "03ab8d7d": {
+      "before": -10.9,
+      "beforePeak": -6.5,
+      "after": -10.3,
+      "afterPeak": -5.9,
+      "gainDb": 1.1,
+      "seconds": 1.82,
+      "bytes": 30136,
+      "perceived": -15
+    },
+    "03cb7a56": {
+      "before": -13.9,
+      "beforePeak": -6.4,
+      "after": -11.2,
+      "afterPeak": -3.6,
+      "gainDb": 3.2,
+      "seconds": 1.52,
+      "bytes": 25538,
+      "perceived": -15
+    },
+    "05fdb2e5": {
+      "before": -13,
+      "beforePeak": -5.8,
+      "after": -11.2,
+      "afterPeak": -3.8,
+      "gainDb": 2.4,
+      "seconds": 2.59,
+      "bytes": 42674,
+      "perceived": -15
+    },
+    "06b9f694": {
+      "before": -12.2,
+      "beforePeak": -5.4,
+      "after": -11.4,
+      "afterPeak": -4.5,
+      "gainDb": 1.3,
+      "seconds": 3.29,
+      "bytes": 53959,
+      "perceived": -15
+    },
+    "072bdf14": {
+      "before": -13.6,
+      "beforePeak": -6.8,
+      "after": -11,
+      "afterPeak": -4.2,
+      "gainDb": 3,
+      "seconds": 2.32,
+      "bytes": 38077,
+      "perceived": -15
+    },
+    "077b5eac": {
+      "before": -12.3,
+      "beforePeak": -6.3,
+      "after": -11.9,
+      "afterPeak": -5.9,
+      "gainDb": 0.9,
+      "seconds": 1.72,
+      "bytes": 28464,
+      "perceived": -15
+    },
+    "07b2ac22": {
+      "before": -14.3,
+      "beforePeak": -6.8,
+      "after": -10,
+      "afterPeak": -2.3,
+      "gainDb": 4.9,
+      "seconds": 2.17,
+      "bytes": 35987,
+      "perceived": -15
+    },
+    "07b7bd4b": {
+      "before": -13.4,
+      "beforePeak": -6.6,
+      "after": -11,
+      "afterPeak": -4.2,
+      "gainDb": 2.8,
+      "seconds": 2.92,
+      "bytes": 47690,
+      "perceived": -15
+    },
+    "07be433b": {
+      "before": -13,
+      "beforePeak": -6.5,
+      "after": -11.1,
+      "afterPeak": -4.6,
+      "gainDb": 2.4,
+      "seconds": 2.94,
+      "bytes": 48108,
+      "perceived": -15
+    },
+    "0832e889": {
+      "before": -13.5,
+      "beforePeak": -5.7,
+      "after": -11,
+      "afterPeak": -3.4,
+      "gainDb": 2.8,
+      "seconds": 3.94,
+      "bytes": 63990,
+      "perceived": -15
+    },
+    "0863938f": {
+      "before": -11.9,
+      "beforePeak": -6.2,
+      "after": -10.7,
+      "afterPeak": -4.9,
+      "gainDb": 1.7,
+      "seconds": 3.52,
+      "bytes": 57303,
+      "perceived": -15
+    },
+    "0894509d": {
+      "before": -12.4,
+      "beforePeak": -6.3,
+      "after": -10.4,
+      "afterPeak": -4.5,
+      "gainDb": 2.2,
+      "seconds": 3.88,
+      "bytes": 63154,
+      "perceived": -15
+    },
+    "0927e78e": {
+      "before": -13.6,
+      "beforePeak": -6.9,
+      "after": -11.1,
+      "afterPeak": -4.3,
+      "gainDb": 3,
+      "seconds": 4.06,
+      "bytes": 66080,
+      "perceived": -15
+    },
+    "09cef14c": {
+      "before": -13.4,
+      "beforePeak": -5.9,
+      "after": -11.4,
+      "afterPeak": -3.8,
+      "gainDb": 2.5,
+      "seconds": 3.8,
+      "bytes": 61901,
+      "perceived": -15
+    },
+    "0a77e5c3": {
+      "before": -13.9,
+      "beforePeak": -6.3,
+      "after": -10.6,
+      "afterPeak": -3.3,
+      "gainDb": 3.4,
+      "seconds": 2.39,
+      "bytes": 39331,
+      "perceived": -15
+    },
+    "0aa521ff": {
+      "before": -13.2,
+      "beforePeak": -7.2,
+      "after": -11.7,
+      "afterPeak": -5.6,
+      "gainDb": 2,
+      "seconds": 1.94,
+      "bytes": 32225,
+      "perceived": -15
+    },
+    "0b31fdbd": {
+      "before": -14.5,
+      "beforePeak": -4.5,
+      "after": -11.3,
+      "afterPeak": -1.9,
+      "gainDb": 3.7,
+      "seconds": 2.82,
+      "bytes": 46018,
+      "perceived": -15
+    },
+    "0b77d8f5": {
+      "before": -13.8,
+      "beforePeak": -4.5,
+      "after": -10.6,
+      "afterPeak": -1.8,
+      "gainDb": 3.8,
+      "seconds": 1.21,
+      "bytes": 20523,
+      "perceived": -15
+    },
+    "0bcd6c8a": {
+      "before": -12.1,
+      "beforePeak": -6.6,
+      "after": -10.2,
+      "afterPeak": -4.6,
+      "gainDb": 2.5,
+      "seconds": 2.36,
+      "bytes": 38913,
+      "perceived": -15
+    },
+    "0cc0b642": {
+      "before": -11.3,
+      "beforePeak": -5.5,
+      "after": -9.5,
+      "afterPeak": -3.7,
+      "gainDb": 2.2,
+      "seconds": 1.78,
+      "bytes": 29718,
+      "perceived": -15
+    },
+    "0cdf3a93": {
+      "before": -13.1,
+      "beforePeak": -4.8,
+      "after": -11,
+      "afterPeak": -2.6,
+      "gainDb": 2.6,
+      "seconds": 1.33,
+      "bytes": 22194,
+      "perceived": -15
+    },
+    "0ce2876e": {
+      "before": -13.9,
+      "beforePeak": -4.9,
+      "after": -10.9,
+      "afterPeak": -2,
+      "gainDb": 3.6,
+      "seconds": 2.96,
+      "bytes": 48526,
+      "perceived": -15
+    },
+    "0ce3a05b": {
+      "before": -11.6,
+      "beforePeak": -6.5,
+      "after": -10.5,
+      "afterPeak": -5.4,
+      "gainDb": 1.6,
+      "seconds": 2.49,
+      "bytes": 41003,
+      "perceived": -15
+    },
+    "0d20a484": {
+      "before": -13.5,
+      "beforePeak": -6.4,
+      "after": -11.9,
+      "afterPeak": -4.6,
+      "gainDb": 2.2,
+      "seconds": 2.42,
+      "bytes": 39749,
+      "perceived": -15
+    },
+    "0d48c012": {
+      "before": -12.9,
+      "beforePeak": -6.5,
+      "after": -10.8,
+      "afterPeak": -4.3,
+      "gainDb": 2.6,
+      "seconds": 3.02,
+      "bytes": 49362,
+      "perceived": -15
+    },
+    "0db71741": {
+      "before": -14.6,
+      "beforePeak": -6.9,
+      "after": -10.7,
+      "afterPeak": -3.1,
+      "gainDb": 4.4,
+      "seconds": 2.16,
+      "bytes": 35569,
+      "perceived": -15
+    },
+    "0dfae197": {
+      "before": -12.6,
+      "beforePeak": -5.3,
+      "after": -10.8,
+      "afterPeak": -3.5,
+      "gainDb": 2.3,
+      "seconds": 2.73,
+      "bytes": 44764,
+      "perceived": -15
+    },
+    "0ed14054": {
+      "before": -13.3,
+      "beforePeak": -6.5,
+      "after": -9.5,
+      "afterPeak": -2.5,
+      "gainDb": 4.4,
+      "seconds": 2.51,
+      "bytes": 41421,
+      "perceived": -15
+    },
+    "108136c0": {
+      "before": -12.4,
+      "beforePeak": -6.4,
+      "after": -9.8,
+      "afterPeak": -4,
+      "gainDb": 2.9,
+      "seconds": 1.61,
+      "bytes": 26792,
+      "perceived": -15
+    },
+    "11893b7b": {
+      "before": -13.5,
+      "beforePeak": -6.8,
+      "after": -11.3,
+      "afterPeak": -4.6,
+      "gainDb": 2.7,
+      "seconds": 2.95,
+      "bytes": 48526,
+      "perceived": -15
+    },
+    "120867dc": {
+      "before": -13.5,
+      "beforePeak": -6.1,
+      "after": -11.6,
+      "afterPeak": -4.3,
+      "gainDb": 2.3,
+      "seconds": 2.65,
+      "bytes": 43510,
+      "perceived": -15
+    },
+    "12103c9b": {
+      "before": -12.4,
+      "beforePeak": -6.7,
+      "after": -11.2,
+      "afterPeak": -5.5,
+      "gainDb": 1.7,
+      "seconds": 3.39,
+      "bytes": 55213,
+      "perceived": -15
+    },
+    "122000f4": {
+      "before": -13.3,
+      "beforePeak": -6.2,
+      "after": -11.3,
+      "afterPeak": -4.2,
+      "gainDb": 2.5,
+      "seconds": 2.15,
+      "bytes": 35569,
+      "perceived": -15
+    },
+    "12450a10": {
+      "before": -11.7,
+      "beforePeak": -5.5,
+      "after": -10.6,
+      "afterPeak": -4.4,
+      "gainDb": 1.6,
+      "seconds": 2.16,
+      "bytes": 35569,
+      "perceived": -15
+    },
+    "1270446a": {
+      "before": -11,
+      "beforePeak": -6.1,
+      "after": -10.2,
+      "afterPeak": -5.2,
+      "gainDb": 1.4,
+      "seconds": 2.44,
+      "bytes": 40167,
+      "perceived": -15
+    },
+    "12f6dbf4": {
+      "before": -11.8,
+      "beforePeak": -5.7,
+      "after": -11.6,
+      "afterPeak": -5.1,
+      "gainDb": 0.9,
+      "seconds": 1.57,
+      "bytes": 26374,
+      "perceived": -15
+    },
+    "13aabb81": {
+      "before": -11.3,
+      "beforePeak": -5.6,
+      "after": -9.8,
+      "afterPeak": -4,
+      "gainDb": 2.1,
+      "seconds": 2.69,
+      "bytes": 44346,
+      "perceived": -15
+    },
+    "13b581c5": {
+      "before": -13.3,
+      "beforePeak": -6.6,
+      "after": -11.1,
+      "afterPeak": -4.4,
+      "gainDb": 2.6,
+      "seconds": 4.57,
+      "bytes": 74439,
+      "perceived": -15
+    },
+    "13ce54f3": {
+      "before": -12.4,
+      "beforePeak": -7.1,
+      "after": -10.8,
+      "afterPeak": -5.6,
+      "gainDb": 1.9,
+      "seconds": 2.87,
+      "bytes": 47272,
+      "perceived": -15
+    },
+    "142a51c9": {
+      "before": -11.5,
+      "beforePeak": -6.1,
+      "after": -9.7,
+      "afterPeak": -4.4,
+      "gainDb": 2.2,
+      "seconds": 1.86,
+      "bytes": 30972,
+      "perceived": -15
+    },
+    "160d56db": {
+      "before": -14.2,
+      "beforePeak": -7,
+      "after": -10.8,
+      "afterPeak": -3.5,
+      "gainDb": 3.9,
+      "seconds": 2.79,
+      "bytes": 45600,
+      "perceived": -15
+    },
+    "1611d66f": {
+      "before": -12.9,
+      "beforePeak": -4.4,
+      "after": -11.3,
+      "afterPeak": -2.7,
+      "gainDb": 2.1,
+      "seconds": 2.15,
+      "bytes": 35569,
+      "perceived": -15
+    },
+    "16f6b824": {
+      "before": -12.4,
+      "beforePeak": -6.4,
+      "after": -11.2,
+      "afterPeak": -5.1,
+      "gainDb": 1.8,
+      "seconds": 3.16,
+      "bytes": 51452,
+      "perceived": -15
+    },
+    "1786a060": {
+      "before": -12.8,
+      "beforePeak": -5.3,
+      "after": -10.8,
+      "afterPeak": -3.3,
+      "gainDb": 2.5,
+      "seconds": 1.89,
+      "bytes": 31390,
+      "perceived": -15
+    },
+    "17d6b11b": {
+      "before": -13.2,
+      "beforePeak": -6.1,
+      "after": -10.3,
+      "afterPeak": -3.3,
+      "gainDb": 3.2,
+      "seconds": 1.54,
+      "bytes": 25956,
+      "perceived": -15
+    },
+    "17f76633": {
+      "before": -13.4,
+      "beforePeak": -7.2,
+      "after": -12.1,
+      "afterPeak": -5.8,
+      "gainDb": 1.8,
+      "seconds": 2.05,
+      "bytes": 33897,
+      "perceived": -15
+    },
+    "1924bd6e": {
+      "before": -13.4,
+      "beforePeak": -5.4,
+      "after": -11.1,
+      "afterPeak": -3.1,
+      "gainDb": 2.7,
+      "seconds": 4.58,
+      "bytes": 74439,
+      "perceived": -15
+    },
+    "194df0c6": {
+      "before": -13,
+      "beforePeak": -5.9,
+      "after": -11.4,
+      "afterPeak": -4.2,
+      "gainDb": 2.1,
+      "seconds": 2.31,
+      "bytes": 38077,
+      "perceived": -15
+    },
+    "1adbe180": {
+      "before": -13.4,
+      "beforePeak": -6.8,
+      "after": -10.3,
+      "afterPeak": -3.8,
+      "gainDb": 3.5,
+      "seconds": 3.42,
+      "bytes": 55631,
+      "perceived": -15
+    },
+    "1bedf86c": {
+      "before": -11.4,
+      "beforePeak": -6.4,
+      "after": -10.4,
+      "afterPeak": -5.3,
+      "gainDb": 1.5,
+      "seconds": 1.76,
+      "bytes": 29300,
+      "perceived": -15
+    },
+    "1c0ac46b": {
+      "before": -12.6,
+      "beforePeak": -5.3,
+      "after": -10.7,
+      "afterPeak": -3.2,
+      "gainDb": 2.5,
+      "seconds": 3.75,
+      "bytes": 61065,
+      "perceived": -15
+    },
+    "1c0f73f8": {
+      "before": -13.3,
+      "beforePeak": -4.4,
+      "after": -10.1,
+      "afterPeak": -1.9,
+      "gainDb": 3.9,
+      "seconds": 5.35,
+      "bytes": 86560,
+      "perceived": -15
+    },
+    "1cb24a62": {
+      "before": -14.2,
+      "beforePeak": -6.2,
+      "after": -11.5,
+      "afterPeak": -3.6,
+      "gainDb": 3.1,
+      "seconds": 2.21,
+      "bytes": 36405,
+      "perceived": -15
+    },
+    "1d78d130": {
+      "before": -13.2,
+      "beforePeak": -4.2,
+      "after": -11.2,
+      "afterPeak": -2.1,
+      "gainDb": 2.5,
+      "seconds": 4.12,
+      "bytes": 66916,
+      "perceived": -15
+    },
+    "1dda0ea3": {
+      "before": -13.1,
+      "beforePeak": -5.5,
+      "after": -10.9,
+      "afterPeak": -3.3,
+      "gainDb": 2.6,
+      "seconds": 1.99,
+      "bytes": 33061,
+      "perceived": -15
+    },
+    "1e37ce7e": {
+      "before": -12.3,
+      "beforePeak": -6.5,
+      "after": -11.6,
+      "afterPeak": -5.9,
+      "gainDb": 1.1,
+      "seconds": 1.78,
+      "bytes": 29718,
+      "perceived": -15
+    },
+    "1edb20a3": {
+      "before": -11.3,
+      "beforePeak": -6.1,
+      "after": -9.7,
+      "afterPeak": -4.4,
+      "gainDb": 2.1,
+      "seconds": 1.9,
+      "bytes": 31390,
+      "perceived": -15
+    },
+    "1f326839": {
+      "before": -12.3,
+      "beforePeak": -4.8,
+      "after": -10.7,
+      "afterPeak": -3.3,
+      "gainDb": 2,
+      "seconds": 2.82,
+      "bytes": 46436,
+      "perceived": -15
+    },
+    "2067eb17": {
+      "before": -12.4,
+      "beforePeak": -6.4,
+      "after": -10.8,
+      "afterPeak": -4.6,
+      "gainDb": 2.2,
+      "seconds": 1.88,
+      "bytes": 31390,
+      "perceived": -15
+    },
+    "20f30df1": {
+      "before": -11.9,
+      "beforePeak": -6.4,
+      "after": -10.5,
+      "afterPeak": -5.1,
+      "gainDb": 1.8,
+      "seconds": 2.4,
+      "bytes": 39331,
+      "perceived": -15
+    },
+    "213227df": {
+      "before": -13,
+      "beforePeak": -6.1,
+      "after": -10.6,
+      "afterPeak": -3.8,
+      "gainDb": 2.8,
+      "seconds": 3.51,
+      "bytes": 57303,
+      "perceived": -15
+    },
+    "232684e8": {
+      "before": -13,
+      "beforePeak": -6.3,
+      "after": -11.2,
+      "afterPeak": -5,
+      "gainDb": 1.7,
+      "seconds": 3.11,
+      "bytes": 50616,
+      "perceived": -15
+    },
+    "237346c0": {
+      "before": -13.6,
+      "beforePeak": -4.5,
+      "after": -10.9,
+      "afterPeak": -2,
+      "gainDb": 3.6,
+      "seconds": 2.46,
+      "bytes": 40585,
+      "perceived": -15
+    },
+    "25b4c4f2": {
+      "before": -12.8,
+      "beforePeak": -6.5,
+      "after": -11,
+      "afterPeak": -4.6,
+      "gainDb": 2.3,
+      "seconds": 2.35,
+      "bytes": 38495,
+      "perceived": -15
+    },
+    "25c72d56": {
+      "before": -13.9,
+      "beforePeak": -5.9,
+      "after": -10.7,
+      "afterPeak": -2.6,
+      "gainDb": 3.7,
+      "seconds": 7.44,
+      "bytes": 119997,
+      "perceived": -15
+    },
+    "25f98162": {
+      "before": -11.8,
+      "beforePeak": -7,
+      "after": -11.3,
+      "afterPeak": -6.5,
+      "gainDb": 0.9,
+      "seconds": 2.66,
+      "bytes": 43510,
+      "perceived": -15
+    },
+    "265abe3a": {
+      "before": -11.5,
+      "beforePeak": -6.5,
+      "after": -10.5,
+      "afterPeak": -5.3,
+      "gainDb": 1.6,
+      "seconds": 3.18,
+      "bytes": 51870,
+      "perceived": -15
+    },
+    "269e4113": {
+      "before": -12.8,
+      "beforePeak": -6.7,
+      "after": -11.9,
+      "afterPeak": -5.7,
+      "gainDb": 1.5,
+      "seconds": 2.92,
+      "bytes": 47690,
+      "perceived": -15
+    },
+    "2708789b": {
+      "before": -13.3,
+      "beforePeak": -7,
+      "after": -10.5,
+      "afterPeak": -4.4,
+      "gainDb": 3,
+      "seconds": 2.97,
+      "bytes": 48526,
+      "perceived": -15
+    },
+    "2724b2d7": {
+      "before": -13.4,
+      "beforePeak": -5.9,
+      "after": -11.3,
+      "afterPeak": -3.8,
+      "gainDb": 2.6,
+      "seconds": 3.31,
+      "bytes": 53959,
+      "perceived": -15
+    },
+    "27996b63": {
+      "before": -13.8,
+      "beforePeak": -6.7,
+      "after": -11.1,
+      "afterPeak": -4,
+      "gainDb": 3.1,
+      "seconds": 3.51,
+      "bytes": 57303,
+      "perceived": -15
+    },
+    "27dd3b56": {
+      "before": -14.6,
+      "beforePeak": -5.2,
+      "after": -9.8,
+      "afterPeak": -2,
+      "gainDb": 5.2,
+      "seconds": 2.3,
+      "bytes": 38077,
+      "perceived": -15.1
+    },
+    "2827c345": {
+      "before": -12.3,
+      "beforePeak": -5.5,
+      "after": -10.9,
+      "afterPeak": -4.2,
+      "gainDb": 1.8,
+      "seconds": 1.52,
+      "bytes": 25538,
+      "perceived": -15
+    },
+    "28425e5f": {
+      "before": -14.3,
+      "beforePeak": -5.6,
+      "after": -10,
+      "afterPeak": -1.9,
+      "gainDb": 5.1,
+      "seconds": 2.32,
+      "bytes": 38495,
+      "perceived": -15
+    },
+    "288fa5a2": {
+      "before": -13.4,
+      "beforePeak": -5.9,
+      "after": -12,
+      "afterPeak": -4.3,
+      "gainDb": 2.1,
+      "seconds": 2.1,
+      "bytes": 34733,
+      "perceived": -15
+    },
+    "295fc7d3": {
+      "before": -13.4,
+      "beforePeak": -6.5,
+      "after": -11.7,
+      "afterPeak": -4.6,
+      "gainDb": 2.3,
+      "seconds": 2.95,
+      "bytes": 48108,
+      "perceived": -15
+    },
+    "2a1ac3ef": {
+      "before": -12.5,
+      "beforePeak": -6.6,
+      "after": -10.4,
+      "afterPeak": -4.6,
+      "gainDb": 2.5,
+      "seconds": 2.12,
+      "bytes": 34733,
+      "perceived": -15
+    },
+    "2a6071da": {
+      "before": -12.2,
+      "beforePeak": -5,
+      "after": -10.9,
+      "afterPeak": -3.5,
+      "gainDb": 1.9,
+      "seconds": 3.17,
+      "bytes": 51870,
+      "perceived": -15
+    },
+    "2a824317": {
+      "before": -13.5,
+      "beforePeak": -7.1,
+      "after": -11.1,
+      "afterPeak": -4.5,
+      "gainDb": 3,
+      "seconds": 1.78,
+      "bytes": 29718,
+      "perceived": -15
+    },
+    "2a8982d3": {
+      "before": -12.4,
+      "beforePeak": -5.3,
+      "after": -11.5,
+      "afterPeak": -4.2,
+      "gainDb": 1.6,
+      "seconds": 2.52,
+      "bytes": 41421,
+      "perceived": -15
+    },
+    "2aca7565": {
+      "before": -13.2,
+      "beforePeak": -6.9,
+      "after": -10.1,
+      "afterPeak": -3.8,
+      "gainDb": 3.6,
+      "seconds": 2.62,
+      "bytes": 43092,
+      "perceived": -15
+    },
+    "2ad85afd": {
+      "before": -11.9,
+      "beforePeak": -6.2,
+      "after": -10.6,
+      "afterPeak": -4.8,
+      "gainDb": 1.9,
+      "seconds": 4,
+      "bytes": 65244,
+      "perceived": -15
+    },
+    "2af9efa3": {
+      "before": -12.7,
+      "beforePeak": -5.4,
+      "after": -10.3,
+      "afterPeak": -3.1,
+      "gainDb": 2.8,
+      "seconds": 3.88,
+      "bytes": 63154,
+      "perceived": -15
+    },
+    "2b186cfe": {
+      "before": -11.8,
+      "beforePeak": -6.5,
+      "after": -10.7,
+      "afterPeak": -4.8,
+      "gainDb": 2.1,
+      "seconds": 2.12,
+      "bytes": 35151,
+      "perceived": -15
+    },
+    "2b3a30e3": {
+      "before": -12.7,
+      "beforePeak": -5.2,
+      "after": -10.1,
+      "afterPeak": -2.4,
+      "gainDb": 3.3,
+      "seconds": 2.63,
+      "bytes": 43092,
+      "perceived": -15
+    },
+    "2c308440": {
+      "before": -13.9,
+      "beforePeak": -4.7,
+      "after": -10.1,
+      "afterPeak": -2,
+      "gainDb": 4.4,
+      "seconds": 4.26,
+      "bytes": 69424,
+      "perceived": -15
+    },
+    "2c89788c": {
+      "before": -12,
+      "beforePeak": -6.3,
+      "after": -10.8,
+      "afterPeak": -5,
+      "gainDb": 1.8,
+      "seconds": 2.44,
+      "bytes": 40167,
+      "perceived": -15
+    },
+    "2d5e3375": {
+      "before": -12.8,
+      "beforePeak": -6.8,
+      "after": -11.6,
+      "afterPeak": -5.6,
+      "gainDb": 1.7,
+      "seconds": 2.28,
+      "bytes": 37659,
+      "perceived": -15
+    },
+    "2d6921f2": {
+      "before": -13.3,
+      "beforePeak": -6.9,
+      "after": -11.3,
+      "afterPeak": -4.8,
+      "gainDb": 2.6,
+      "seconds": 3.83,
+      "bytes": 62318,
+      "perceived": -15
+    },
+    "2dc5834e": {
+      "before": -11.2,
+      "beforePeak": -5.9,
+      "after": -11.8,
+      "afterPeak": -6.4,
+      "gainDb": 0,
+      "seconds": 1.52,
+      "bytes": 25538,
+      "perceived": -15.3
+    },
+    "2e5e9556": {
+      "before": -12.7,
+      "beforePeak": -7,
+      "after": -11.2,
+      "afterPeak": -5.7,
+      "gainDb": 1.7,
+      "seconds": 1.95,
+      "bytes": 32225,
+      "perceived": -15
+    },
+    "2f66a405": {
+      "before": -13.6,
+      "beforePeak": -3.3,
+      "after": -12.2,
+      "afterPeak": -2,
+      "gainDb": 1.8,
+      "seconds": 1.16,
+      "bytes": 19687,
+      "perceived": -15
+    },
+    "2fce87f0": {
+      "before": -13.3,
+      "beforePeak": -7.2,
+      "after": -12,
+      "afterPeak": -6,
+      "gainDb": 1.6,
+      "seconds": 2.04,
+      "bytes": 33897,
+      "perceived": -15
+    },
+    "2fec7893": {
+      "before": -13.7,
+      "beforePeak": -6,
+      "after": -9.9,
+      "afterPeak": -2.2,
+      "gainDb": 4.3,
+      "seconds": 2.34,
+      "bytes": 38495,
+      "perceived": -15
+    },
+    "317cf3e6": {
+      "before": -12.6,
+      "beforePeak": -5.1,
+      "after": -11.3,
+      "afterPeak": -3.6,
+      "gainDb": 1.9,
+      "seconds": 2.65,
+      "bytes": 43510,
+      "perceived": -15
+    },
+    "322688f1": {
+      "before": -12.2,
+      "beforePeak": -6.1,
+      "after": -10.1,
+      "afterPeak": -4,
+      "gainDb": 2.5,
+      "seconds": 2.32,
+      "bytes": 38077,
+      "perceived": -15
+    },
+    "324721b7": {
+      "before": -14.1,
+      "beforePeak": -4.9,
+      "after": -11.6,
+      "afterPeak": -2.1,
+      "gainDb": 3.2,
+      "seconds": 3.13,
+      "bytes": 51034,
+      "perceived": -15
+    },
+    "3295eb0e": {
+      "before": -13.1,
+      "beforePeak": -6.2,
+      "after": -11.9,
+      "afterPeak": -5.1,
+      "gainDb": 1.5,
+      "seconds": 1.57,
+      "bytes": 26374,
+      "perceived": -15
+    },
+    "3315c9af": {
+      "before": -13.6,
+      "beforePeak": -6.6,
+      "after": -10.5,
+      "afterPeak": -3.5,
+      "gainDb": 3.5,
+      "seconds": 4.1,
+      "bytes": 66916,
+      "perceived": -15
+    },
+    "34a6121e": {
+      "before": -12.2,
+      "beforePeak": -6.3,
+      "after": -11.4,
+      "afterPeak": -5.5,
+      "gainDb": 1.3,
+      "seconds": 1.8,
+      "bytes": 29718,
+      "perceived": -15
+    },
+    "352c67b7": {
+      "before": -14.3,
+      "beforePeak": -5.6,
+      "after": -11.1,
+      "afterPeak": -2.7,
+      "gainDb": 3.3,
+      "seconds": 1.69,
+      "bytes": 28046,
+      "perceived": -15
+    },
+    "35319d4d": {
+      "before": -13.4,
+      "beforePeak": -6.9,
+      "after": -11.6,
+      "afterPeak": -5.2,
+      "gainDb": 2.1,
+      "seconds": 3.04,
+      "bytes": 49780,
+      "perceived": -15
+    },
+    "35e70237": {
+      "before": -12.6,
+      "beforePeak": -6.8,
+      "after": -10.6,
+      "afterPeak": -4.7,
+      "gainDb": 2.5,
+      "seconds": 2.34,
+      "bytes": 38495,
+      "perceived": -15
+    },
+    "3624f721": {
+      "before": -12.9,
+      "beforePeak": -6.7,
+      "after": -10.1,
+      "afterPeak": -3.8,
+      "gainDb": 3.3,
+      "seconds": 3.43,
+      "bytes": 56049,
+      "perceived": -15
+    },
+    "375065f9": {
+      "before": -13.9,
+      "beforePeak": -4,
+      "after": -11.1,
+      "afterPeak": -1.9,
+      "gainDb": 3,
+      "seconds": 1.35,
+      "bytes": 22612,
+      "perceived": -15
+    },
+    "3769b7d8": {
+      "before": -13.5,
+      "beforePeak": -5.9,
+      "after": -11.5,
+      "afterPeak": -4,
+      "gainDb": 2.4,
+      "seconds": 2.41,
+      "bytes": 39749,
+      "perceived": -15
+    },
+    "3769d2c5": {
+      "before": -13.6,
+      "beforePeak": -5.6,
+      "after": -12.2,
+      "afterPeak": -4.2,
+      "gainDb": 1.9,
+      "seconds": 1.69,
+      "bytes": 28046,
+      "perceived": -15
+    },
+    "3833ac02": {
+      "before": -12.2,
+      "beforePeak": -5.5,
+      "after": -10,
+      "afterPeak": -3.4,
+      "gainDb": 2.6,
+      "seconds": 3.2,
+      "bytes": 52287,
+      "perceived": -15
+    },
+    "38f2891e": {
+      "before": -13.4,
+      "beforePeak": -6.8,
+      "after": -11,
+      "afterPeak": -4.4,
+      "gainDb": 2.8,
+      "seconds": 2.15,
+      "bytes": 35569,
+      "perceived": -15
+    },
+    "38ffc23c": {
+      "before": -11.9,
+      "beforePeak": -5,
+      "after": -10.3,
+      "afterPeak": -3.3,
+      "gainDb": 2.2,
+      "seconds": 2.93,
+      "bytes": 48108,
+      "perceived": -15
+    },
+    "3aa3114a": {
+      "before": -13.5,
+      "beforePeak": -5.6,
+      "after": -11.4,
+      "afterPeak": -3.5,
+      "gainDb": 2.5,
+      "seconds": 1.8,
+      "bytes": 30136,
+      "perceived": -15
+    },
+    "3ac78e78": {
+      "before": -13.5,
+      "beforePeak": -6.7,
+      "after": -11.2,
+      "afterPeak": -4.4,
+      "gainDb": 2.8,
+      "seconds": 1.98,
+      "bytes": 32643,
+      "perceived": -15
+    },
+    "3adfa741": {
+      "before": -13.2,
+      "beforePeak": -6.4,
+      "after": -11.5,
+      "afterPeak": -4.4,
+      "gainDb": 2.5,
+      "seconds": 2.09,
+      "bytes": 34733,
+      "perceived": -15
+    },
+    "3b808d72": {
+      "before": -12.3,
+      "beforePeak": -6.5,
+      "after": -10.9,
+      "afterPeak": -5,
+      "gainDb": 1.9,
+      "seconds": 2.85,
+      "bytes": 46854,
+      "perceived": -15
+    },
+    "3bb6e4d4": {
+      "before": -13.1,
+      "beforePeak": -5.3,
+      "after": -11,
+      "afterPeak": -3.2,
+      "gainDb": 2.6,
+      "seconds": 1.62,
+      "bytes": 26792,
+      "perceived": -15
+    },
+    "3beb2ec8": {
+      "before": -12.1,
+      "beforePeak": -3.9,
+      "after": -11.9,
+      "afterPeak": -3.7,
+      "gainDb": 0.7,
+      "seconds": 1.77,
+      "bytes": 29300,
+      "perceived": -15
+    },
+    "3d7f989f": {
+      "before": -12.6,
+      "beforePeak": -6.5,
+      "after": -11.1,
+      "afterPeak": -5.2,
+      "gainDb": 1.7,
+      "seconds": 1.82,
+      "bytes": 30136,
+      "perceived": -15
+    },
+    "3de3ad67": {
+      "before": -12.7,
+      "beforePeak": -6.4,
+      "after": -11.5,
+      "afterPeak": -5.1,
+      "gainDb": 1.7,
+      "seconds": 2.24,
+      "bytes": 37241,
+      "perceived": -15
+    },
+    "3e8b5d86": {
+      "before": -13.6,
+      "beforePeak": -6.9,
+      "after": -10.5,
+      "afterPeak": -3.6,
+      "gainDb": 3.7,
+      "seconds": 2.99,
+      "bytes": 48944,
+      "perceived": -15
+    },
+    "3ee7709a": {
+      "before": -12,
+      "beforePeak": -7.4,
+      "after": -11.6,
+      "afterPeak": -6.9,
+      "gainDb": 0.9,
+      "seconds": 1.95,
+      "bytes": 32225,
+      "perceived": -15
+    },
+    "3efebbac": {
+      "before": -13.8,
+      "beforePeak": -5.3,
+      "after": -10.9,
+      "afterPeak": -2.4,
+      "gainDb": 3.3,
+      "seconds": 2.52,
+      "bytes": 41421,
+      "perceived": -15
+    },
+    "3fabdda6": {
+      "before": -12,
+      "beforePeak": -6.8,
+      "after": -11.3,
+      "afterPeak": -6.1,
+      "gainDb": 1.1,
+      "seconds": 2.08,
+      "bytes": 34315,
+      "perceived": -15
+    },
+    "3fd06463": {
+      "before": -12.8,
+      "beforePeak": -6.9,
+      "after": -11.1,
+      "afterPeak": -5.1,
+      "gainDb": 2.2,
+      "seconds": 3.28,
+      "bytes": 53541,
+      "perceived": -15
+    },
+    "4064aa9c": {
+      "before": -12.8,
+      "beforePeak": -6.5,
+      "after": -11.1,
+      "afterPeak": -4.8,
+      "gainDb": 2.1,
+      "seconds": 3.46,
+      "bytes": 56467,
+      "perceived": -15
+    },
+    "409feac8": {
+      "before": -12.4,
+      "beforePeak": -5.7,
+      "after": -10.4,
+      "afterPeak": -3.6,
+      "gainDb": 2.5,
+      "seconds": 2.14,
+      "bytes": 35151,
+      "perceived": -15
+    },
+    "40b40cd3": {
+      "before": -13.8,
+      "beforePeak": -4.2,
+      "after": -11.5,
+      "afterPeak": -2,
+      "gainDb": 2.6,
+      "seconds": 2.14,
+      "bytes": 35151,
+      "perceived": -15
+    },
+    "40f33ac3": {
+      "before": -13.4,
+      "beforePeak": -4.3,
+      "after": -10.7,
+      "afterPeak": -2,
+      "gainDb": 2.9,
+      "seconds": 2.25,
+      "bytes": 36823,
+      "perceived": -15
+    },
+    "412be6b5": {
+      "before": -13.5,
+      "beforePeak": -7.1,
+      "after": -11.2,
+      "afterPeak": -4.8,
+      "gainDb": 2.7,
+      "seconds": 2.21,
+      "bytes": 36405,
+      "perceived": -15
+    },
+    "4141390d": {
+      "before": -13.5,
+      "beforePeak": -6,
+      "after": -10.8,
+      "afterPeak": -3.2,
+      "gainDb": 3.3,
+      "seconds": 3,
+      "bytes": 48944,
+      "perceived": -15
+    },
+    "417cc83f": {
+      "before": -11.7,
+      "beforePeak": -6.3,
+      "after": -10.7,
+      "afterPeak": -5.4,
+      "gainDb": 1.3,
+      "seconds": 2.4,
+      "bytes": 39331,
+      "perceived": -15
+    },
+    "4181f97a": {
+      "before": -13.3,
+      "beforePeak": -4.7,
+      "after": -11,
+      "afterPeak": -2.6,
+      "gainDb": 2.6,
+      "seconds": 2.55,
+      "bytes": 41838,
+      "perceived": -15
+    },
+    "41ef7431": {
+      "before": -11.5,
+      "beforePeak": -5.3,
+      "after": -10.9,
+      "afterPeak": -4.5,
+      "gainDb": 1.3,
+      "seconds": 2.8,
+      "bytes": 46018,
+      "perceived": -15
+    },
+    "41fe4823": {
+      "before": -12,
+      "beforePeak": -5.9,
+      "after": -10.7,
+      "afterPeak": -4.6,
+      "gainDb": 1.7,
+      "seconds": 3.14,
+      "bytes": 51452,
+      "perceived": -15
+    },
+    "421273b0": {
+      "before": -12.8,
+      "beforePeak": -6.6,
+      "after": -10.5,
+      "afterPeak": -4.7,
+      "gainDb": 2.4,
+      "seconds": 1.82,
+      "bytes": 30136,
+      "perceived": -15
+    },
+    "42c6a011": {
+      "before": -11.8,
+      "beforePeak": -6.2,
+      "after": -10.5,
+      "afterPeak": -5.1,
+      "gainDb": 1.5,
+      "seconds": 1.48,
+      "bytes": 24702,
+      "perceived": -15
+    },
+    "43f26006": {
+      "before": -13,
+      "beforePeak": -6.5,
+      "after": -10.4,
+      "afterPeak": -3.6,
+      "gainDb": 3.4,
+      "seconds": 3.19,
+      "bytes": 52287,
+      "perceived": -15
+    },
+    "4416e658": {
+      "before": -13.5,
+      "beforePeak": -5.7,
+      "after": -10.6,
+      "afterPeak": -2.8,
+      "gainDb": 3.3,
+      "seconds": 2.87,
+      "bytes": 47272,
+      "perceived": -15
+    },
+    "446e5d3f": {
+      "before": -13.6,
+      "beforePeak": -6.5,
+      "after": -10.9,
+      "afterPeak": -3.8,
+      "gainDb": 3.1,
+      "seconds": 3.63,
+      "bytes": 58975,
+      "perceived": -15
+    },
+    "461279fc": {
+      "before": -13.3,
+      "beforePeak": -7.5,
+      "after": -10.5,
+      "afterPeak": -4.8,
+      "gainDb": 3.1,
+      "seconds": 1.83,
+      "bytes": 30136,
+      "perceived": -15
+    },
+    "4695b20a": {
+      "before": -13.2,
+      "beforePeak": -6.4,
+      "after": -11.7,
+      "afterPeak": -4.8,
+      "gainDb": 2.1,
+      "seconds": 2.13,
+      "bytes": 35151,
+      "perceived": -15
+    },
+    "46ef4ea8": {
+      "before": -13,
+      "beforePeak": -6.3,
+      "after": -10.1,
+      "afterPeak": -3.5,
+      "gainDb": 3.3,
+      "seconds": 4.81,
+      "bytes": 78201,
+      "perceived": -15
+    },
+    "47343d3f": {
+      "before": -13.6,
+      "beforePeak": -5.4,
+      "after": -10.2,
+      "afterPeak": -2.1,
+      "gainDb": 3.7,
+      "seconds": 2.23,
+      "bytes": 36823,
+      "perceived": -15
+    },
+    "4782ef36": {
+      "before": -14,
+      "beforePeak": -7.1,
+      "after": -10.7,
+      "afterPeak": -3.8,
+      "gainDb": 3.7,
+      "seconds": 4.33,
+      "bytes": 70260,
+      "perceived": -15
+    },
+    "47e809ea": {
+      "before": -12.5,
+      "beforePeak": -6.5,
+      "after": -11.8,
+      "afterPeak": -5.7,
+      "gainDb": 1.2,
+      "seconds": 2.13,
+      "bytes": 35151,
+      "perceived": -15
+    },
+    "47fcac72": {
+      "before": -13.9,
+      "beforePeak": -6.7,
+      "after": -11.2,
+      "afterPeak": -4,
+      "gainDb": 3.1,
+      "seconds": 3.24,
+      "bytes": 53123,
+      "perceived": -15
+    },
+    "4a3e89d2": {
+      "before": -12.9,
+      "beforePeak": -4,
+      "after": -10.9,
+      "afterPeak": -1.9,
+      "gainDb": 2.5,
+      "seconds": 3.54,
+      "bytes": 57721,
+      "perceived": -15
+    },
+    "4a93e241": {
+      "before": -13,
+      "beforePeak": -5.8,
+      "after": -9.5,
+      "afterPeak": -2.1,
+      "gainDb": 4.2,
+      "seconds": 3.91,
+      "bytes": 63572,
+      "perceived": -15
+    },
+    "4a967a15": {
+      "before": -14.2,
+      "beforePeak": -6.7,
+      "after": -11.4,
+      "afterPeak": -4,
+      "gainDb": 3.2,
+      "seconds": 2.51,
+      "bytes": 41421,
+      "perceived": -15
+    },
+    "4a9bf7cc": {
+      "before": -11.7,
+      "beforePeak": -7.1,
+      "after": -10.4,
+      "afterPeak": -6,
+      "gainDb": 1.5,
+      "seconds": 3.37,
+      "bytes": 54795,
+      "perceived": -15
+    },
+    "4aaa7ed6": {
+      "before": -13.2,
+      "beforePeak": -6.2,
+      "after": -11,
+      "afterPeak": -4,
+      "gainDb": 2.7,
+      "seconds": 2.28,
+      "bytes": 37659,
+      "perceived": -15
+    },
+    "4ab35990": {
+      "before": -13.5,
+      "beforePeak": -6.5,
+      "after": -11.5,
+      "afterPeak": -4.4,
+      "gainDb": 2.5,
+      "seconds": 2.62,
+      "bytes": 43092,
+      "perceived": -15
+    },
+    "4ac1c834": {
+      "before": -12.4,
+      "beforePeak": -7.1,
+      "after": -11.5,
+      "afterPeak": -6.3,
+      "gainDb": 1.3,
+      "seconds": 1.85,
+      "bytes": 30554,
+      "perceived": -15
+    },
+    "4b349c1e": {
+      "before": -12.1,
+      "beforePeak": -5.7,
+      "after": -10.3,
+      "afterPeak": -4,
+      "gainDb": 2.1,
+      "seconds": 5.14,
+      "bytes": 83216,
+      "perceived": -15
+    },
+    "4b7f77be": {
+      "before": -11.7,
+      "beforePeak": -5.9,
+      "after": -10.6,
+      "afterPeak": -4.7,
+      "gainDb": 1.6,
+      "seconds": 2.62,
+      "bytes": 43092,
+      "perceived": -15
+    },
+    "4c36fa30": {
+      "before": -13.2,
+      "beforePeak": -6.5,
+      "after": -11.7,
+      "afterPeak": -5.1,
+      "gainDb": 1.9,
+      "seconds": 1.53,
+      "bytes": 25538,
+      "perceived": -15
+    },
+    "4c84bae9": {
+      "before": -13.2,
+      "beforePeak": -5.6,
+      "after": -11.1,
+      "afterPeak": -3.6,
+      "gainDb": 2.6,
+      "seconds": 1.72,
+      "bytes": 28464,
+      "perceived": -15
+    },
+    "4c8c29d0": {
+      "before": -14.2,
+      "beforePeak": -6.4,
+      "after": -11.3,
+      "afterPeak": -3.4,
+      "gainDb": 3.5,
+      "seconds": 1.71,
+      "bytes": 28464,
+      "perceived": -15
+    },
+    "4d9b14d1": {
+      "before": -13,
+      "beforePeak": -5.4,
+      "after": -12.2,
+      "afterPeak": -4.6,
+      "gainDb": 1.3,
+      "seconds": 1.8,
+      "bytes": 29718,
+      "perceived": -15
+    },
+    "4ea53050": {
+      "before": -13,
+      "beforePeak": -5,
+      "after": -11.4,
+      "afterPeak": -3.3,
+      "gainDb": 2.1,
+      "seconds": 1.58,
+      "bytes": 26374,
+      "perceived": -15
+    },
+    "4ed8909a": {
+      "before": -13.7,
+      "beforePeak": -6.6,
+      "after": -11.4,
+      "afterPeak": -4.4,
+      "gainDb": 2.6,
+      "seconds": 2.22,
+      "bytes": 36405,
+      "perceived": -15
+    },
+    "4f3e5652": {
+      "before": -14,
+      "beforePeak": -4.7,
+      "after": -11,
+      "afterPeak": -1.9,
+      "gainDb": 3.4,
+      "seconds": 1.37,
+      "bytes": 23030,
+      "perceived": -15
+    },
+    "4fca141c": {
+      "before": -12.7,
+      "beforePeak": -6.3,
+      "after": -10.6,
+      "afterPeak": -4.3,
+      "gainDb": 2.4,
+      "seconds": 2.63,
+      "bytes": 43092,
+      "perceived": -15
+    },
+    "506acf8a": {
+      "before": -13.1,
+      "beforePeak": -5.4,
+      "after": -11.4,
+      "afterPeak": -3.6,
+      "gainDb": 2.2,
+      "seconds": 3.97,
+      "bytes": 64408,
+      "perceived": -15
+    },
+    "511fd189": {
+      "before": -12.9,
+      "beforePeak": -6.8,
+      "after": -11,
+      "afterPeak": -5,
+      "gainDb": 2.3,
+      "seconds": 2.6,
+      "bytes": 42674,
+      "perceived": -15
+    },
+    "514817d8": {
+      "before": -14.7,
+      "beforePeak": -5.4,
+      "after": -10.8,
+      "afterPeak": -1.9,
+      "gainDb": 4.4,
+      "seconds": 2.29,
+      "bytes": 37659,
+      "perceived": -15
+    },
+    "51b0c4f6": {
+      "before": -13.4,
+      "beforePeak": -5.3,
+      "after": -10.2,
+      "afterPeak": -2.2,
+      "gainDb": 3.5,
+      "seconds": 1.97,
+      "bytes": 32643,
+      "perceived": -15
+    },
+    "51ebab61": {
+      "before": -13.6,
+      "beforePeak": -6.7,
+      "after": -10.8,
+      "afterPeak": -3.9,
+      "gainDb": 3.3,
+      "seconds": 2.39,
+      "bytes": 39331,
+      "perceived": -15
+    },
+    "52b3f4d0": {
+      "before": -13.7,
+      "beforePeak": -6.7,
+      "after": -10.4,
+      "afterPeak": -3.3,
+      "gainDb": 3.9,
+      "seconds": 2.75,
+      "bytes": 45182,
+      "perceived": -15
+    },
+    "550aeb93": {
+      "before": -14.1,
+      "beforePeak": -7.2,
+      "after": -11.8,
+      "afterPeak": -4.6,
+      "gainDb": 3,
+      "seconds": 1.54,
+      "bytes": 25956,
+      "perceived": -15
+    },
+    "55157ede": {
+      "before": -13.2,
+      "beforePeak": -7.8,
+      "after": -10.7,
+      "afterPeak": -5.2,
+      "gainDb": 3,
+      "seconds": 1.98,
+      "bytes": 32643,
+      "perceived": -15
+    },
+    "55bee21c": {
+      "before": -12.3,
+      "beforePeak": -6,
+      "after": -11,
+      "afterPeak": -4.8,
+      "gainDb": 1.7,
+      "seconds": 2.1,
+      "bytes": 34733,
+      "perceived": -15
+    },
+    "562343b8": {
+      "before": -14,
+      "beforePeak": -6.3,
+      "after": -11.5,
+      "afterPeak": -3.8,
+      "gainDb": 2.9,
+      "seconds": 3.33,
+      "bytes": 54377,
+      "perceived": -15
+    },
+    "568a67e7": {
+      "before": -14.7,
+      "beforePeak": -6.8,
+      "after": -10.1,
+      "afterPeak": -2.5,
+      "gainDb": 4.8,
+      "seconds": 2.25,
+      "bytes": 37241,
+      "perceived": -15
+    },
+    "5716a3c1": {
+      "before": -13.2,
+      "beforePeak": -4.8,
+      "after": -11.2,
+      "afterPeak": -2.7,
+      "gainDb": 2.5,
+      "seconds": 3.9,
+      "bytes": 63572,
+      "perceived": -15
+    },
+    "578dad5c": {
+      "before": -13.9,
+      "beforePeak": -6.1,
+      "after": -11.6,
+      "afterPeak": -3.8,
+      "gainDb": 2.7,
+      "seconds": 1.64,
+      "bytes": 27210,
+      "perceived": -15
+    },
+    "57a5753b": {
+      "before": -13.1,
+      "beforePeak": -5,
+      "after": -11,
+      "afterPeak": -2.9,
+      "gainDb": 2.6,
+      "seconds": 2.38,
+      "bytes": 38913,
+      "perceived": -15
+    },
+    "58893bee": {
+      "before": -13.4,
+      "beforePeak": -6.7,
+      "after": -11.5,
+      "afterPeak": -4.8,
+      "gainDb": 2.3,
+      "seconds": 2.05,
+      "bytes": 33897,
+      "perceived": -15
+    },
+    "58fb44b8": {
+      "before": -13.5,
+      "beforePeak": -5.2,
+      "after": -10.8,
+      "afterPeak": -2.5,
+      "gainDb": 3.2,
+      "seconds": 1.73,
+      "bytes": 28882,
+      "perceived": -15
+    },
+    "59306c80": {
+      "before": -13.6,
+      "beforePeak": -5.8,
+      "after": -10.9,
+      "afterPeak": -3.2,
+      "gainDb": 3,
+      "seconds": 2.41,
+      "bytes": 39749,
+      "perceived": -15
+    },
+    "59f5c75a": {
+      "before": -13.7,
+      "beforePeak": -4.6,
+      "after": -11.2,
+      "afterPeak": -1.9,
+      "gainDb": 3.2,
+      "seconds": 4.24,
+      "bytes": 69006,
+      "perceived": -15
+    },
+    "5c1a9c96": {
+      "before": -12.8,
+      "beforePeak": -6.8,
+      "after": -11.5,
+      "afterPeak": -5.2,
+      "gainDb": 2,
+      "seconds": 2.67,
+      "bytes": 43928,
+      "perceived": -15
+    },
+    "5c6ce262": {
+      "before": -11.7,
+      "beforePeak": -6.9,
+      "after": -12.2,
+      "afterPeak": -7.4,
+      "gainDb": 0,
+      "seconds": 1.63,
+      "bytes": 27210,
+      "perceived": -15.5
+    },
+    "5cca6ea3": {
+      "before": -13.5,
+      "beforePeak": -6.1,
+      "after": -10.4,
+      "afterPeak": -3,
+      "gainDb": 3.5,
+      "seconds": 2.11,
+      "bytes": 34733,
+      "perceived": -15
+    },
+    "5e39fd11": {
+      "before": -13.4,
+      "beforePeak": -6.2,
+      "after": -11.1,
+      "afterPeak": -4,
+      "gainDb": 2.7,
+      "seconds": 3.35,
+      "bytes": 54795,
+      "perceived": -15
+    },
+    "5e82dd90": {
+      "before": -13.4,
+      "beforePeak": -6.1,
+      "after": -11.7,
+      "afterPeak": -4.5,
+      "gainDb": 2.1,
+      "seconds": 2.54,
+      "bytes": 41838,
+      "perceived": -15
+    },
+    "5ec2064a": {
+      "before": -12.5,
+      "beforePeak": -6.7,
+      "after": -11,
+      "afterPeak": -5,
+      "gainDb": 2.1,
+      "seconds": 2.9,
+      "bytes": 47690,
+      "perceived": -15
+    },
+    "5ed11e77": {
+      "before": -11.9,
+      "beforePeak": -6.3,
+      "after": -10.9,
+      "afterPeak": -5.3,
+      "gainDb": 1.5,
+      "seconds": 2.5,
+      "bytes": 41003,
+      "perceived": -15
+    },
+    "5f2543b0": {
+      "before": -13.7,
+      "beforePeak": -6.5,
+      "after": -10.1,
+      "afterPeak": -2.9,
+      "gainDb": 4.1,
+      "seconds": 2.74,
+      "bytes": 44764,
+      "perceived": -15
+    },
+    "5f98d75c": {
+      "before": -12.6,
+      "beforePeak": -6.4,
+      "after": -12,
+      "afterPeak": -5.7,
+      "gainDb": 1.2,
+      "seconds": 2.36,
+      "bytes": 38913,
+      "perceived": -15
+    },
+    "602b51cf": {
+      "before": -13.1,
+      "beforePeak": -6.9,
+      "after": -11.7,
+      "afterPeak": -5.4,
+      "gainDb": 2,
+      "seconds": 2.38,
+      "bytes": 39331,
+      "perceived": -15
+    },
+    "602b6e14": {
+      "before": -11.8,
+      "beforePeak": -6.5,
+      "after": -10.5,
+      "afterPeak": -5.1,
+      "gainDb": 1.8,
+      "seconds": 2.78,
+      "bytes": 45600,
+      "perceived": -15
+    },
+    "602dd2fc": {
+      "before": -13.7,
+      "beforePeak": -5.8,
+      "after": -10.8,
+      "afterPeak": -2.9,
+      "gainDb": 3.4,
+      "seconds": 3.55,
+      "bytes": 57721,
+      "perceived": -15
+    },
+    "619116e0": {
+      "before": -14,
+      "beforePeak": -6.8,
+      "after": -10.9,
+      "afterPeak": -4,
+      "gainDb": 3.3,
+      "seconds": 2.69,
+      "bytes": 44346,
+      "perceived": -15
+    },
+    "62551e30": {
+      "before": -13.1,
+      "beforePeak": -6.1,
+      "after": -11.1,
+      "afterPeak": -4.1,
+      "gainDb": 2.5,
+      "seconds": 2.49,
+      "bytes": 41003,
+      "perceived": -15
+    },
+    "62a99ce8": {
+      "before": -12.9,
+      "beforePeak": -6.6,
+      "after": -11.5,
+      "afterPeak": -5.1,
+      "gainDb": 1.9,
+      "seconds": 1.49,
+      "bytes": 24702,
+      "perceived": -15
+    },
+    "62b5400b": {
+      "before": -13.5,
+      "beforePeak": -6.5,
+      "after": -10.3,
+      "afterPeak": -3.4,
+      "gainDb": 3.6,
+      "seconds": 1.12,
+      "bytes": 18851,
+      "perceived": -15
+    },
+    "631cf33a": {
+      "before": -13,
+      "beforePeak": -6.5,
+      "after": -11.2,
+      "afterPeak": -4.7,
+      "gainDb": 2.2,
+      "seconds": 3.69,
+      "bytes": 60229,
+      "perceived": -15
+    },
+    "63cbb71e": {
+      "before": -11.8,
+      "beforePeak": -6.7,
+      "after": -10.2,
+      "afterPeak": -5.2,
+      "gainDb": 1.9,
+      "seconds": 1.55,
+      "bytes": 25956,
+      "perceived": -15
+    },
+    "63d0307c": {
+      "before": -13.6,
+      "beforePeak": -6.9,
+      "after": -11.1,
+      "afterPeak": -4.2,
+      "gainDb": 3.1,
+      "seconds": 2.32,
+      "bytes": 38077,
+      "perceived": -15
+    },
+    "640850e8": {
+      "before": -12.6,
+      "beforePeak": -6.2,
+      "after": -10,
+      "afterPeak": -3.3,
+      "gainDb": 3.3,
+      "seconds": 3.88,
+      "bytes": 63154,
+      "perceived": -15
+    },
+    "64de9834": {
+      "before": -12.6,
+      "beforePeak": -5.8,
+      "after": -11.2,
+      "afterPeak": -4.3,
+      "gainDb": 2,
+      "seconds": 5.9,
+      "bytes": 95337,
+      "perceived": -15
+    },
+    "64f54e7e": {
+      "before": -13.1,
+      "beforePeak": -6.9,
+      "after": -11.4,
+      "afterPeak": -5.2,
+      "gainDb": 2.1,
+      "seconds": 1.9,
+      "bytes": 31390,
+      "perceived": -15
+    },
+    "65cf1921": {
+      "before": -13.7,
+      "beforePeak": -6.4,
+      "after": -10.9,
+      "afterPeak": -3.6,
+      "gainDb": 3.2,
+      "seconds": 3.22,
+      "bytes": 52705,
+      "perceived": -15
+    },
+    "65e65a3b": {
+      "before": -13.4,
+      "beforePeak": -6.7,
+      "after": -11.8,
+      "afterPeak": -5,
+      "gainDb": 2.1,
+      "seconds": 2.55,
+      "bytes": 41838,
+      "perceived": -15
+    },
+    "662a5e25": {
+      "before": -11.9,
+      "beforePeak": -6,
+      "after": -10.8,
+      "afterPeak": -4.9,
+      "gainDb": 1.5,
+      "seconds": 2.42,
+      "bytes": 39749,
+      "perceived": -15
+    },
+    "662d445b": {
+      "before": -13.1,
+      "beforePeak": -6.7,
+      "after": -10,
+      "afterPeak": -3.5,
+      "gainDb": 3.6,
+      "seconds": 3.02,
+      "bytes": 49362,
+      "perceived": -15
+    },
+    "66ca67ea": {
+      "before": -12.8,
+      "beforePeak": -3.8,
+      "after": -10.6,
+      "afterPeak": -1.9,
+      "gainDb": 2.5,
+      "seconds": 1.77,
+      "bytes": 29300,
+      "perceived": -15
+    },
+    "6812a4f7": {
+      "before": -13.3,
+      "beforePeak": -6,
+      "after": -11,
+      "afterPeak": -3.6,
+      "gainDb": 2.8,
+      "seconds": 3.91,
+      "bytes": 63572,
+      "perceived": -15
+    },
+    "684113e0": {
+      "before": -11.9,
+      "beforePeak": -6.5,
+      "after": -11.2,
+      "afterPeak": -5.6,
+      "gainDb": 1.3,
+      "seconds": 1.78,
+      "bytes": 29718,
+      "perceived": -15
+    },
+    "690d610f": {
+      "before": -13.2,
+      "beforePeak": -6.7,
+      "after": -10.5,
+      "afterPeak": -4,
+      "gainDb": 3.1,
+      "seconds": 3.41,
+      "bytes": 55631,
+      "perceived": -15
+    },
+    "6948523d": {
+      "before": -12,
+      "beforePeak": -6.6,
+      "after": -11.4,
+      "afterPeak": -5.9,
+      "gainDb": 1.1,
+      "seconds": 2.65,
+      "bytes": 43510,
+      "perceived": -15
+    },
+    "6ad407f0": {
+      "before": -14,
+      "beforePeak": -6,
+      "after": -11.7,
+      "afterPeak": -3.8,
+      "gainDb": 2.7,
+      "seconds": 1.41,
+      "bytes": 23866,
+      "perceived": -15
+    },
+    "6b1c3e06": {
+      "before": -14.2,
+      "beforePeak": -4.6,
+      "after": -10.7,
+      "afterPeak": -1.7,
+      "gainDb": 3.7,
+      "seconds": 2.46,
+      "bytes": 40585,
+      "perceived": -15
+    },
+    "6b1d8fbb": {
+      "before": -12.1,
+      "beforePeak": -7,
+      "after": -10.9,
+      "afterPeak": -5.7,
+      "gainDb": 1.8,
+      "seconds": 2.57,
+      "bytes": 42256,
+      "perceived": -15
+    },
+    "6cf3ce75": {
+      "before": -14,
+      "beforePeak": -4.8,
+      "after": -11.7,
+      "afterPeak": -2.8,
+      "gainDb": 2.4,
+      "seconds": 2.14,
+      "bytes": 35151,
+      "perceived": -15
+    },
+    "6dc6815b": {
+      "before": -13.5,
+      "beforePeak": -4.8,
+      "after": -10.1,
+      "afterPeak": -1.9,
+      "gainDb": 3.8,
+      "seconds": 3.99,
+      "bytes": 64826,
+      "perceived": -15
+    },
+    "6dd72c26": {
+      "before": -13.7,
+      "beforePeak": -6.3,
+      "after": -11,
+      "afterPeak": -3.5,
+      "gainDb": 3.3,
+      "seconds": 3.12,
+      "bytes": 51034,
+      "perceived": -15
+    },
+    "6e12b191": {
+      "before": -12.7,
+      "beforePeak": -5.1,
+      "after": -11.1,
+      "afterPeak": -3.4,
+      "gainDb": 2.1,
+      "seconds": 3.7,
+      "bytes": 60229,
+      "perceived": -15
+    },
+    "6e1ab8da": {
+      "before": -13.5,
+      "beforePeak": -5.9,
+      "after": -11.5,
+      "afterPeak": -3.8,
+      "gainDb": 2.5,
+      "seconds": 1.59,
+      "bytes": 26374,
+      "perceived": -15
+    },
+    "6ef9bb23": {
+      "before": -13.6,
+      "beforePeak": -6.7,
+      "after": -10.9,
+      "afterPeak": -3.9,
+      "gainDb": 3.3,
+      "seconds": 2.82,
+      "bytes": 46018,
+      "perceived": -15
+    },
+    "700a3bc0": {
+      "before": -12.9,
+      "beforePeak": -5.6,
+      "after": -10.9,
+      "afterPeak": -3.5,
+      "gainDb": 2.6,
+      "seconds": 2.64,
+      "bytes": 43092,
+      "perceived": -15
+    },
+    "7089b1d1": {
+      "before": -12.8,
+      "beforePeak": -6.7,
+      "after": -10.1,
+      "afterPeak": -3.8,
+      "gainDb": 3.4,
+      "seconds": 1.86,
+      "bytes": 30972,
+      "perceived": -15
+    },
+    "711adfc7": {
+      "before": -14.5,
+      "beforePeak": -5.9,
+      "after": -11.1,
+      "afterPeak": -2.5,
+      "gainDb": 3.9,
+      "seconds": 2.17,
+      "bytes": 35987,
+      "perceived": -15
+    },
+    "718e00b2": {
+      "before": -13.1,
+      "beforePeak": -5.9,
+      "after": -11.4,
+      "afterPeak": -4.3,
+      "gainDb": 2.1,
+      "seconds": 2.05,
+      "bytes": 33897,
+      "perceived": -15
+    },
+    "735b8fe9": {
+      "before": -13.5,
+      "beforePeak": -6.6,
+      "after": -11.6,
+      "afterPeak": -4.7,
+      "gainDb": 2.4,
+      "seconds": 2.41,
+      "bytes": 39749,
+      "perceived": -15
+    },
+    "739fcd29": {
+      "before": -12.3,
+      "beforePeak": -6.6,
+      "after": -11.3,
+      "afterPeak": -5.5,
+      "gainDb": 1.5,
+      "seconds": 1.56,
+      "bytes": 25956,
+      "perceived": -15
+    },
+    "73bcf381": {
+      "before": -13.2,
+      "beforePeak": -6.2,
+      "after": -9.7,
+      "afterPeak": -2.9,
+      "gainDb": 3.8,
+      "seconds": 1.45,
+      "bytes": 24284,
+      "perceived": -15
+    },
+    "74050d87": {
+      "before": -11.7,
+      "beforePeak": -6.2,
+      "after": -10.4,
+      "afterPeak": -4.9,
+      "gainDb": 1.8,
+      "seconds": 5.27,
+      "bytes": 85306,
+      "perceived": -15
+    },
+    "74452d09": {
+      "before": -13.3,
+      "beforePeak": -6.7,
+      "after": -11,
+      "afterPeak": -4.5,
+      "gainDb": 2.7,
+      "seconds": 2.31,
+      "bytes": 38077,
+      "perceived": -15
+    },
+    "754fb553": {
+      "before": -13.9,
+      "beforePeak": -7,
+      "after": -11.6,
+      "afterPeak": -4.8,
+      "gainDb": 2.6,
+      "seconds": 2.06,
+      "bytes": 33897,
+      "perceived": -15
+    },
+    "755ac262": {
+      "before": -11.4,
+      "beforePeak": -3.3,
+      "after": -10.9,
+      "afterPeak": -2.3,
+      "gainDb": 1.4,
+      "seconds": 1.34,
+      "bytes": 22612,
+      "perceived": -15
+    },
+    "768d6e32": {
+      "before": -11.9,
+      "beforePeak": -6.6,
+      "after": -10.3,
+      "afterPeak": -5,
+      "gainDb": 2,
+      "seconds": 2.56,
+      "bytes": 42256,
+      "perceived": -15
+    },
+    "7765f671": {
+      "before": -11.9,
+      "beforePeak": -6.6,
+      "after": -10.1,
+      "afterPeak": -4.5,
+      "gainDb": 2.5,
+      "seconds": 2.76,
+      "bytes": 45182,
+      "perceived": -15
+    },
+    "77deeb2f": {
+      "before": -12.8,
+      "beforePeak": -5.3,
+      "after": -11.3,
+      "afterPeak": -3.8,
+      "gainDb": 1.9,
+      "seconds": 1.56,
+      "bytes": 25956,
+      "perceived": -15
+    },
+    "78728e64": {
+      "before": -14.1,
+      "beforePeak": -6.3,
+      "after": -10.4,
+      "afterPeak": -2.5,
+      "gainDb": 4.3,
+      "seconds": 2.16,
+      "bytes": 35569,
+      "perceived": -15
+    },
+    "7886632f": {
+      "before": -13.5,
+      "beforePeak": -6.9,
+      "after": -12.1,
+      "afterPeak": -5.5,
+      "gainDb": 1.8,
+      "seconds": 1,
+      "bytes": 17179,
+      "perceived": -15
+    },
+    "78dbe29d": {
+      "before": -11.6,
+      "beforePeak": -6.7,
+      "after": -10.7,
+      "afterPeak": -5.8,
+      "gainDb": 1.3,
+      "seconds": 2.49,
+      "bytes": 41003,
+      "perceived": -15
+    },
+    "78de5934": {
+      "before": -12.3,
+      "beforePeak": -6.3,
+      "after": -11.7,
+      "afterPeak": -5.6,
+      "gainDb": 1.2,
+      "seconds": 0.97,
+      "bytes": 16761,
+      "perceived": -15
+    },
+    "795707e1": {
+      "before": -14.2,
+      "beforePeak": -6.9,
+      "after": -10.1,
+      "afterPeak": -2.9,
+      "gainDb": 4.5,
+      "seconds": 2.55,
+      "bytes": 41838,
+      "perceived": -15
+    },
+    "79acaa6c": {
+      "before": -12.9,
+      "beforePeak": -6.6,
+      "after": -10.9,
+      "afterPeak": -4.4,
+      "gainDb": 2.6,
+      "seconds": 3.65,
+      "bytes": 59393,
+      "perceived": -15
+    },
+    "79ad13fa": {
+      "before": -12.8,
+      "beforePeak": -6.9,
+      "after": -11.5,
+      "afterPeak": -5.7,
+      "gainDb": 1.6,
+      "seconds": 1.88,
+      "bytes": 31390,
+      "perceived": -15
+    },
+    "7a14dc0f": {
+      "before": -12.9,
+      "beforePeak": -6.3,
+      "after": -11.4,
+      "afterPeak": -4.7,
+      "gainDb": 2,
+      "seconds": 1.7,
+      "bytes": 28464,
+      "perceived": -15
+    },
+    "7a1f4233": {
+      "before": -12.9,
+      "beforePeak": -4.4,
+      "after": -11.1,
+      "afterPeak": -2.6,
+      "gainDb": 2.3,
+      "seconds": 2.45,
+      "bytes": 40167,
+      "perceived": -15
+    },
+    "7a41db72": {
+      "before": -12.9,
+      "beforePeak": -5.6,
+      "after": -10.6,
+      "afterPeak": -3.1,
+      "gainDb": 2.9,
+      "seconds": 1.78,
+      "bytes": 29300,
+      "perceived": -15
+    },
+    "7a5b5797": {
+      "before": -12.3,
+      "beforePeak": -4.6,
+      "after": -10,
+      "afterPeak": -2.6,
+      "gainDb": 2.4,
+      "seconds": 3.53,
+      "bytes": 57721,
+      "perceived": -15
+    },
+    "7a899d57": {
+      "before": -13.6,
+      "beforePeak": -6.9,
+      "after": -11.2,
+      "afterPeak": -4.6,
+      "gainDb": 2.8,
+      "seconds": 3.09,
+      "bytes": 50616,
+      "perceived": -15
+    },
+    "7b0f5c7c": {
+      "before": -13.7,
+      "beforePeak": -6.5,
+      "after": -11.4,
+      "afterPeak": -4.3,
+      "gainDb": 2.7,
+      "seconds": 2.97,
+      "bytes": 48526,
+      "perceived": -15
+    },
+    "7b158c9c": {
+      "before": -13.6,
+      "beforePeak": -6.8,
+      "after": -11.1,
+      "afterPeak": -4.4,
+      "gainDb": 2.9,
+      "seconds": 3.37,
+      "bytes": 55213,
+      "perceived": -15
+    },
+    "7b35d678": {
+      "before": -11.9,
+      "beforePeak": -6,
+      "after": -10,
+      "afterPeak": -4,
+      "gainDb": 2.5,
+      "seconds": 3.88,
+      "bytes": 63154,
+      "perceived": -15
+    },
+    "7c7eb5b2": {
+      "before": -13.4,
+      "beforePeak": -7,
+      "after": -10.7,
+      "afterPeak": -4.8,
+      "gainDb": 2.7,
+      "seconds": 2.17,
+      "bytes": 35987,
+      "perceived": -15
+    },
+    "7e00cf54": {
+      "before": -12.9,
+      "beforePeak": -6.5,
+      "after": -11.6,
+      "afterPeak": -5.2,
+      "gainDb": 1.7,
+      "seconds": 1.87,
+      "bytes": 30972,
+      "perceived": -15
+    },
+    "7e37ed76": {
+      "before": -12.1,
+      "beforePeak": -5.7,
+      "after": -11.5,
+      "afterPeak": -5,
+      "gainDb": 1.1,
+      "seconds": 2.99,
+      "bytes": 48944,
+      "perceived": -15
+    },
+    "7e3aedbd": {
+      "before": -14.8,
+      "beforePeak": -6.8,
+      "after": -10.2,
+      "afterPeak": -2.4,
+      "gainDb": 4.9,
+      "seconds": 2.97,
+      "bytes": 48526,
+      "perceived": -15
+    },
+    "7ea41e20": {
+      "before": -12.3,
+      "beforePeak": -6.6,
+      "after": -11.2,
+      "afterPeak": -5.3,
+      "gainDb": 1.8,
+      "seconds": 2.4,
+      "bytes": 39331,
+      "perceived": -15
+    },
+    "7ec5b46f": {
+      "before": -12.6,
+      "beforePeak": -6.3,
+      "after": -10.8,
+      "afterPeak": -4.4,
+      "gainDb": 2.3,
+      "seconds": 2.61,
+      "bytes": 42674,
+      "perceived": -15
+    },
+    "80d5fe92": {
+      "before": -13.7,
+      "beforePeak": -3.7,
+      "after": -11.3,
+      "afterPeak": -2,
+      "gainDb": 3,
+      "seconds": 2.94,
+      "bytes": 48108,
+      "perceived": -15
+    },
+    "8188b8f1": {
+      "before": -13.8,
+      "beforePeak": -5.9,
+      "after": -11.3,
+      "afterPeak": -3.4,
+      "gainDb": 3,
+      "seconds": 1.47,
+      "bytes": 24702,
+      "perceived": -15
+    },
+    "81f9099a": {
+      "before": -12.9,
+      "beforePeak": -4.6,
+      "after": -11.3,
+      "afterPeak": -3.1,
+      "gainDb": 2,
+      "seconds": 2.47,
+      "bytes": 40585,
+      "perceived": -15
+    },
+    "82380c8a": {
+      "before": -13.6,
+      "beforePeak": -7.5,
+      "after": -11.4,
+      "afterPeak": -5.2,
+      "gainDb": 2.7,
+      "seconds": 2.06,
+      "bytes": 34315,
+      "perceived": -15
+    },
+    "82c66528": {
+      "before": -12.4,
+      "beforePeak": -5.7,
+      "after": -10,
+      "afterPeak": -3.6,
+      "gainDb": 2.6,
+      "seconds": 2.55,
+      "bytes": 41838,
+      "perceived": -15
+    },
+    "82dc0011": {
+      "before": -12.6,
+      "beforePeak": -6.6,
+      "after": -11.1,
+      "afterPeak": -5,
+      "gainDb": 2,
+      "seconds": 3.97,
+      "bytes": 64408,
+      "perceived": -15
+    },
+    "83022b53": {
+      "before": -12.6,
+      "beforePeak": -6.5,
+      "after": -11.3,
+      "afterPeak": -5.3,
+      "gainDb": 1.7,
+      "seconds": 2.86,
+      "bytes": 46854,
+      "perceived": -15
+    },
+    "858706d9": {
+      "before": -13.4,
+      "beforePeak": -6.1,
+      "after": -10.4,
+      "afterPeak": -3.1,
+      "gainDb": 3.4,
+      "seconds": 4.72,
+      "bytes": 76529,
+      "perceived": -15
+    },
+    "85cd69ba": {
+      "before": -13.8,
+      "beforePeak": -6.4,
+      "after": -11.3,
+      "afterPeak": -3.7,
+      "gainDb": 3.1,
+      "seconds": 1.85,
+      "bytes": 30554,
+      "perceived": -15
+    },
+    "8658e853": {
+      "before": -13.2,
+      "beforePeak": -6.3,
+      "after": -10.6,
+      "afterPeak": -3.7,
+      "gainDb": 3,
+      "seconds": 2.27,
+      "bytes": 37241,
+      "perceived": -15
+    },
+    "86a0e43c": {
+      "before": -13.5,
+      "beforePeak": -6.2,
+      "after": -11.3,
+      "afterPeak": -3.9,
+      "gainDb": 2.8,
+      "seconds": 2.61,
+      "bytes": 43092,
+      "perceived": -15
+    },
+    "86a15d28": {
+      "before": -13.3,
+      "beforePeak": -4.3,
+      "after": -11,
+      "afterPeak": -1.9,
+      "gainDb": 3,
+      "seconds": 1.74,
+      "bytes": 28882,
+      "perceived": -15
+    },
+    "86e338d3": {
+      "before": -12.3,
+      "beforePeak": -6.7,
+      "after": -10.4,
+      "afterPeak": -4.7,
+      "gainDb": 2.4,
+      "seconds": 2.05,
+      "bytes": 33897,
+      "perceived": -15
+    },
+    "8780a6f3": {
+      "before": -11.9,
+      "beforePeak": -6.3,
+      "after": -11.1,
+      "afterPeak": -5.3,
+      "gainDb": 1.4,
+      "seconds": 3.15,
+      "bytes": 51452,
+      "perceived": -15
+    },
+    "87a6049e": {
+      "before": -12.2,
+      "beforePeak": -6.8,
+      "after": -10.2,
+      "afterPeak": -4.8,
+      "gainDb": 2.4,
+      "seconds": 2.77,
+      "bytes": 45600,
+      "perceived": -15
+    },
+    "87c56027": {
+      "before": -13.2,
+      "beforePeak": -6.9,
+      "after": -10.8,
+      "afterPeak": -4.5,
+      "gainDb": 2.8,
+      "seconds": 3.95,
+      "bytes": 64408,
+      "perceived": -15
+    },
+    "87e8a52f": {
+      "before": -13.2,
+      "beforePeak": -5.6,
+      "after": -11.8,
+      "afterPeak": -4.3,
+      "gainDb": 1.9,
+      "seconds": 2.09,
+      "bytes": 34315,
+      "perceived": -15
+    },
+    "893edd88": {
+      "before": -11.6,
+      "beforePeak": -6.8,
+      "after": -10.6,
+      "afterPeak": -5.6,
+      "gainDb": 1.6,
+      "seconds": 3.66,
+      "bytes": 59811,
+      "perceived": -15
+    },
+    "8a54e95e": {
+      "before": -12.9,
+      "beforePeak": -6,
+      "after": -11.2,
+      "afterPeak": -4.4,
+      "gainDb": 2,
+      "seconds": 3.1,
+      "bytes": 50616,
+      "perceived": -15
+    },
+    "8a916ccc": {
+      "before": -12.2,
+      "beforePeak": -6.8,
+      "after": -11.2,
+      "afterPeak": -5.9,
+      "gainDb": 1.4,
+      "seconds": 1.99,
+      "bytes": 33061,
+      "perceived": -15
+    },
+    "8b344205": {
+      "before": -13.5,
+      "beforePeak": -6.8,
+      "after": -10.5,
+      "afterPeak": -3.8,
+      "gainDb": 3.5,
+      "seconds": 2.89,
+      "bytes": 47272,
+      "perceived": -15
+    },
+    "8b9af4bc": {
+      "before": -13.9,
+      "beforePeak": -6.3,
+      "after": -10.8,
+      "afterPeak": -3.1,
+      "gainDb": 3.6,
+      "seconds": 4.86,
+      "bytes": 79037,
+      "perceived": -15
+    },
+    "8bf502f5": {
+      "before": -11.7,
+      "beforePeak": -5.3,
+      "after": -10.5,
+      "afterPeak": -4.2,
+      "gainDb": 1.5,
+      "seconds": 1.64,
+      "bytes": 27210,
+      "perceived": -15
+    },
+    "8bf6fab0": {
+      "before": -12.1,
+      "beforePeak": -5.1,
+      "after": -10.8,
+      "afterPeak": -3.9,
+      "gainDb": 1.6,
+      "seconds": 1.95,
+      "bytes": 32225,
+      "perceived": -15
+    },
+    "8d80c56c": {
+      "before": -12.7,
+      "beforePeak": -7.4,
+      "after": -10.4,
+      "afterPeak": -5.3,
+      "gainDb": 2.6,
+      "seconds": 1.49,
+      "bytes": 24702,
+      "perceived": -15
+    },
+    "8e099a72": {
+      "before": -14,
+      "beforePeak": -6,
+      "after": -11,
+      "afterPeak": -3.1,
+      "gainDb": 3.4,
+      "seconds": 1.65,
+      "bytes": 27628,
+      "perceived": -15
+    },
+    "8e1750dc": {
+      "before": -14.1,
+      "beforePeak": -7.2,
+      "after": -10.9,
+      "afterPeak": -4.1,
+      "gainDb": 3.5,
+      "seconds": 2.19,
+      "bytes": 35987,
+      "perceived": -15
+    },
+    "8e3347ab": {
+      "before": -11.9,
+      "beforePeak": -5.1,
+      "after": -10.8,
+      "afterPeak": -4,
+      "gainDb": 1.6,
+      "seconds": 3.82,
+      "bytes": 62318,
+      "perceived": -15
+    },
+    "8e5daa13": {
+      "before": -13.7,
+      "beforePeak": -6.6,
+      "after": -10.9,
+      "afterPeak": -3.9,
+      "gainDb": 3.1,
+      "seconds": 3.56,
+      "bytes": 58139,
+      "perceived": -15
+    },
+    "9148ab88": {
+      "before": -13,
+      "beforePeak": -6.8,
+      "after": -10.1,
+      "afterPeak": -4.1,
+      "gainDb": 3.2,
+      "seconds": 3.03,
+      "bytes": 49780,
+      "perceived": -15
+    },
+    "917745ce": {
+      "before": -12.2,
+      "beforePeak": -7.3,
+      "after": -10.5,
+      "afterPeak": -5.4,
+      "gainDb": 2.3,
+      "seconds": 4.04,
+      "bytes": 65662,
+      "perceived": -15
+    },
+    "918e09d5": {
+      "before": -11.9,
+      "beforePeak": -6.8,
+      "after": -9.2,
+      "afterPeak": -4.2,
+      "gainDb": 3.1,
+      "seconds": 2.31,
+      "bytes": 38077,
+      "perceived": -15
+    },
+    "91d45724": {
+      "before": -12.2,
+      "beforePeak": -6.5,
+      "after": -11.3,
+      "afterPeak": -5.6,
+      "gainDb": 1.4,
+      "seconds": 2.77,
+      "bytes": 45600,
+      "perceived": -15
+    },
+    "92bf2c63": {
+      "before": -13.5,
+      "beforePeak": -5.2,
+      "after": -10.7,
+      "afterPeak": -2.3,
+      "gainDb": 3.3,
+      "seconds": 2.95,
+      "bytes": 48108,
+      "perceived": -15
+    },
+    "93430a7a": {
+      "before": -12.7,
+      "beforePeak": -6.7,
+      "after": -10.5,
+      "afterPeak": -4.8,
+      "gainDb": 2.4,
+      "seconds": 1.79,
+      "bytes": 29718,
+      "perceived": -15
+    },
+    "93cce75d": {
+      "before": -13.6,
+      "beforePeak": -6.5,
+      "after": -10.5,
+      "afterPeak": -3.5,
+      "gainDb": 3.6,
+      "seconds": 3.34,
+      "bytes": 54377,
+      "perceived": -15
+    },
+    "9565deb0": {
+      "before": -11.7,
+      "beforePeak": -6.9,
+      "after": -11.1,
+      "afterPeak": -6.3,
+      "gainDb": 1.1,
+      "seconds": 1.5,
+      "bytes": 25120,
+      "perceived": -15
+    },
+    "957c0d00": {
+      "before": -11.3,
+      "beforePeak": -5,
+      "after": -10.6,
+      "afterPeak": -4.2,
+      "gainDb": 1.3,
+      "seconds": 1.92,
+      "bytes": 31807,
+      "perceived": -15
+    },
+    "96a212e8": {
+      "before": -13.8,
+      "beforePeak": -6.3,
+      "after": -11.2,
+      "afterPeak": -3.5,
+      "gainDb": 3.3,
+      "seconds": 2.38,
+      "bytes": 39331,
+      "perceived": -15
+    },
+    "9809f205": {
+      "before": -12.3,
+      "beforePeak": -6.2,
+      "after": -10.2,
+      "afterPeak": -4,
+      "gainDb": 2.6,
+      "seconds": 2.36,
+      "bytes": 38913,
+      "perceived": -15
+    },
+    "9890d8b6": {
+      "before": -11.9,
+      "beforePeak": -6,
+      "after": -11,
+      "afterPeak": -5,
+      "gainDb": 1.4,
+      "seconds": 2.76,
+      "bytes": 45182,
+      "perceived": -15
+    },
+    "992cfa3f": {
+      "before": -14,
+      "beforePeak": -7,
+      "after": -10.9,
+      "afterPeak": -4,
+      "gainDb": 3.5,
+      "seconds": 2.2,
+      "bytes": 36405,
+      "perceived": -15
+    },
+    "9a430212": {
+      "before": -13.7,
+      "beforePeak": -5.7,
+      "after": -11,
+      "afterPeak": -2.8,
+      "gainDb": 3.3,
+      "seconds": 2.56,
+      "bytes": 42256,
+      "perceived": -15
+    },
+    "9ae3d3b9": {
+      "before": -12,
+      "beforePeak": -6.3,
+      "after": -9.9,
+      "afterPeak": -4.2,
+      "gainDb": 2.5,
+      "seconds": 2.62,
+      "bytes": 43092,
+      "perceived": -15
+    },
+    "9aed60a8": {
+      "before": -11.4,
+      "beforePeak": -6.9,
+      "after": -11,
+      "afterPeak": -6.5,
+      "gainDb": 0.8,
+      "seconds": 2.22,
+      "bytes": 36405,
+      "perceived": -15
+    },
+    "9cb1ab47": {
+      "before": -12.5,
+      "beforePeak": -5.7,
+      "after": -11.2,
+      "afterPeak": -4.1,
+      "gainDb": 2,
+      "seconds": 3.64,
+      "bytes": 59393,
+      "perceived": -15
+    },
+    "9dce0bdf": {
+      "before": -11.9,
+      "beforePeak": -7.2,
+      "after": -10.5,
+      "afterPeak": -5.7,
+      "gainDb": 1.9,
+      "seconds": 4.1,
+      "bytes": 66916,
+      "perceived": -15
+    },
+    "9f707dbd": {
+      "before": -11.4,
+      "beforePeak": -7,
+      "after": -10.4,
+      "afterPeak": -5.9,
+      "gainDb": 1.6,
+      "seconds": 1.78,
+      "bytes": 29718,
+      "perceived": -15
+    },
+    "9f9597f9": {
+      "before": -11.9,
+      "beforePeak": -5.6,
+      "after": -10.5,
+      "afterPeak": -4.1,
+      "gainDb": 2,
+      "seconds": 3.51,
+      "bytes": 57303,
+      "perceived": -15
+    },
+    "a0c1dbe2": {
+      "before": -13.1,
+      "beforePeak": -6.5,
+      "after": -10.9,
+      "afterPeak": -4.3,
+      "gainDb": 2.6,
+      "seconds": 3.4,
+      "bytes": 55631,
+      "perceived": -15
+    },
+    "a16af84e": {
+      "before": -12.7,
+      "beforePeak": -3.8,
+      "after": -11.5,
+      "afterPeak": -2.6,
+      "gainDb": 1.7,
+      "seconds": 1.28,
+      "bytes": 21358,
+      "perceived": -15
+    },
+    "a27bfc17": {
+      "before": -12.8,
+      "beforePeak": -6.1,
+      "after": -11.1,
+      "afterPeak": -4.3,
+      "gainDb": 2.2,
+      "seconds": 3.26,
+      "bytes": 53123,
+      "perceived": -15
+    },
+    "a286193d": {
+      "before": -14.8,
+      "beforePeak": -6.9,
+      "after": -10.7,
+      "afterPeak": -2.8,
+      "gainDb": 4.6,
+      "seconds": 2.87,
+      "bytes": 46854,
+      "perceived": -15
+    },
+    "a407e95a": {
+      "before": -12.8,
+      "beforePeak": -5.7,
+      "after": -10.8,
+      "afterPeak": -3.5,
+      "gainDb": 2.7,
+      "seconds": 3.26,
+      "bytes": 53123,
+      "perceived": -15
+    },
+    "a4f1bf21": {
+      "before": -12.7,
+      "beforePeak": -6.5,
+      "after": -10.8,
+      "afterPeak": -4.4,
+      "gainDb": 2.6,
+      "seconds": 2.42,
+      "bytes": 39749,
+      "perceived": -15
+    },
+    "a51ca3fb": {
+      "before": -14.8,
+      "beforePeak": -6.1,
+      "after": -11.7,
+      "afterPeak": -3.2,
+      "gainDb": 3.4,
+      "seconds": 1.04,
+      "bytes": 17597,
+      "perceived": -15
+    },
+    "a5cfa1cb": {
+      "before": -13.6,
+      "beforePeak": -6.9,
+      "after": -11,
+      "afterPeak": -4.2,
+      "gainDb": 3.1,
+      "seconds": 4.57,
+      "bytes": 74439,
+      "perceived": -15
+    },
+    "a60bbb70": {
+      "before": -11.3,
+      "beforePeak": -5.5,
+      "after": -10.5,
+      "afterPeak": -4.5,
+      "gainDb": 1.4,
+      "seconds": 1.91,
+      "bytes": 31807,
+      "perceived": -15
+    },
+    "a61e54f0": {
+      "before": -13.6,
+      "beforePeak": -6.6,
+      "after": -11.5,
+      "afterPeak": -4.4,
+      "gainDb": 2.6,
+      "seconds": 2.13,
+      "bytes": 35151,
+      "perceived": -15
+    },
+    "a68829b1": {
+      "before": -12.6,
+      "beforePeak": -5.7,
+      "after": -10.6,
+      "afterPeak": -3.7,
+      "gainDb": 2.4,
+      "seconds": 3.79,
+      "bytes": 61901,
+      "perceived": -15
+    },
+    "a821e7a5": {
+      "before": -14.5,
+      "beforePeak": -7,
+      "after": -11,
+      "afterPeak": -3.3,
+      "gainDb": 4.1,
+      "seconds": 2.24,
+      "bytes": 37241,
+      "perceived": -15
+    },
+    "a93c9e1d": {
+      "before": -13,
+      "beforePeak": -5.5,
+      "after": -9.6,
+      "afterPeak": -2.1,
+      "gainDb": 3.9,
+      "seconds": 3.85,
+      "bytes": 62736,
+      "perceived": -15
+    },
+    "a9a05724": {
+      "before": -14,
+      "beforePeak": -6.6,
+      "after": -11.4,
+      "afterPeak": -4,
+      "gainDb": 3,
+      "seconds": 1.51,
+      "bytes": 25120,
+      "perceived": -15
+    },
+    "a9be2987": {
+      "before": -13.3,
+      "beforePeak": -6.3,
+      "after": -11.2,
+      "afterPeak": -4.3,
+      "gainDb": 2.4,
+      "seconds": 3.83,
+      "bytes": 62318,
+      "perceived": -15
+    },
+    "a9caaf1b": {
+      "before": -12.3,
+      "beforePeak": -6.7,
+      "after": -10.3,
+      "afterPeak": -4.7,
+      "gainDb": 2.5,
+      "seconds": 3.8,
+      "bytes": 61901,
+      "perceived": -15
+    },
+    "a9f50cf1": {
+      "before": -13.8,
+      "beforePeak": -7.1,
+      "after": -10.8,
+      "afterPeak": -4.2,
+      "gainDb": 3.4,
+      "seconds": 2.13,
+      "bytes": 35151,
+      "perceived": -15
+    },
+    "a9f6da6c": {
+      "before": -11.4,
+      "beforePeak": -6,
+      "after": -10.3,
+      "afterPeak": -4.9,
+      "gainDb": 1.5,
+      "seconds": 1.43,
+      "bytes": 23866,
+      "perceived": -15
+    },
+    "aadbb86d": {
+      "before": -14.1,
+      "beforePeak": -4.7,
+      "after": -10.8,
+      "afterPeak": -2,
+      "gainDb": 3.8,
+      "seconds": 3.03,
+      "bytes": 49780,
+      "perceived": -15
+    },
+    "aaf0683b": {
+      "before": -12.2,
+      "beforePeak": -5.5,
+      "after": -10.8,
+      "afterPeak": -4.1,
+      "gainDb": 1.9,
+      "seconds": 2.63,
+      "bytes": 43092,
+      "perceived": -15
+    },
+    "ab10283a": {
+      "before": -13.9,
+      "beforePeak": -5.5,
+      "after": -11,
+      "afterPeak": -2.6,
+      "gainDb": 3.3,
+      "seconds": 3.57,
+      "bytes": 58139,
+      "perceived": -15
+    },
+    "ac49171f": {
+      "before": -12.6,
+      "beforePeak": -4.6,
+      "after": -10.7,
+      "afterPeak": -2.7,
+      "gainDb": 2.4,
+      "seconds": 2.23,
+      "bytes": 36823,
+      "perceived": -15
+    },
+    "ad4b4eca": {
+      "before": -11.7,
+      "beforePeak": -5.3,
+      "after": -10.6,
+      "afterPeak": -4.3,
+      "gainDb": 1.6,
+      "seconds": 2.55,
+      "bytes": 41838,
+      "perceived": -15
+    },
+    "ad544cff": {
+      "before": -12.7,
+      "beforePeak": -6.9,
+      "after": -12.1,
+      "afterPeak": -6.2,
+      "gainDb": 1.1,
+      "seconds": 1.75,
+      "bytes": 29300,
+      "perceived": -15
+    },
+    "ad88bb1d": {
+      "before": -13.9,
+      "beforePeak": -6.8,
+      "after": -10.6,
+      "afterPeak": -3.3,
+      "gainDb": 4,
+      "seconds": 1.77,
+      "bytes": 29300,
+      "perceived": -15
+    },
+    "add0726f": {
+      "before": -13.3,
+      "beforePeak": -6.5,
+      "after": -11.4,
+      "afterPeak": -4.7,
+      "gainDb": 2.3,
+      "seconds": 1.58,
+      "bytes": 26374,
+      "perceived": -15
+    },
+    "aeced2ce": {
+      "before": -12.7,
+      "beforePeak": -6.4,
+      "after": -10.9,
+      "afterPeak": -4.6,
+      "gainDb": 2.3,
+      "seconds": 3.24,
+      "bytes": 52705,
+      "perceived": -15
+    },
+    "b175a67e": {
+      "before": -13.1,
+      "beforePeak": -6.8,
+      "after": -10.9,
+      "afterPeak": -4.6,
+      "gainDb": 2.6,
+      "seconds": 4.02,
+      "bytes": 65662,
+      "perceived": -15
+    },
+    "b1debe61": {
+      "before": -13.4,
+      "beforePeak": -5.4,
+      "after": -11.1,
+      "afterPeak": -2.9,
+      "gainDb": 2.9,
+      "seconds": 2,
+      "bytes": 33061,
+      "perceived": -15
+    },
+    "b2149d5f": {
+      "before": -11.3,
+      "beforePeak": -6.1,
+      "after": -10.3,
+      "afterPeak": -5.1,
+      "gainDb": 1.4,
+      "seconds": 3.71,
+      "bytes": 60229,
+      "perceived": -15
+    },
+    "b28b1e60": {
+      "before": -13.4,
+      "beforePeak": -6.7,
+      "after": -11,
+      "afterPeak": -4.4,
+      "gainDb": 2.8,
+      "seconds": 2.93,
+      "bytes": 48108,
+      "perceived": -15
+    },
+    "b2d52a7c": {
+      "before": -13.3,
+      "beforePeak": -5.7,
+      "after": -10.8,
+      "afterPeak": -3.2,
+      "gainDb": 3,
+      "seconds": 3.62,
+      "bytes": 58975,
+      "perceived": -15
+    },
+    "b3284ee0": {
+      "before": -11.2,
+      "beforePeak": -5.6,
+      "after": -10.2,
+      "afterPeak": -4.5,
+      "gainDb": 1.6,
+      "seconds": 1.7,
+      "bytes": 28464,
+      "perceived": -15
+    },
+    "b33651e9": {
+      "before": -12.8,
+      "beforePeak": -6.5,
+      "after": -11.6,
+      "afterPeak": -5.3,
+      "gainDb": 1.6,
+      "seconds": 3.07,
+      "bytes": 50198,
+      "perceived": -15
+    },
+    "b34364b1": {
+      "before": -13.4,
+      "beforePeak": -6.5,
+      "after": -10.7,
+      "afterPeak": -3.7,
+      "gainDb": 3.3,
+      "seconds": 3.66,
+      "bytes": 59393,
+      "perceived": -15
+    },
+    "b38fb9a7": {
+      "before": -13.7,
+      "beforePeak": -6.2,
+      "after": -11.6,
+      "afterPeak": -4.1,
+      "gainDb": 2.6,
+      "seconds": 3.34,
+      "bytes": 54377,
+      "perceived": -15
+    },
+    "b3dec187": {
+      "before": -13.8,
+      "beforePeak": -5.4,
+      "after": -11.2,
+      "afterPeak": -2.7,
+      "gainDb": 3.2,
+      "seconds": 2.08,
+      "bytes": 34315,
+      "perceived": -15
+    },
+    "b4ce5abe": {
+      "before": -13.5,
+      "beforePeak": -5.3,
+      "after": -11.1,
+      "afterPeak": -3,
+      "gainDb": 2.7,
+      "seconds": 2.89,
+      "bytes": 47272,
+      "perceived": -15
+    },
+    "b535b5e1": {
+      "before": -12.4,
+      "beforePeak": -6.7,
+      "after": -11.4,
+      "afterPeak": -5.8,
+      "gainDb": 1.3,
+      "seconds": 1.64,
+      "bytes": 27628,
+      "perceived": -15
+    },
+    "b6ba2369": {
+      "before": -12.9,
+      "beforePeak": -5.8,
+      "after": -12.5,
+      "afterPeak": -5.3,
+      "gainDb": 0.8,
+      "seconds": 1.14,
+      "bytes": 19269,
+      "perceived": -15
+    },
+    "b6c927c1": {
+      "before": -13.2,
+      "beforePeak": -4.6,
+      "after": -11.7,
+      "afterPeak": -3.1,
+      "gainDb": 1.9,
+      "seconds": 1.52,
+      "bytes": 25120,
+      "perceived": -15
+    },
+    "b6e98817": {
+      "before": -12.8,
+      "beforePeak": -4.6,
+      "after": -10,
+      "afterPeak": -2,
+      "gainDb": 3.1,
+      "seconds": 1.9,
+      "bytes": 31390,
+      "perceived": -15
+    },
+    "b723354c": {
+      "before": -13,
+      "beforePeak": -6.5,
+      "after": -11,
+      "afterPeak": -4.6,
+      "gainDb": 2.4,
+      "seconds": 2.29,
+      "bytes": 37659,
+      "perceived": -15
+    },
+    "b75c7950": {
+      "before": -14.2,
+      "beforePeak": -5,
+      "after": -11.2,
+      "afterPeak": -2,
+      "gainDb": 3.6,
+      "seconds": 3.02,
+      "bytes": 49362,
+      "perceived": -15
+    },
+    "b76492d2": {
+      "before": -12.2,
+      "beforePeak": -6.1,
+      "after": -11.3,
+      "afterPeak": -5.4,
+      "gainDb": 1.2,
+      "seconds": 5.33,
+      "bytes": 86560,
+      "perceived": -15
+    },
+    "b79fb400": {
+      "before": -12.2,
+      "beforePeak": -4.3,
+      "after": -10.4,
+      "afterPeak": -2.7,
+      "gainDb": 2.1,
+      "seconds": 5.68,
+      "bytes": 91994,
+      "perceived": -15
+    },
+    "b88e576f": {
+      "before": -14.6,
+      "beforePeak": -6.9,
+      "after": -10.3,
+      "afterPeak": -2.7,
+      "gainDb": 4.6,
+      "seconds": 2.81,
+      "bytes": 46018,
+      "perceived": -15
+    },
+    "b9694823": {
+      "before": -12.7,
+      "beforePeak": -5.9,
+      "after": -10.6,
+      "afterPeak": -3.8,
+      "gainDb": 2.5,
+      "seconds": 3.76,
+      "bytes": 61065,
+      "perceived": -15
+    },
+    "b9c1650b": {
+      "before": -11.5,
+      "beforePeak": -4.6,
+      "after": -10.2,
+      "afterPeak": -3.3,
+      "gainDb": 1.7,
+      "seconds": 1.98,
+      "bytes": 32643,
+      "perceived": -15
+    },
+    "bc3f28ef": {
+      "before": -11.7,
+      "beforePeak": -6.3,
+      "after": -10.2,
+      "afterPeak": -4.9,
+      "gainDb": 1.9,
+      "seconds": 2.78,
+      "bytes": 45600,
+      "perceived": -15
+    },
+    "bc98ef8c": {
+      "before": -12.1,
+      "beforePeak": -6.1,
+      "after": -10.9,
+      "afterPeak": -4.7,
+      "gainDb": 1.8,
+      "seconds": 3.59,
+      "bytes": 58557,
+      "perceived": -15
+    },
+    "bd467b75": {
+      "before": -13.5,
+      "beforePeak": -5.3,
+      "after": -10.5,
+      "afterPeak": -2.3,
+      "gainDb": 3.5,
+      "seconds": 5.46,
+      "bytes": 88650,
+      "perceived": -15
+    },
+    "bd9efb82": {
+      "before": -11.8,
+      "beforePeak": -5.8,
+      "after": -10.8,
+      "afterPeak": -4.9,
+      "gainDb": 1.4,
+      "seconds": 3.28,
+      "bytes": 53541,
+      "perceived": -15
+    },
+    "be1635d2": {
+      "before": -12.5,
+      "beforePeak": -4.8,
+      "after": -10.2,
+      "afterPeak": -2.5,
+      "gainDb": 2.7,
+      "seconds": 4.06,
+      "bytes": 66080,
+      "perceived": -15
+    },
+    "be59c49a": {
+      "before": -12.9,
+      "beforePeak": -7.2,
+      "after": -11.3,
+      "afterPeak": -5.6,
+      "gainDb": 2,
+      "seconds": 2.99,
+      "bytes": 48944,
+      "perceived": -15
+    },
+    "bebe8b11": {
+      "before": -12.1,
+      "beforePeak": -6.4,
+      "after": -10.7,
+      "afterPeak": -5.1,
+      "gainDb": 1.7,
+      "seconds": 3.52,
+      "bytes": 57303,
+      "perceived": -15
+    },
+    "bec471ba": {
+      "before": -11.2,
+      "beforePeak": -6.2,
+      "after": -10.3,
+      "afterPeak": -5.4,
+      "gainDb": 1.2,
+      "seconds": 2.81,
+      "bytes": 46018,
+      "perceived": -15
+    },
+    "becd0679": {
+      "before": -12.8,
+      "beforePeak": -6.1,
+      "after": -10.6,
+      "afterPeak": -4.2,
+      "gainDb": 2.3,
+      "seconds": 3.51,
+      "bytes": 57303,
+      "perceived": -15
+    },
+    "becef6d8": {
+      "before": -11.7,
+      "beforePeak": -6.3,
+      "after": -10.8,
+      "afterPeak": -5.5,
+      "gainDb": 1.3,
+      "seconds": 2.39,
+      "bytes": 39331,
+      "perceived": -15
+    },
+    "c0c021f4": {
+      "before": -13.4,
+      "beforePeak": -6.4,
+      "after": -10.8,
+      "afterPeak": -3.5,
+      "gainDb": 3.3,
+      "seconds": 4.17,
+      "bytes": 67752,
+      "perceived": -15
+    },
+    "c0fdf020": {
+      "before": -12.5,
+      "beforePeak": -6.8,
+      "after": -10.8,
+      "afterPeak": -5,
+      "gainDb": 2.2,
+      "seconds": 2.47,
+      "bytes": 40585,
+      "perceived": -15
+    },
+    "c112460d": {
+      "before": -12.7,
+      "beforePeak": -6.4,
+      "after": -10.9,
+      "afterPeak": -4.6,
+      "gainDb": 2.3,
+      "seconds": 2.59,
+      "bytes": 42674,
+      "perceived": -15
+    },
+    "c266ef32": {
+      "before": -13.8,
+      "beforePeak": -6.6,
+      "after": -11.1,
+      "afterPeak": -4,
+      "gainDb": 3.1,
+      "seconds": 1.95,
+      "bytes": 32225,
+      "perceived": -15
+    },
+    "c2bd7a87": {
+      "before": -12.6,
+      "beforePeak": -5.3,
+      "after": -11.1,
+      "afterPeak": -3.8,
+      "gainDb": 1.9,
+      "seconds": 2.29,
+      "bytes": 37659,
+      "perceived": -15
+    },
+    "c2d83b4d": {
+      "before": -12.1,
+      "beforePeak": -6.7,
+      "after": -10.7,
+      "afterPeak": -5.3,
+      "gainDb": 1.8,
+      "seconds": 2.08,
+      "bytes": 34315,
+      "perceived": -15
+    },
+    "c2e39458": {
+      "before": -12.7,
+      "beforePeak": -6.1,
+      "after": -9.7,
+      "afterPeak": -3.2,
+      "gainDb": 3.4,
+      "seconds": 5.62,
+      "bytes": 91158,
+      "perceived": -15
+    },
+    "c2f94a94": {
+      "before": -12.7,
+      "beforePeak": -5.7,
+      "after": -10.8,
+      "afterPeak": -3.9,
+      "gainDb": 2.3,
+      "seconds": 2.49,
+      "bytes": 41003,
+      "perceived": -15
+    },
+    "c35144fb": {
+      "before": -13.3,
+      "beforePeak": -6.3,
+      "after": -11.2,
+      "afterPeak": -4.2,
+      "gainDb": 2.4,
+      "seconds": 4.17,
+      "bytes": 67752,
+      "perceived": -15
+    },
+    "c36fd568": {
+      "before": -13.6,
+      "beforePeak": -4.9,
+      "after": -11.6,
+      "afterPeak": -2.8,
+      "gainDb": 2.6,
+      "seconds": 2.35,
+      "bytes": 38495,
+      "perceived": -15
+    },
+    "c3bd2237": {
+      "before": -12.9,
+      "beforePeak": -5.7,
+      "after": -9.8,
+      "afterPeak": -2.5,
+      "gainDb": 3.6,
+      "seconds": 3.36,
+      "bytes": 54795,
+      "perceived": -15.1
+    },
+    "c46660a7": {
+      "before": -13.6,
+      "beforePeak": -6.9,
+      "after": -11.3,
+      "afterPeak": -4.6,
+      "gainDb": 2.8,
+      "seconds": 1.79,
+      "bytes": 29718,
+      "perceived": -15
+    },
+    "c467087d": {
+      "before": -14.5,
+      "beforePeak": -5.4,
+      "after": -11.4,
+      "afterPeak": -2.2,
+      "gainDb": 3.7,
+      "seconds": 1.95,
+      "bytes": 32225,
+      "perceived": -15
+    },
+    "c6b5633d": {
+      "before": -12.8,
+      "beforePeak": -6.1,
+      "after": -10.2,
+      "afterPeak": -3.4,
+      "gainDb": 3.1,
+      "seconds": 2.3,
+      "bytes": 38077,
+      "perceived": -15
+    },
+    "c738fcdf": {
+      "before": -13.6,
+      "beforePeak": -5.5,
+      "after": -10.1,
+      "afterPeak": -2.2,
+      "gainDb": 3.7,
+      "seconds": 5.76,
+      "bytes": 93247,
+      "perceived": -15
+    },
+    "c7538411": {
+      "before": -13.1,
+      "beforePeak": -6.7,
+      "after": -10.6,
+      "afterPeak": -4,
+      "gainDb": 3.2,
+      "seconds": 2.53,
+      "bytes": 41421,
+      "perceived": -15
+    },
+    "c7a1681b": {
+      "before": -13.8,
+      "beforePeak": -5.6,
+      "after": -11.8,
+      "afterPeak": -3.5,
+      "gainDb": 2.5,
+      "seconds": 3.45,
+      "bytes": 56049,
+      "perceived": -15
+    },
+    "c7c3e50e": {
+      "before": -13.1,
+      "beforePeak": -7.3,
+      "after": -11.1,
+      "afterPeak": -5.4,
+      "gainDb": 2.4,
+      "seconds": 1.99,
+      "bytes": 33061,
+      "perceived": -15
+    },
+    "c8241df9": {
+      "before": -14.6,
+      "beforePeak": -5,
+      "after": -10.7,
+      "afterPeak": -1.9,
+      "gainDb": 4.6,
+      "seconds": 1.91,
+      "bytes": 31807,
+      "perceived": -15
+    },
+    "c83d798c": {
+      "before": -13.4,
+      "beforePeak": -5.7,
+      "after": -11.5,
+      "afterPeak": -3.8,
+      "gainDb": 2.3,
+      "seconds": 2.35,
+      "bytes": 38495,
+      "perceived": -15
+    },
+    "c89d1134": {
+      "before": -13.4,
+      "beforePeak": -7,
+      "after": -10.5,
+      "afterPeak": -3.9,
+      "gainDb": 3.5,
+      "seconds": 2.67,
+      "bytes": 43928,
+      "perceived": -15
+    },
+    "c8f9de67": {
+      "before": -12.3,
+      "beforePeak": -5.3,
+      "after": -10.5,
+      "afterPeak": -3.4,
+      "gainDb": 2.4,
+      "seconds": 5.73,
+      "bytes": 92830,
+      "perceived": -15
+    },
+    "c9127f86": {
+      "before": -13.8,
+      "beforePeak": -6.5,
+      "after": -10.7,
+      "afterPeak": -3.4,
+      "gainDb": 3.5,
+      "seconds": 1.52,
+      "bytes": 25538,
+      "perceived": -15
+    },
+    "c9ad9e5c": {
+      "before": -11.3,
+      "beforePeak": -4.9,
+      "after": -10.3,
+      "afterPeak": -4,
+      "gainDb": 1.3,
+      "seconds": 1.73,
+      "bytes": 28882,
+      "perceived": -15
+    },
+    "cac39538": {
+      "before": -12.6,
+      "beforePeak": -6.4,
+      "after": -10.2,
+      "afterPeak": -4,
+      "gainDb": 2.9,
+      "seconds": 2.27,
+      "bytes": 37659,
+      "perceived": -15
+    },
+    "cafaa57b": {
+      "before": -13.7,
+      "beforePeak": -6.2,
+      "after": -11,
+      "afterPeak": -3.2,
+      "gainDb": 3.4,
+      "seconds": 2.49,
+      "bytes": 41003,
+      "perceived": -15
+    },
+    "cb70bc85": {
+      "before": -13.8,
+      "beforePeak": -6.9,
+      "after": -10.9,
+      "afterPeak": -3.8,
+      "gainDb": 3.3,
+      "seconds": 1.72,
+      "bytes": 28464,
+      "perceived": -15
+    },
+    "cbefa6e7": {
+      "before": -13.2,
+      "beforePeak": -7.4,
+      "after": -9.9,
+      "afterPeak": -4.1,
+      "gainDb": 3.7,
+      "seconds": 4.22,
+      "bytes": 68588,
+      "perceived": -15
+    },
+    "cc289b03": {
+      "before": -13.7,
+      "beforePeak": -6.5,
+      "after": -10.8,
+      "afterPeak": -3.6,
+      "gainDb": 3.3,
+      "seconds": 4.86,
+      "bytes": 79037,
+      "perceived": -15
+    },
+    "cc59298a": {
+      "before": -12.9,
+      "beforePeak": -6,
+      "after": -11.1,
+      "afterPeak": -4.1,
+      "gainDb": 2.4,
+      "seconds": 5.32,
+      "bytes": 86142,
+      "perceived": -15
+    },
+    "cd4b38b4": {
+      "before": -13.6,
+      "beforePeak": -5.4,
+      "after": -11.7,
+      "afterPeak": -3.5,
+      "gainDb": 2.3,
+      "seconds": 2.38,
+      "bytes": 39331,
+      "perceived": -15
+    },
+    "cd4df6f3": {
+      "before": -12.5,
+      "beforePeak": -4.6,
+      "after": -11.1,
+      "afterPeak": -3.2,
+      "gainDb": 1.9,
+      "seconds": 3.96,
+      "bytes": 64408,
+      "perceived": -15
+    },
+    "cd70930c": {
+      "before": -11.7,
+      "beforePeak": -6.5,
+      "after": -10,
+      "afterPeak": -5.1,
+      "gainDb": 1.9,
+      "seconds": 1.35,
+      "bytes": 22612,
+      "perceived": -15
+    },
+    "cd8654ff": {
+      "before": -12.1,
+      "beforePeak": -5.8,
+      "after": -11.1,
+      "afterPeak": -4.8,
+      "gainDb": 1.4,
+      "seconds": 1.47,
+      "bytes": 24702,
+      "perceived": -15
+    },
+    "cd95d71d": {
+      "before": -13.1,
+      "beforePeak": -4.9,
+      "after": -11.2,
+      "afterPeak": -2.9,
+      "gainDb": 2.4,
+      "seconds": 2.46,
+      "bytes": 40585,
+      "perceived": -15
+    },
+    "ceb90177": {
+      "before": -13,
+      "beforePeak": -6,
+      "after": -10.3,
+      "afterPeak": -3.3,
+      "gainDb": 3.1,
+      "seconds": 13.16,
+      "bytes": 211530,
+      "perceived": -15
+    },
+    "cf1721af": {
+      "before": -13.9,
+      "beforePeak": -5.2,
+      "after": -12.1,
+      "afterPeak": -3.3,
+      "gainDb": 2.3,
+      "seconds": 1.8,
+      "bytes": 29718,
+      "perceived": -15
+    },
+    "cf809f34": {
+      "before": -11.9,
+      "beforePeak": -7,
+      "after": -9.3,
+      "afterPeak": -4.3,
+      "gainDb": 3.1,
+      "seconds": 3.11,
+      "bytes": 51034,
+      "perceived": -15
+    },
+    "d04bfca7": {
+      "before": -13.5,
+      "beforePeak": -6.5,
+      "after": -11,
+      "afterPeak": -4,
+      "gainDb": 2.9,
+      "seconds": 2.94,
+      "bytes": 48108,
+      "perceived": -15
+    },
+    "d069dec3": {
+      "before": -13.4,
+      "beforePeak": -6.7,
+      "after": -11.5,
+      "afterPeak": -5.1,
+      "gainDb": 2.1,
+      "seconds": 2.43,
+      "bytes": 39749,
+      "perceived": -15
+    },
+    "d06a51cb": {
+      "before": -14.6,
+      "beforePeak": -5.8,
+      "after": -10.7,
+      "afterPeak": -1.9,
+      "gainDb": 4.4,
+      "seconds": 2.25,
+      "bytes": 37241,
+      "perceived": -15
+    },
+    "d06a7419": {
+      "before": -14.2,
+      "beforePeak": -6.4,
+      "after": -11.1,
+      "afterPeak": -3.3,
+      "gainDb": 3.6,
+      "seconds": 1.52,
+      "bytes": 25538,
+      "perceived": -15
+    },
+    "d095afdd": {
+      "before": -13.4,
+      "beforePeak": -5.7,
+      "after": -10.8,
+      "afterPeak": -3.1,
+      "gainDb": 3.1,
+      "seconds": 9.75,
+      "bytes": 157195,
+      "perceived": -15
+    },
+    "d095d49a": {
+      "before": -13.8,
+      "beforePeak": -6,
+      "after": -11.6,
+      "afterPeak": -3.8,
+      "gainDb": 2.6,
+      "seconds": 1.12,
+      "bytes": 19269,
+      "perceived": -15
+    },
+    "d0ee4165": {
+      "before": -12.7,
+      "beforePeak": -4.4,
+      "after": -10.6,
+      "afterPeak": -2.3,
+      "gainDb": 2.6,
+      "seconds": 2.48,
+      "bytes": 40585,
+      "perceived": -15
+    },
+    "d2146c0a": {
+      "before": -13.7,
+      "beforePeak": -6.3,
+      "after": -12.1,
+      "afterPeak": -4.5,
+      "gainDb": 2.2,
+      "seconds": 1.51,
+      "bytes": 25120,
+      "perceived": -15
+    },
+    "d34616a6": {
+      "before": -13.1,
+      "beforePeak": -6.5,
+      "after": -11.2,
+      "afterPeak": -4.6,
+      "gainDb": 2.3,
+      "seconds": 3.03,
+      "bytes": 49780,
+      "perceived": -15
+    },
+    "d3a18015": {
+      "before": -13.3,
+      "beforePeak": -5.2,
+      "after": -10.2,
+      "afterPeak": -2.2,
+      "gainDb": 3.4,
+      "seconds": 3.06,
+      "bytes": 50198,
+      "perceived": -15
+    },
+    "d3f42eee": {
+      "before": -11.4,
+      "beforePeak": -5.9,
+      "after": -10.3,
+      "afterPeak": -4.7,
+      "gainDb": 1.6,
+      "seconds": 2.58,
+      "bytes": 42256,
+      "perceived": -15
+    },
+    "d5b366d0": {
+      "before": -14.3,
+      "beforePeak": -6.6,
+      "after": -10.7,
+      "afterPeak": -3,
+      "gainDb": 4,
+      "seconds": 4.04,
+      "bytes": 65662,
+      "perceived": -15
+    },
+    "d5f8d449": {
+      "before": -11.1,
+      "beforePeak": -5.7,
+      "after": -10.9,
+      "afterPeak": -5.4,
+      "gainDb": 0.7,
+      "seconds": 2.2,
+      "bytes": 36405,
+      "perceived": -15
+    },
+    "d6018713": {
+      "before": -13.6,
+      "beforePeak": -6.4,
+      "after": -12,
+      "afterPeak": -4.8,
+      "gainDb": 2.1,
+      "seconds": 2.15,
+      "bytes": 35569,
+      "perceived": -15
+    },
+    "d7f95fa6": {
+      "before": -12.1,
+      "beforePeak": -6.6,
+      "after": -10.4,
+      "afterPeak": -4.7,
+      "gainDb": 2.3,
+      "seconds": 2.86,
+      "bytes": 46854,
+      "perceived": -15
+    },
+    "d891c21a": {
+      "before": -13.1,
+      "beforePeak": -5.9,
+      "after": -11.6,
+      "afterPeak": -4.2,
+      "gainDb": 2.1,
+      "seconds": 1.64,
+      "bytes": 27210,
+      "perceived": -15
+    },
+    "d8f1bf3a": {
+      "before": -12.7,
+      "beforePeak": -6.8,
+      "after": -11.1,
+      "afterPeak": -5.4,
+      "gainDb": 1.9,
+      "seconds": 2.53,
+      "bytes": 41421,
+      "perceived": -15
+    },
+    "d8f5b595": {
+      "before": -14.3,
+      "beforePeak": -7,
+      "after": -10.9,
+      "afterPeak": -3.6,
+      "gainDb": 3.8,
+      "seconds": 2.86,
+      "bytes": 46854,
+      "perceived": -15
+    },
+    "d9613273": {
+      "before": -13.1,
+      "beforePeak": -7,
+      "after": -11.5,
+      "afterPeak": -5.4,
+      "gainDb": 2,
+      "seconds": 1.87,
+      "bytes": 30972,
+      "perceived": -15
+    },
+    "d9755bf8": {
+      "before": -14.4,
+      "beforePeak": -4.7,
+      "after": -11.3,
+      "afterPeak": -1.9,
+      "gainDb": 4.2,
+      "seconds": 1.95,
+      "bytes": 32225,
+      "perceived": -15.1
+    },
+    "d9b92c62": {
+      "before": -13.4,
+      "beforePeak": -6.5,
+      "after": -10.9,
+      "afterPeak": -4,
+      "gainDb": 3,
+      "seconds": 2.97,
+      "bytes": 48526,
+      "perceived": -15
+    },
+    "d9dad809": {
+      "before": -12.8,
+      "beforePeak": -4.5,
+      "after": -11.4,
+      "afterPeak": -3.2,
+      "gainDb": 1.8,
+      "seconds": 2.78,
+      "bytes": 45600,
+      "perceived": -15
+    },
+    "d9f12c7e": {
+      "before": -11.3,
+      "beforePeak": -6,
+      "after": -8.9,
+      "afterPeak": -3.3,
+      "gainDb": 3.2,
+      "seconds": 1.91,
+      "bytes": 31807,
+      "perceived": -15
+    },
+    "da81c444": {
+      "before": -13.9,
+      "beforePeak": -6.8,
+      "after": -10.4,
+      "afterPeak": -3.3,
+      "gainDb": 3.9,
+      "seconds": 2.92,
+      "bytes": 47690,
+      "perceived": -15
+    },
+    "dadc2b4d": {
+      "before": -13.9,
+      "beforePeak": -5.9,
+      "after": -11,
+      "afterPeak": -3,
+      "gainDb": 3.4,
+      "seconds": 2.45,
+      "bytes": 40167,
+      "perceived": -15
+    },
+    "db237b4e": {
+      "before": -13.9,
+      "beforePeak": -6.5,
+      "after": -9.7,
+      "afterPeak": -2.5,
+      "gainDb": 4.4,
+      "seconds": 2.89,
+      "bytes": 47272,
+      "perceived": -15
+    },
+    "dbb5b9cb": {
+      "before": -11.5,
+      "beforePeak": -5.8,
+      "after": -10.9,
+      "afterPeak": -5.2,
+      "gainDb": 1.1,
+      "seconds": 2.29,
+      "bytes": 37659,
+      "perceived": -15
+    },
+    "dbb720fb": {
+      "before": -13.1,
+      "beforePeak": -6.9,
+      "after": -11.4,
+      "afterPeak": -5.3,
+      "gainDb": 2.1,
+      "seconds": 3.1,
+      "bytes": 50616,
+      "perceived": -15
+    },
+    "dc022031": {
+      "before": -12.8,
+      "beforePeak": -5.3,
+      "after": -10.4,
+      "afterPeak": -2.8,
+      "gainDb": 2.9,
+      "seconds": 5.48,
+      "bytes": 88650,
+      "perceived": -15
+    },
+    "dc076d2b": {
+      "before": -13.6,
+      "beforePeak": -6.1,
+      "after": -10.7,
+      "afterPeak": -3.2,
+      "gainDb": 3.4,
+      "seconds": 1.81,
+      "bytes": 30136,
+      "perceived": -15
+    },
+    "dd11d1a9": {
+      "before": -11.9,
+      "beforePeak": -7,
+      "after": -10.2,
+      "afterPeak": -5.4,
+      "gainDb": 2,
+      "seconds": 1.83,
+      "bytes": 30554,
+      "perceived": -15
+    },
+    "dd44c953": {
+      "before": -11.6,
+      "beforePeak": -6.7,
+      "after": -10.2,
+      "afterPeak": -5.3,
+      "gainDb": 1.8,
+      "seconds": 1.94,
+      "bytes": 32225,
+      "perceived": -15
+    },
+    "dd6c760a": {
+      "before": -11.8,
+      "beforePeak": -7,
+      "after": -10.7,
+      "afterPeak": -5.5,
+      "gainDb": 1.9,
+      "seconds": 2.36,
+      "bytes": 38913,
+      "perceived": -15
+    },
+    "dd965af1": {
+      "before": -13.7,
+      "beforePeak": -6.4,
+      "after": -11.3,
+      "afterPeak": -3.9,
+      "gainDb": 2.9,
+      "seconds": 2.53,
+      "bytes": 41421,
+      "perceived": -15
+    },
+    "ddb3d498": {
+      "before": -13.4,
+      "beforePeak": -6.7,
+      "after": -10.8,
+      "afterPeak": -4.2,
+      "gainDb": 3,
+      "seconds": 2.8,
+      "bytes": 46018,
+      "perceived": -15
+    },
+    "ddf8d27d": {
+      "before": -12.6,
+      "beforePeak": -7,
+      "after": -11.3,
+      "afterPeak": -5.7,
+      "gainDb": 1.7,
+      "seconds": 1.88,
+      "bytes": 30972,
+      "perceived": -15
+    },
+    "de50ee50": {
+      "before": -13.3,
+      "beforePeak": -5.8,
+      "after": -11.7,
+      "afterPeak": -4.2,
+      "gainDb": 2.1,
+      "seconds": 2,
+      "bytes": 33061,
+      "perceived": -15
+    },
+    "dfa685fd": {
+      "before": -14.3,
+      "beforePeak": -6.7,
+      "after": -10.1,
+      "afterPeak": -2.6,
+      "gainDb": 4.6,
+      "seconds": 3.38,
+      "bytes": 55213,
+      "perceived": -15
+    },
+    "e01336da": {
+      "before": -11.4,
+      "beforePeak": -6.3,
+      "after": -11.8,
+      "afterPeak": -6.7,
+      "gainDb": 0,
+      "seconds": 1.87,
+      "bytes": 30972,
+      "perceived": -15.5
+    },
+    "e085bc38": {
+      "before": -13,
+      "beforePeak": -6.2,
+      "after": -11.4,
+      "afterPeak": -4.6,
+      "gainDb": 2.1,
+      "seconds": 2.04,
+      "bytes": 33897,
+      "perceived": -15
+    },
+    "e110bcca": {
+      "before": -11.7,
+      "beforePeak": -6.7,
+      "after": -10.6,
+      "afterPeak": -5.5,
+      "gainDb": 1.6,
+      "seconds": 3.29,
+      "bytes": 53959,
+      "perceived": -15
+    },
+    "e147c2f1": {
+      "before": -13.8,
+      "beforePeak": -4.5,
+      "after": -11.2,
+      "afterPeak": -1.9,
+      "gainDb": 3.2,
+      "seconds": 3.38,
+      "bytes": 55213,
+      "perceived": -15
+    },
+    "e2fb50d4": {
+      "before": -14.1,
+      "beforePeak": -7.2,
+      "after": -11.3,
+      "afterPeak": -4.5,
+      "gainDb": 3.2,
+      "seconds": 2.74,
+      "bytes": 45182,
+      "perceived": -15
+    },
+    "e31fc8ab": {
+      "before": -12.9,
+      "beforePeak": -5,
+      "after": -10.9,
+      "afterPeak": -3,
+      "gainDb": 2.4,
+      "seconds": 3.14,
+      "bytes": 51452,
+      "perceived": -15
+    },
+    "e39f04c6": {
+      "before": -12.3,
+      "beforePeak": -5.8,
+      "after": -10.9,
+      "afterPeak": -4.4,
+      "gainDb": 1.9,
+      "seconds": 2.89,
+      "bytes": 47272,
+      "perceived": -15
+    },
+    "e3b0baef": {
+      "before": -13.6,
+      "beforePeak": -6.8,
+      "after": -11.7,
+      "afterPeak": -5.1,
+      "gainDb": 2.1,
+      "seconds": 1.39,
+      "bytes": 23448,
+      "perceived": -15
+    },
+    "e45a5606": {
+      "before": -12.3,
+      "beforePeak": -6.6,
+      "after": -10.4,
+      "afterPeak": -4.7,
+      "gainDb": 2.4,
+      "seconds": 3.14,
+      "bytes": 51452,
+      "perceived": -15
+    },
+    "e4a5efd7": {
+      "before": -12.5,
+      "beforePeak": -4.2,
+      "after": -11.2,
+      "afterPeak": -2.7,
+      "gainDb": 2,
+      "seconds": 1.48,
+      "bytes": 24702,
+      "perceived": -15
+    },
+    "e551c084": {
+      "before": -13.2,
+      "beforePeak": -6.3,
+      "after": -11.3,
+      "afterPeak": -4.3,
+      "gainDb": 2.4,
+      "seconds": 2.45,
+      "bytes": 40167,
+      "perceived": -15
+    },
+    "e5713294": {
+      "before": -13.9,
+      "beforePeak": -7.1,
+      "after": -10.5,
+      "afterPeak": -4,
+      "gainDb": 3.6,
+      "seconds": 2,
+      "bytes": 33061,
+      "perceived": -15
+    },
+    "e698c6dc": {
+      "before": -11.2,
+      "beforePeak": -5.8,
+      "after": -10.7,
+      "afterPeak": -4.9,
+      "gainDb": 1.4,
+      "seconds": 1.73,
+      "bytes": 28882,
+      "perceived": -15
+    },
+    "e69de960": {
+      "before": -13.4,
+      "beforePeak": -5,
+      "after": -10.9,
+      "afterPeak": -2.2,
+      "gainDb": 3.2,
+      "seconds": 2.54,
+      "bytes": 41838,
+      "perceived": -15
+    },
+    "e6cca9d0": {
+      "before": -13.5,
+      "beforePeak": -6.4,
+      "after": -12,
+      "afterPeak": -4.7,
+      "gainDb": 2.1,
+      "seconds": 1.75,
+      "bytes": 28882,
+      "perceived": -15
+    },
+    "e7375799": {
+      "before": -13.3,
+      "beforePeak": -5.7,
+      "after": -10.9,
+      "afterPeak": -3.3,
+      "gainDb": 2.8,
+      "seconds": 3.29,
+      "bytes": 53959,
+      "perceived": -15
+    },
+    "e7754b6b": {
+      "before": -12.6,
+      "beforePeak": -5.8,
+      "after": -10.7,
+      "afterPeak": -4.2,
+      "gainDb": 2.1,
+      "seconds": 2.23,
+      "bytes": 36823,
+      "perceived": -15
+    },
+    "e8a0b380": {
+      "before": -13.7,
+      "beforePeak": -6.6,
+      "after": -11.6,
+      "afterPeak": -4.4,
+      "gainDb": 2.6,
+      "seconds": 3.11,
+      "bytes": 51034,
+      "perceived": -15
+    },
+    "e90b01ba": {
+      "before": -12.5,
+      "beforePeak": -6.4,
+      "after": -11.3,
+      "afterPeak": -5.1,
+      "gainDb": 1.7,
+      "seconds": 2.46,
+      "bytes": 40585,
+      "perceived": -15
+    },
+    "e938e6b5": {
+      "before": -14.3,
+      "beforePeak": -7.1,
+      "after": -10.9,
+      "afterPeak": -3.6,
+      "gainDb": 3.9,
+      "seconds": 2.22,
+      "bytes": 36823,
+      "perceived": -15
+    },
+    "e9fcd823": {
+      "before": -11.5,
+      "beforePeak": -6.7,
+      "after": -11,
+      "afterPeak": -6,
+      "gainDb": 1.1,
+      "seconds": 1.72,
+      "bytes": 28464,
+      "perceived": -15
+    },
+    "ea4fadaf": {
+      "before": -13.8,
+      "beforePeak": -7.2,
+      "after": -11.3,
+      "afterPeak": -4.7,
+      "gainDb": 2.9,
+      "seconds": 2.18,
+      "bytes": 35987,
+      "perceived": -15
+    },
+    "ea9e872d": {
+      "before": -13.7,
+      "beforePeak": -6.4,
+      "after": -10.9,
+      "afterPeak": -3.6,
+      "gainDb": 3.2,
+      "seconds": 2.77,
+      "bytes": 45600,
+      "perceived": -15
+    },
+    "eb1b946f": {
+      "before": -11.8,
+      "beforePeak": -6.1,
+      "after": -10.3,
+      "afterPeak": -4.7,
+      "gainDb": 1.9,
+      "seconds": 4,
+      "bytes": 65244,
+      "perceived": -15
+    },
+    "eb62d576": {
+      "before": -10.9,
+      "beforePeak": -6.3,
+      "after": -10.5,
+      "afterPeak": -5.9,
+      "gainDb": 0.9,
+      "seconds": 2.32,
+      "bytes": 38077,
+      "perceived": -15
+    },
+    "eb980940": {
+      "before": -13.8,
+      "beforePeak": -7,
+      "after": -11,
+      "afterPeak": -4.3,
+      "gainDb": 3.2,
+      "seconds": 2.89,
+      "bytes": 47272,
+      "perceived": -15
+    },
+    "ec49bd43": {
+      "before": -13.7,
+      "beforePeak": -6.5,
+      "after": -10.7,
+      "afterPeak": -3.6,
+      "gainDb": 3.3,
+      "seconds": 2.35,
+      "bytes": 38495,
+      "perceived": -15
+    },
+    "ec4e1387": {
+      "before": -13.1,
+      "beforePeak": -6.4,
+      "after": -10.8,
+      "afterPeak": -4.1,
+      "gainDb": 2.8,
+      "seconds": 2.32,
+      "bytes": 38077,
+      "perceived": -15
+    },
+    "ec74df1e": {
+      "before": -13.5,
+      "beforePeak": -5,
+      "after": -11.6,
+      "afterPeak": -3.2,
+      "gainDb": 2.3,
+      "seconds": 2.55,
+      "bytes": 41838,
+      "perceived": -15
+    },
+    "eceb9116": {
+      "before": -13.7,
+      "beforePeak": -5.9,
+      "after": -11.7,
+      "afterPeak": -3.9,
+      "gainDb": 2.5,
+      "seconds": 1.52,
+      "bytes": 25538,
+      "perceived": -15
+    },
+    "ed6e90b6": {
+      "before": -13.4,
+      "beforePeak": -6.6,
+      "after": -11.4,
+      "afterPeak": -4.6,
+      "gainDb": 2.4,
+      "seconds": 3.01,
+      "bytes": 49362,
+      "perceived": -15
+    },
+    "ee1b5c34": {
+      "before": -13.5,
+      "beforePeak": -6.9,
+      "after": -11,
+      "afterPeak": -4.4,
+      "gainDb": 3,
+      "seconds": 2.86,
+      "bytes": 46854,
+      "perceived": -15
+    },
+    "ee2db5eb": {
+      "before": -13.5,
+      "beforePeak": -7.5,
+      "after": -11.7,
+      "afterPeak": -5.5,
+      "gainDb": 2.4,
+      "seconds": 1.68,
+      "bytes": 28046,
+      "perceived": -15
+    },
+    "ee752977": {
+      "before": -13.6,
+      "beforePeak": -6.6,
+      "after": -11.5,
+      "afterPeak": -4.5,
+      "gainDb": 2.6,
+      "seconds": 2.19,
+      "bytes": 36405,
+      "perceived": -15
+    },
+    "eeed3ecb": {
+      "before": -13.7,
+      "beforePeak": -6.3,
+      "after": -11.3,
+      "afterPeak": -3.9,
+      "gainDb": 2.9,
+      "seconds": 1.74,
+      "bytes": 28882,
+      "perceived": -15
+    },
+    "ef807202": {
+      "before": -14,
+      "beforePeak": -6.7,
+      "after": -11.1,
+      "afterPeak": -3.9,
+      "gainDb": 3.3,
+      "seconds": 3.49,
+      "bytes": 56885,
+      "perceived": -15
+    },
+    "ef855866": {
+      "before": -13.5,
+      "beforePeak": -6.4,
+      "after": -11.5,
+      "afterPeak": -4.4,
+      "gainDb": 2.4,
+      "seconds": 2.37,
+      "bytes": 38913,
+      "perceived": -15
+    },
+    "efbc2bca": {
+      "before": -12,
+      "beforePeak": -6.4,
+      "after": -11.4,
+      "afterPeak": -5.8,
+      "gainDb": 1,
+      "seconds": 2.36,
+      "bytes": 38913,
+      "perceived": -15
+    },
+    "f0b101f6": {
+      "before": -13,
+      "beforePeak": -6.4,
+      "after": -11.4,
+      "afterPeak": -4.6,
+      "gainDb": 2.2,
+      "seconds": 2.16,
+      "bytes": 35569,
+      "perceived": -15
+    },
+    "f100238d": {
+      "before": -11.8,
+      "beforePeak": -5.5,
+      "after": -11.6,
+      "afterPeak": -5.1,
+      "gainDb": 0.8,
+      "seconds": 2.88,
+      "bytes": 47272,
+      "perceived": -15
+    },
+    "f1116607": {
+      "before": -13.9,
+      "beforePeak": -5.5,
+      "after": -11.5,
+      "afterPeak": -2.8,
+      "gainDb": 3.1,
+      "seconds": 1.6,
+      "bytes": 26792,
+      "perceived": -15
+    },
+    "f1593665": {
+      "before": -13.7,
+      "beforePeak": -5.6,
+      "after": -11.4,
+      "afterPeak": -3.3,
+      "gainDb": 2.8,
+      "seconds": 2.2,
+      "bytes": 36405,
+      "perceived": -15
+    },
+    "f1900a40": {
+      "before": -13,
+      "beforePeak": -5.6,
+      "after": -10.5,
+      "afterPeak": -3.1,
+      "gainDb": 2.9,
+      "seconds": 3.67,
+      "bytes": 59811,
+      "perceived": -15
+    },
+    "f19801fd": {
+      "before": -14.2,
+      "beforePeak": -5.6,
+      "after": -10.9,
+      "afterPeak": -2.3,
+      "gainDb": 3.8,
+      "seconds": 2.31,
+      "bytes": 38077,
+      "perceived": -15
+    },
+    "f1b5532e": {
+      "before": -13.3,
+      "beforePeak": -5.1,
+      "after": -10,
+      "afterPeak": -1.9,
+      "gainDb": 3.8,
+      "seconds": 4.67,
+      "bytes": 75693,
+      "perceived": -15
+    },
+    "f1ed63a3": {
+      "before": -13.3,
+      "beforePeak": -5.2,
+      "after": -11.4,
+      "afterPeak": -3.4,
+      "gainDb": 2.3,
+      "seconds": 1.39,
+      "bytes": 23448,
+      "perceived": -15
+    },
+    "f2ae3a2e": {
+      "before": -12.1,
+      "beforePeak": -6.6,
+      "after": -11.7,
+      "afterPeak": -6.2,
+      "gainDb": 0.9,
+      "seconds": 2.4,
+      "bytes": 39331,
+      "perceived": -15
+    },
+    "f2b198f9": {
+      "before": -11.5,
+      "beforePeak": -4.9,
+      "after": -10.8,
+      "afterPeak": -4.1,
+      "gainDb": 1.1,
+      "seconds": 2.73,
+      "bytes": 44764,
+      "perceived": -15
+    },
+    "f32f5dc0": {
+      "before": -12.8,
+      "beforePeak": -7.3,
+      "after": -11.1,
+      "afterPeak": -5.4,
+      "gainDb": 2.3,
+      "seconds": 1.91,
+      "bytes": 31807,
+      "perceived": -15
+    },
+    "f3998f26": {
+      "before": -11.8,
+      "beforePeak": -6.2,
+      "after": -10.5,
+      "afterPeak": -4.9,
+      "gainDb": 1.7,
+      "seconds": 3.44,
+      "bytes": 56049,
+      "perceived": -15
+    },
+    "f414326c": {
+      "before": -13.6,
+      "beforePeak": -4,
+      "after": -11.1,
+      "afterPeak": -1.9,
+      "gainDb": 2.9,
+      "seconds": 2.11,
+      "bytes": 34733,
+      "perceived": -15
+    },
+    "f42235a9": {
+      "before": -12.5,
+      "beforePeak": -6.5,
+      "after": -11.5,
+      "afterPeak": -5.5,
+      "gainDb": 1.5,
+      "seconds": 2.8,
+      "bytes": 46018,
+      "perceived": -15
+    },
+    "f43722ec": {
+      "before": -13.6,
+      "beforePeak": -6.4,
+      "after": -11.4,
+      "afterPeak": -4.3,
+      "gainDb": 2.6,
+      "seconds": 3.05,
+      "bytes": 49780,
+      "perceived": -15
+    },
+    "f4433a76": {
+      "before": -14.4,
+      "beforePeak": -6.7,
+      "after": -10.6,
+      "afterPeak": -2.7,
+      "gainDb": 4.4,
+      "seconds": 2.26,
+      "bytes": 37241,
+      "perceived": -15
+    },
+    "f4890c87": {
+      "before": -13,
+      "beforePeak": -7.1,
+      "after": -10.1,
+      "afterPeak": -4.3,
+      "gainDb": 3.2,
+      "seconds": 2.12,
+      "bytes": 35151,
+      "perceived": -15
+    },
+    "f490d1fb": {
+      "before": -13.2,
+      "beforePeak": -6.6,
+      "after": -11.1,
+      "afterPeak": -4.4,
+      "gainDb": 2.6,
+      "seconds": 2.61,
+      "bytes": 42674,
+      "perceived": -15
+    },
+    "f4a587de": {
+      "before": -13.1,
+      "beforePeak": -5.3,
+      "after": -11.4,
+      "afterPeak": -3.5,
+      "gainDb": 2.2,
+      "seconds": 2.04,
+      "bytes": 33897,
+      "perceived": -15
+    },
+    "f5298ad0": {
+      "before": -13.1,
+      "beforePeak": -6.1,
+      "after": -11.4,
+      "afterPeak": -4.4,
+      "gainDb": 2.2,
+      "seconds": 2.07,
+      "bytes": 34315,
+      "perceived": -15
+    },
+    "f5460c10": {
+      "before": -11.8,
+      "beforePeak": -7,
+      "after": -11.4,
+      "afterPeak": -6.1,
+      "gainDb": 1.4,
+      "seconds": 1.92,
+      "bytes": 31807,
+      "perceived": -15
+    },
+    "f598732b": {
+      "before": -13.9,
+      "beforePeak": -6.5,
+      "after": -11.8,
+      "afterPeak": -4.4,
+      "gainDb": 2.5,
+      "seconds": 2.85,
+      "bytes": 46854,
+      "perceived": -15
+    },
+    "f6958b23": {
+      "before": -11.4,
+      "beforePeak": -5.1,
+      "after": -10.9,
+      "afterPeak": -4.5,
+      "gainDb": 1,
+      "seconds": 2.2,
+      "bytes": 36405,
+      "perceived": -15
+    },
+    "f6b9e527": {
+      "before": -11,
+      "beforePeak": -6.4,
+      "after": -9.4,
+      "afterPeak": -4.9,
+      "gainDb": 1.9,
+      "seconds": 1.55,
+      "bytes": 25956,
+      "perceived": -15
+    },
+    "f6c7516d": {
+      "before": -13.5,
+      "beforePeak": -5,
+      "after": -12.2,
+      "afterPeak": -3.7,
+      "gainDb": 1.7,
+      "seconds": 1.99,
+      "bytes": 33061,
+      "perceived": -15
+    },
+    "f8b47133": {
+      "before": -11.9,
+      "beforePeak": -6.2,
+      "after": -10.6,
+      "afterPeak": -4.8,
+      "gainDb": 1.9,
+      "seconds": 3.07,
+      "bytes": 50198,
+      "perceived": -15
+    },
+    "f9279111": {
+      "before": -11.8,
+      "beforePeak": -6.6,
+      "after": -10.6,
+      "afterPeak": -5.4,
+      "gainDb": 1.6,
+      "seconds": 2.67,
+      "bytes": 43928,
+      "perceived": -15
+    },
+    "f990d848": {
+      "before": -12.4,
+      "beforePeak": -5.4,
+      "after": -10.5,
+      "afterPeak": -3.6,
+      "gainDb": 2.3,
+      "seconds": 3.63,
+      "bytes": 58975,
+      "perceived": -15
+    },
+    "f999528c": {
+      "before": -12.8,
+      "beforePeak": -5.7,
+      "after": -10.5,
+      "afterPeak": -3.3,
+      "gainDb": 2.8,
+      "seconds": 4.94,
+      "bytes": 80291,
+      "perceived": -15
+    },
+    "faa7791b": {
+      "before": -12.4,
+      "beforePeak": -4.8,
+      "after": -11.1,
+      "afterPeak": -3.6,
+      "gainDb": 1.7,
+      "seconds": 1.92,
+      "bytes": 31807,
+      "perceived": -15
+    },
+    "faf48425": {
+      "before": -13.4,
+      "beforePeak": -4.7,
+      "after": -10.9,
+      "afterPeak": -2.2,
+      "gainDb": 2.9,
+      "seconds": 4.32,
+      "bytes": 70260,
+      "perceived": -15
+    },
+    "fb0cf694": {
+      "before": -12.3,
+      "beforePeak": -6.4,
+      "after": -10.8,
+      "afterPeak": -5,
+      "gainDb": 1.8,
+      "seconds": 2.55,
+      "bytes": 41838,
+      "perceived": -15
+    },
+    "fb275968": {
+      "before": -14,
+      "beforePeak": -5.9,
+      "after": -10.8,
+      "afterPeak": -2.8,
+      "gainDb": 3.6,
+      "seconds": 2.49,
+      "bytes": 41003,
+      "perceived": -15
+    },
+    "fb8a5351": {
+      "before": -13.8,
+      "beforePeak": -6.4,
+      "after": -11.2,
+      "afterPeak": -4,
+      "gainDb": 2.8,
+      "seconds": 2.31,
+      "bytes": 38077,
+      "perceived": -15
+    },
+    "fb9fce6c": {
+      "before": -13.4,
+      "beforePeak": -6.5,
+      "after": -10.4,
+      "afterPeak": -3.5,
+      "gainDb": 3.4,
+      "seconds": 3.64,
+      "bytes": 59393,
+      "perceived": -15
+    },
+    "fbedc6d2": {
+      "before": -13,
+      "beforePeak": -6.7,
+      "after": -10.6,
+      "afterPeak": -3.9,
+      "gainDb": 3.2,
+      "seconds": 2.9,
+      "bytes": 47272,
+      "perceived": -15
+    },
+    "fc990882": {
+      "before": -11.5,
+      "beforePeak": -6.7,
+      "after": -11.7,
+      "afterPeak": -7.2,
+      "gainDb": 0,
+      "seconds": 2.5,
+      "bytes": 41003,
+      "perceived": -15.7
+    },
+    "ff0a67a6": {
+      "before": -12.1,
+      "beforePeak": -4.6,
+      "after": -11.1,
+      "afterPeak": -3.5,
+      "gainDb": 1.5,
+      "seconds": 4.98,
+      "bytes": 80709,
+      "perceived": -15
+    },
+    "ff12d81b": {
+      "before": -13.5,
+      "beforePeak": -5.1,
+      "after": -11.2,
+      "afterPeak": -3,
+      "gainDb": 2.6,
+      "seconds": 2.27,
+      "bytes": 37659,
+      "perceived": -15
+    },
+    "ff134fa5": {
+      "before": -13.2,
+      "beforePeak": -4.9,
+      "after": -11.2,
+      "afterPeak": -3,
+      "gainDb": 2.4,
+      "seconds": 2.71,
+      "bytes": 44346,
+      "perceived": -15
+    },
+    "ffd72b56": {
+      "before": -11.4,
+      "beforePeak": -6.7,
+      "after": -10.6,
+      "afterPeak": -5.5,
+      "gainDb": 1.6,
+      "seconds": 2.79,
+      "bytes": 45600,
+      "perceived": -15
+    }
+  }
+}

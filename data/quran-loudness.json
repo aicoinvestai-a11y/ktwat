@@ -1,0 +1,187 @@
+{
+  "note": "معايرة تلاوات القرآن على جَهارة موحّدة (−16 LUFS) بكسب وحدّ ذروة فقط، بلا ضغط وبلا أي تغيير في التلاوة",
+  "level": -16,
+  "peakCeiling": -1.5,
+  "targets": {
+    "1": {
+      "before": -13.8,
+      "beforePeak": -5.3,
+      "after": -12.7,
+      "afterPeak": -4.6,
+      "gainDb": 1.1,
+      "seconds": 0.17,
+      "bytes": 1039355,
+      "perceived": -16.1
+    },
+    "94": {
+      "before": -13.4,
+      "beforePeak": -0.6,
+      "after": -12.5,
+      "afterPeak": -1.9,
+      "gainDb": 1.5,
+      "seconds": 42.21,
+      "bytes": 861203,
+      "perceived": -16.1
+    },
+    "95": {
+      "before": -13,
+      "beforePeak": -0.3,
+      "after": -12.3,
+      "afterPeak": -1.9,
+      "gainDb": 1.3,
+      "seconds": 64.24,
+      "bytes": 1299532,
+      "perceived": -16.1
+    },
+    "97": {
+      "before": -14.3,
+      "beforePeak": -1.1,
+      "after": -14.8,
+      "afterPeak": -1.9,
+      "gainDb": 0,
+      "seconds": 6.64,
+      "bytes": 904039,
+      "perceived": -15.9
+    },
+    "99": {
+      "before": -14.3,
+      "beforePeak": -0.4,
+      "after": -12.6,
+      "afterPeak": -1.9,
+      "gainDb": 2.2,
+      "seconds": 58.93,
+      "bytes": 1200793,
+      "perceived": -16.2
+    },
+    "101": {
+      "before": -9.9,
+      "beforePeak": -0.4,
+      "after": -14.7,
+      "afterPeak": -3.5,
+      "gainDb": -2.1,
+      "seconds": 7.57,
+      "bytes": 1251992,
+      "perceived": -15.8
+    },
+    "102": {
+      "before": -11.3,
+      "beforePeak": -0.3,
+      "after": -11.9,
+      "afterPeak": -1.9,
+      "gainDb": -0.8,
+      "seconds": 7.57,
+      "bytes": 1253040,
+      "perceived": -15.9
+    },
+    "103": {
+      "before": -11.5,
+      "beforePeak": -0.3,
+      "after": -12.1,
+      "afterPeak": -1.9,
+      "gainDb": 0,
+      "seconds": 26.57,
+      "bytes": 549296,
+      "perceived": -15.6
+    },
+    "105": {
+      "before": -12.7,
+      "beforePeak": -0.5,
+      "after": -13.1,
+      "afterPeak": -1.9,
+      "gainDb": 0,
+      "seconds": 6.92,
+      "bytes": 975092,
+      "perceived": -16.3
+    },
+    "106": {
+      "before": -14.7,
+      "beforePeak": -0.7,
+      "after": -12.6,
+      "afterPeak": -1.9,
+      "gainDb": 2.6,
+      "seconds": 41.43,
+      "bytes": 851795,
+      "perceived": -16.1
+    },
+    "107": {
+      "before": -16.6,
+      "beforePeak": -3.5,
+      "after": -14.8,
+      "afterPeak": -1.9,
+      "gainDb": 2.4,
+      "seconds": 6.86,
+      "bytes": 1152204,
+      "perceived": -16.1
+    },
+    "108": {
+      "before": -14.6,
+      "beforePeak": -2.5,
+      "after": -11.9,
+      "afterPeak": -1.9,
+      "gainDb": 3.1,
+      "seconds": 6.96,
+      "bytes": 491309,
+      "perceived": -16.1
+    },
+    "109": {
+      "before": -16.1,
+      "beforePeak": -3.4,
+      "after": -16.5,
+      "afterPeak": -3.8,
+      "gainDb": 0,
+      "seconds": 6.91,
+      "bytes": 1086379,
+      "perceived": -16.6
+    },
+    "110": {
+      "before": -14.6,
+      "beforePeak": -1.6,
+      "after": -13.2,
+      "afterPeak": -1.9,
+      "gainDb": 2.3,
+      "seconds": 7.64,
+      "bytes": 699763,
+      "perceived": -16.1
+    },
+    "111": {
+      "before": -16.9,
+      "beforePeak": -2,
+      "after": -15.1,
+      "afterPeak": -1.9,
+      "gainDb": 2.2,
+      "seconds": 7.13,
+      "bytes": 832467,
+      "perceived": -16.1
+    },
+    "112": {
+      "before": -12.5,
+      "beforePeak": -0.4,
+      "after": -11.8,
+      "afterPeak": -1.9,
+      "gainDb": 1.2,
+      "seconds": 20.54,
+      "bytes": 434883,
+      "perceived": -16.1
+    },
+    "113": {
+      "before": -13.2,
+      "beforePeak": -0.8,
+      "after": -12.2,
+      "afterPeak": -1.9,
+      "gainDb": 1.5,
+      "seconds": 31.83,
+      "bytes": 662147,
+      "perceived": -16.1
+    },
+    "114": {
+      "before": -10.3,
+      "beforePeak": -0.4,
+      "after": -12.7,
+      "afterPeak": -2.7,
+      "gainDb": -1.9,
+      "seconds": 49.79,
+      "bytes": 1001737,
+      "perceived": -15.9
+    }
+  }
+}

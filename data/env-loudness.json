@@ -1,0 +1,107 @@
+{
+  "note": "معايرة أصوات البيئة على جَهارة مسموعة موحّدة (−18 LUFS) بذروة ≤ −2 dBTP حتى لا يُفاجئ أي صوت الطفل ولا يكون منخفضاً",
+  "level": -18,
+  "peakCeiling": -2,
+  "targets": {
+    "ambulance": {
+      "before": -14.1,
+      "beforePeak": -1.4,
+      "after": -45.6,
+      "afterPeak": -38.8,
+      "gainDb": -7.1,
+      "seconds": 0.23,
+      "bytes": 518570,
+      "perceived": -17.4
+    },
+    "birds": {
+      "before": -44.9,
+      "beforePeak": -36.9,
+      "after": -20.8,
+      "afterPeak": -3.3,
+      "gainDb": 21.2,
+      "seconds": 49.48,
+      "bytes": 516960,
+      "perceived": -18
+    },
+    "car-horn": {
+      "before": -47.8,
+      "beforePeak": -38.7,
+      "after": -10.8,
+      "afterPeak": -4.2,
+      "gainDb": -2.9,
+      "seconds": 0.57,
+      "bytes": 310022,
+      "perceived": -17.6
+    },
+    "cat": {
+      "before": -9.7,
+      "beforePeak": 0,
+      "after": -16.1,
+      "afterPeak": -6.4,
+      "gainDb": -6.4,
+      "seconds": 1.19,
+      "bytes": 133848,
+      "perceived": -18
+    },
+    "cow": {
+      "before": -45.5,
+      "beforePeak": -30.7,
+      "after": -47.1,
+      "afterPeak": -33.1,
+      "gainDb": -3.3,
+      "seconds": 0.2,
+      "bytes": 35441,
+      "perceived": -17.5
+    },
+    "dog": {
+      "before": -9.1,
+      "beforePeak": 0,
+      "after": -99,
+      "afterPeak": -99,
+      "gainDb": -3.3,
+      "seconds": 0.15,
+      "bytes": 31929,
+      "perceived": -17.9
+    },
+    "horse": {
+      "before": -25.2,
+      "beforePeak": -12.7,
+      "after": -16.9,
+      "afterPeak": -5.3,
+      "gainDb": 8.3,
+      "seconds": 2.27,
+      "bytes": 20419,
+      "perceived": -18
+    },
+    "plane": {
+      "before": -43.8,
+      "beforePeak": -35.4,
+      "after": -43.3,
+      "afterPeak": -36.5,
+      "gainDb": -1.7,
+      "seconds": 0.24,
+      "bytes": 617478,
+      "perceived": -18
+    },
+    "rooster": {
+      "before": -9.8,
+      "beforePeak": -3,
+      "after": -16.1,
+      "afterPeak": -9.3,
+      "gainDb": -6.5,
+      "seconds": 1.91,
+      "bytes": 35731,
+      "perceived": -18
+    },
+    "sheep": {
+      "before": -7.2,
+      "beforePeak": 0,
+      "after": -17.4,
+      "afterPeak": -9.8,
+      "gainDb": -10,
+      "seconds": 1.14,
+      "bytes": 18426,
+      "perceived": -15.7
+    }
+  }
+}

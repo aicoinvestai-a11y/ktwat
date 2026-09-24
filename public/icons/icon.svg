@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="شعار خطوتي">
+  <rect width="512" height="512" rx="112" fill="#fbfaf7"/>
+  <circle cx="256" cy="200" r="92" fill="#ffe087"/>
+  <path d="M256 320c-70 0-128 42-128 94 0 12 10 22 22 22h212c12 0 22-10 22-22 0-52-58-94-128-94z" fill="#4dbc8e"/>
+  <circle cx="228" cy="192" r="12" fill="#26313d"/>
+  <circle cx="284" cy="192" r="12" fill="#26313d"/>
+  <path d="M226 232c18 18 42 18 60 0" stroke="#c65520" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M120 392c40-24 92-32 136-24" stroke="#82d7b1" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <path d="M392 392c-40-24-92-32-136-24" stroke="#82d7b1" stroke-width="16" fill="none" stroke-linecap="round"/>
+</svg>
